@@ -15,7 +15,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-github-metadata
-  - jekyll-remote-theme
 
 # Exclude from processing
 exclude:
