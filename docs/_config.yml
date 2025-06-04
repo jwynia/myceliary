@@ -1,8 +1,8 @@
 # Site settings
 title: Myceliary
 description: A research project exploring anti-capitalist frameworks and patterns in AI/ML
-url: "https://jwynia.github.io"
-baseurl: "/myceliary"
+url: "https://myceliary.com"
+baseurl: ""
 github_username: jwynia
 repository: jwynia/myceliary
 
