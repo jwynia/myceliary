@@ -1,0 +1,25 @@
+# Site settings
+title: Myceliary
+description: A research project exploring anti-capitalist frameworks and patterns in AI/ML
+url: "https://jwynia.github.io"
+baseurl: "/myceliary/site"
+github_username: jwynia
+repository: jwynia/myceliary
+
+# Theme settings
+theme: minima
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git

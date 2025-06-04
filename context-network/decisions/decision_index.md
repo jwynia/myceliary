@@ -15,7 +15,7 @@ This document serves as an index of all key decisions made for the project, prov
 
 | ID | Title | Status | Date | Domain | Summary |
 |----|-------|--------|------|--------|---------|
-| [Template] | [Decision Title] | [Status] | [Date] | [Domain] | [Brief summary of the decision] |
+| 001 | Jekyll Development Environment Setup | Accepted | 2025-06-04 | Infrastructure | Implementation of Jekyll in devcontainer using Ruby 3.1.2p20 |
 
 ### Decision Status Legend
 
@@ -30,9 +30,9 @@ This document serves as an index of all key decisions made for the project, prov
 <!-- Categories should be customized based on project type -->
 
 <!-- For Software Projects -->
-- **Frontend**: [List of decision IDs related to frontend]
-- **Backend**: [List of decision IDs related to backend]
-- **DevOps**: [List of decision IDs related to DevOps]
+- **Frontend**: []
+- **Backend**: []
+- **DevOps**: [001]
 - **Data**: [List of decision IDs related to data]
 - **Security**: [List of decision IDs related to security]
 - **Architecture**: [List of decision IDs related to overall architecture]
@@ -56,10 +56,10 @@ This document serves as an index of all key decisions made for the project, prov
 - **Integration**: [List of decision IDs related to external integrations]
 
 #### By Status
-- **Proposed**: [List of decision IDs with proposed status]
-- **Accepted**: [List of decision IDs with accepted status]
-- **Deprecated**: [List of decision IDs with deprecated status]
-- **Superseded**: [List of decision IDs with superseded status]
+- **Proposed**: []
+- **Accepted**: [001]
+- **Deprecated**: []
+- **Superseded**: []
 
 ### Decision Relationships
 

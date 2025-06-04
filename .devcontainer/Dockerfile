@@ -30,6 +30,16 @@ RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && apt-get -y install --no-install-recommends jq
 
+# Install Ruby and Jekyll dependencies
+RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
+    && apt-get -y install --no-install-recommends \
+        ruby-full \
+        build-essential \
+        zlib1g-dev
+
+# Install Jekyll and Bundler
+RUN gem install jekyll bundler
+
 # Clean up
 RUN apt-get autoremove -y \
     && apt-get clean -y \
