@@ -1,125 +1,108 @@
-# Element Dependencies
+# Framework Dependencies and Relationships
 
 ## Purpose
-This document maps the dependencies between different elements of the project, helping to understand how changes in one element might impact others.
+This node documents the dependencies and relationships between different frameworks, processes, and components within the Myceliary project. It helps maintain coherence and enables effective navigation between interconnected elements.
 
 ## Classification
-- **Domain:** Structure
-- **Stability:** Semi-stable
+- **Domain:** Connections
+- **Stability:** Dynamic
 - **Abstraction:** Structural
-- **Confidence:** Established
+- **Confidence:** Evolving
 
 ## Content
 
-### Dependency Overview
+### Core Framework Relationships
 
-[Provide a high-level overview of the dependencies between project elements]
+#### Project Definition → Analysis Frameworks
+- **Relationship Type:** implements
+- **Direction:** foundation/project_definition.md → analysis/frameworks/*
+- **Description:** The project definition establishes the core vision and goals that the analysis frameworks implement through specific methodologies and tools.
+- **Key Dependencies:**
+  - Anti-capitalist framework implements core project vision for identifying liberatory AI applications
+  - Capitalist trap detector implements project goal of avoiding co-optation
+  - Research process implements project commitment to ongoing learning and adaptation
 
-```mermaid
-graph TD
-    A[Element A] --> B[Element B]
-    A --> C[Element C]
-    B --> D[Element D]
-    C --> D
-    C --> E[Element E]
-    D --> F[Element F]
-    E --> F
-```
+#### Anti-Capitalist Framework ↔ Capitalist Trap Detector
+- **Relationship Type:** complements
+- **Direction:** Bidirectional
+- **Description:** These frameworks work together to both identify positive opportunities and avoid potential pitfalls.
+- **Key Dependencies:**
+  - Anti-capitalist framework identifies opportunities that trap detector helps validate
+  - Trap detector findings inform refinement of anti-capitalist framework
+  - Both frameworks share common theoretical foundations and principles
 
-### Critical Dependencies
+#### Research Process → Analysis Frameworks
+- **Relationship Type:** supports
+- **Direction:** processes/research.md → analysis/frameworks/*
+- **Description:** The research process provides methodological support for applying and refining both analysis frameworks.
+- **Key Dependencies:**
+  - Research queries inform opportunity identification in anti-capitalist framework
+  - Research methodology supports trap detection and validation
+  - Ongoing monitoring enables framework evolution and refinement
 
-[List and describe the most critical dependencies in the project]
+### Process Integration Points
 
-#### [Element A] → [Element B]
-- **Dependency Type:** [Type of dependency]
-- **Description:** [Description of how Element A depends on Element B]
-- **Impact of Changes:** [Description of how changes in Element B might impact Element A]
-- **Stability:** [Assessment of the stability of this dependency]
+#### Research → Analysis
+- **Relationship Type:** relates-to
+- **Direction:** processes/research.md → processes/analysis.md
+- **Description:** Research findings feed into analysis processes for evaluation and synthesis.
+- **Key Dependencies:**
+  - Research categories align with analysis needs
+  - Analysis methods incorporate research outputs
+  - Both processes share common evaluation criteria
 
-#### [Element B] → [Element D]
-- **Dependency Type:** [Type of dependency]
-- **Description:** [Description of how Element B depends on Element D]
-- **Impact of Changes:** [Description of how changes in Element D might impact Element B]
-- **Stability:** [Assessment of the stability of this dependency]
+#### Analysis → Synthesis
+- **Relationship Type:** relates-to
+- **Direction:** processes/analysis.md → processes/synthesis.md
+- **Description:** Analysis outputs are synthesized into actionable insights and framework improvements.
+- **Key Dependencies:**
+  - Analysis patterns inform synthesis priorities
+  - Synthesis methods build on analysis findings
+  - Both processes contribute to framework evolution
 
-#### [Element C] → [Element D]
-- **Dependency Type:** [Type of dependency]
-- **Description:** [Description of how Element C depends on Element D]
-- **Impact of Changes:** [Description of how changes in Element D might impact Element C]
-- **Stability:** [Assessment of the stability of this dependency]
+### Framework Evolution Dependencies
 
-### Dependency Types
+#### Temporal Dependencies
+- Research findings → Framework updates
+- Implementation experiences → Trap detection refinement
+- Community feedback → Process adaptation
 
-[Describe the different types of dependencies that exist in the project]
-
-#### Data Dependencies
-[Description of data dependencies]
-
-#### Functional Dependencies
-[Description of functional dependencies]
-
-#### Sequential Dependencies
-[Description of sequential dependencies]
-
-#### Resource Dependencies
-[Description of resource dependencies]
-
-### Dependency Management
-
-[Describe the approach to managing dependencies in the project]
-
-#### Dependency Analysis
-[Description of how dependencies are analyzed]
-
-#### Dependency Documentation
-[Description of how dependencies are documented]
-
-#### Dependency Validation
-[Description of how dependencies are validated]
-
-#### Dependency Change Management
-[Description of how changes to dependencies are managed]
-
-### Dependency Risks
-
-[Describe the risks associated with dependencies in the project]
-
-#### High-Risk Dependencies
-[List and describe high-risk dependencies]
-
-#### Dependency Risk Mitigation
-[Describe strategies for mitigating dependency risks]
-
-### Dependency Metrics
-
-[Describe metrics used to measure and monitor dependencies]
-
-#### Dependency Count
-[Description of dependency count metrics]
-
-#### Dependency Stability
-[Description of dependency stability metrics]
-
-#### Dependency Cycle Detection
-[Description of dependency cycle detection metrics]
+#### Knowledge Flow
+- Research → Analysis → Synthesis → Framework Refinement
+- Practice → Documentation → Pattern Recognition → Theory Development
+- Community Input → Validation → Integration → Evolution
 
 ## Relationships
-- **Parent Nodes:** [foundation/structure.md]
-- **Child Nodes:** None
-- **Related Nodes:** 
-  - [connections/interfaces.md] - details - Interfaces between elements
-  - [elements/*] - depends-on - Elements with dependencies
+- **Parent Nodes:**
+  - foundation/structure.md - is-child-of - Implements project structure
+- **Child Nodes:**
+  - None currently defined
+- **Related Nodes:**
+  - foundation/project_definition.md - implements - Reflects core project relationships
+  - meta/updates.md - relates-to - Tracks changes in relationships over time
 
-## Navigation Guidance
-- **Access Context:** Use this document when analyzing the impact of changes or understanding project structure
-- **Common Next Steps:** After reviewing dependencies, typically explore specific elements or interfaces
-- **Related Tasks:** Impact analysis, change planning, architecture review
-- **Update Patterns:** This document should be updated when new dependencies are introduced or existing ones change
+## Navigation Guide
+- **When to Use:**
+  - When understanding how different project components interact
+  - When planning changes that may affect multiple frameworks
+  - When tracing impact paths through the project
+  - When maintaining framework coherence
+
+- **Next Steps:**
+  1. Review related nodes for specific component details
+  2. Check meta/updates.md for recent relationship changes
+  3. Validate relationships through practical application
+
+- **Related Tasks:**
+  - Framework integration planning
+  - Change impact analysis
+  - Dependency validation
+  - Relationship maintenance
 
 ## Metadata
-- **Created:** 5/16/2025
-- **Last Updated:** 5/16/2025
-- **Updated By:** Context Network Update
+- **Created:** 2025-06-03
+- **Last Updated:** 2025-06-03
+- **Updated By:** Cline (Document Integration Task)
 
 ## Change History
-- 5/16/2025: Created from cross-domain/dependencies.md with more generic terminology
+- 2025-06-03: Initial documentation of relationships between newly integrated frameworks

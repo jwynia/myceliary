@@ -149,6 +149,7 @@ Evaluate the quality of synthesis using these criteria:
 - **Child Nodes:** None
 - **Related Nodes:** 
   - [processes/analysis.md] - follows - Process for analyzing source materials
+  - [processes/research.md] - relates-to - Research methodology that informs synthesis
   - [analysis/findings/] - synthesizes - Findings from analysis
   - [tools/requirements/] - generates - Tool requirements based on synthesis
   - [meta/updates.md] - records - Documentation of synthesis activities

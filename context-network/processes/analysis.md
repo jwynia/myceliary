@@ -158,6 +158,7 @@ Throughout the analysis process, maintain quality through:
 - **Related Nodes:** 
   - [processes/ingestion.md] - follows - Process for ingesting source materials
   - [processes/synthesis.md] - precedes - Process for synthesizing findings
+  - [processes/research.md] - relates-to - Provides research methodology that feeds into analysis
   - [analysis/frameworks/] - applies - Frameworks used in analysis
   - [meta/updates.md] - records - Documentation of analysis activities
 

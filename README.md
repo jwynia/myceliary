@@ -1,149 +1,104 @@
-# Analysis Context Network
+# Myceliary - Anti-Capitalist AI Framework Project
 
-This project is a specialized template for a context network focused on document, repository, and log analysis (more info about context networks at https://jwynia.github.io/context-networks/). It is designed to support projects where users need to analyze collections of documents, code repositories, log files, or similar sets of materials, and build a structured understanding of these materials using LLM agents.
+This project develops and shares frameworks for identifying, evaluating, and building AI and LLM applications that serve human needs outside of or in opposition to capitalist structures. Rather than cataloging specific use cases, we focus on inquiry methodologies, evaluation frameworks, and collaborative tools that help communities and technologists discover opportunities where AI could genuinely serve liberation rather than extraction.
 
-## Purpose
+## Core Problem
 
-This template provides a specialized structure for:
+Most AI development follows profit-driven patterns, creating tools that optimize exploitation, extract data for corporate benefit, or provide technological solutions to problems created by capitalism itself. Meanwhile, genuine human needs that capitalism systematically ignores or actively harms remain unaddressed by AI innovation. Communities need frameworks to identify these gaps, evaluate proposed solutions for hidden traps, and build genuinely community-controlled alternatives.
 
-1. **Organizing Source Materials**: Tracking and managing documents, repositories, logs, or datasets that need to be analyzed
-2. **Documenting Analysis Frameworks**: Capturing the methodologies and approaches used to analyze materials
-3. **Recording Analysis Artifacts**: Systematically documenting entities, patterns, and relationships discovered during analysis
-4. **Synthesizing Findings**: Developing coherent insights from analysis results
-5. **Specifying Tool Requirements**: Documenting requirements for tools that can work with the analyzed materials
+## Primary Frameworks
 
-The template is particularly useful for:
+### Framework for Identifying Anti-Capitalist AI Applications
+- Systematic inquiry methodology for discovering AI applications outside capitalist incentives
+- Analysis tools for market failure spaces, counter-hegemonic potential, and democratization opportunities
+- Integration of temporal, ecological, epistemological, and security considerations
+- Community-centered evaluation criteria and implementation guidance
 
-- Research projects involving document analysis
-- Code repository audits and understanding
-- Log analysis and pattern identification
-- Dataset exploration and insight generation
-- Requirements gathering for tool development based on analysis findings
+### Capitalist Trap Detection and Solution Strengthening Framework
+- Methods for identifying when AI solutions that appear helpful actually serve capitalist interests
+- Analysis tools for common trap patterns: efficiency, individualization, platform dependency, data extraction, innovation theater, and algorithmic gatekeeping
+- Systematic process for strengthening community-controlled alternatives
+- Evaluation checklists and red flag identification systems
 
-## Structure
+### Research Query Framework
+- Structured approach to ongoing research and monitoring
+- Query categories from basic web search to deep research reports
+- Temporal organization for one-time foundational research and ongoing monitoring
+- Crisis-responsive and geographically diverse research strategies
 
-The context network is organized into specialized sections:
+## Target Audiences
+
+**Primary Users:**
+- Community organizers and activists exploring technology tools
+- Technologists seeking to redirect their work toward liberatory purposes
+- Researchers studying community technology and digital justice
+- Cooperative and solidarity economy practitioners
+- Digital rights and algorithmic justice advocates
+
+**Secondary Users:**
+- Grant makers and funding organizations evaluating community technology projects
+- Policy researchers analyzing alternatives to corporate AI development
+- Academic researchers in critical technology studies
+- Community organizations assessing technology proposals or partnerships
+
+## Context Network Structure
+
+This project uses a context network to organize its knowledge and frameworks. The network is structured as follows:
 
 ```
 context-network/
-├── discovery.md                    # Navigation guide with analysis focus
 ├── foundation/                     # Core project information
-│   ├── project_definition.md       # Analysis project goals
-│   ├── structure.md                # Project structure overview
-│   ├── principles.md               # Analysis principles and standards
-│   └── analysis_approach.md        # Overall analysis methodology
-├── source_material/                # Information about source materials
-│   ├── inventory.md                # Catalog of all source materials
-│   ├── acquisition.md              # How materials were acquired
-│   └── preprocessing.md            # Any preprocessing applied
-├── analysis/                       # Analysis-specific information
-│   ├── frameworks/                 # Analysis frameworks used
-│   ├── patterns/                   # Identified patterns
-│   ├── entities/                   # Key entities discovered
-│   ├── relationships/              # Relationships between entities
-│   └── findings/                   # Key findings from analysis
-├── processes/                      # Process documentation
-│   ├── ingestion.md                # Source material ingestion process
-│   ├── analysis.md                 # Analysis workflows
-│   ├── validation.md               # Validation procedures
-│   └── synthesis.md                # Synthesizing findings
-├── tools/                          # Tools for analysis
-│   ├── requirements/               # Tool requirements
-│   ├── evaluations/                # Tool evaluations
-│   └── workflows/                  # Tool workflows
-└── [additional standard sections]  # Decisions, connections, meta, etc.
+│   ├── project_definition.md       # Project goals and vision
+│   ├── principles.md              # Guiding principles
+│   └── analysis_approach.md       # Overall methodology
+├── analysis/                      # Analysis frameworks
+│   ├── frameworks/                # Core analysis tools
+│   ├── patterns/                  # Identified patterns
+│   └── findings/                  # Key findings
+├── processes/                     # Process documentation
+│   ├── research.md               # Research methodology
+│   ├── analysis.md               # Analysis workflows
+│   └── synthesis.md              # Finding synthesis
+└── [additional sections]         # Decisions, connections, etc.
 ```
 
 ## Getting Started
 
-1. **Set Up Your Environment**:
-   - Clone this template repository
-   - Ensure you have an LLM agent with file access (see Tools section below)
-   - Configure your agent with context network instructions
+1. **Understand the Project**:
+   - Read `foundation/project_definition.md` for project goals and vision
+   - Review `foundation/principles.md` for guiding principles
+   - Explore `foundation/analysis_approach.md` for methodology
 
-2. **Define Your Analysis Project**:
-   - Update `foundation/project_definition.md` with your specific analysis goals
-   - Document your analysis approach in `foundation/analysis_approach.md`
+2. **Use the Frameworks**:
+   - `analysis/frameworks/anti_capitalist_framework.md` for identifying opportunities
+   - `analysis/frameworks/capitalist_trap_detector.md` for evaluating solutions
+   - `processes/research.md` for research methodology
 
-3. **Begin Source Material Management**:
-   - Document your source materials in `source_material/inventory.md`
-   - Record acquisition details in `source_material/acquisition.md`
-   - Document any preprocessing in `source_material/preprocessing.md`
+3. **Contribute**:
+   - Follow the process in `processes/document_integration.md`
+   - Use templates from relevant directories
+   - Document your findings in appropriate sections
 
-4. **Start Analysis**:
-   - Follow the process in `processes/analysis.md`
-   - Use the templates in `analysis/` directories to document your findings
-   - Synthesize insights following `processes/synthesis.md`
+## Development Approach
 
-5. **Develop Tool Requirements**:
-   - Document tool requirements in `tools/requirements/` based on your analysis
+### Community-Centered Development
+- Framework development guided by feedback from communities actually using these tools
+- Regular testing and iteration based on real-world application experiences
+- Governance structures that maintain community accountability
+- Integration with existing community technology and organizing networks
 
-## Analysis Workflow
+### Anti-Capitalist Infrastructure
+- Project sustainability through grants and donations that don't compromise independence
+- Governance structures that prevent mission drift or co-optation
+- Technology choices that maintain community control
+- Resource sharing with other community technology and organizing projects
 
-The typical workflow for an analysis project using this template:
+## Long-Term Vision
 
-1. **Acquisition**: Identify and acquire source materials
-2. **Ingestion**: Document and preprocess materials
-3. **Framework Selection**: Choose appropriate analysis frameworks
-4. **Analysis**: Identify entities, patterns, and relationships
-5. **Synthesis**: Develop findings and insights
-6. **Tool Requirements**: Specify requirements for tools based on analysis
+This project aims to contribute to a broader ecosystem of community-controlled technology development that serves liberation rather than extraction. We envision communities equipped with analysis tools that help them navigate technological choices with clear anti-capitalist frameworks, resist corporate co-optation of their initiatives, and build genuinely community-controlled alternatives that strengthen collective power and mutual aid.
 
-## Tools
+The frameworks developed here should become tools that communities adapt and improve based on their own needs and contexts, contributing to a knowledge commons that strengthens community technology work across diverse struggles and geographies. Success means these frameworks become unnecessary because communities have internalized the analysis and developed their own locally appropriate tools for community-controlled technology development.
 
-Context networks are intended to be used with an LLM agent that has file access to all of the files in the project folder.
+---
 
-Recommended tools include:
-
-- **Cursor** (https://www.cursor.com/): All-in-one IDE with LLM chat and file access
-- **VSCode** (https://code.visualstudio.com/) with **Cline** (https://cline.bot/): Code editor with agent capabilities
-- **OpenRouter** (https://openrouter.ai/): Access to various LLM models
-
-## Best Practices
-
-### Classification System
-
-This template includes an enhanced classification system specifically for analysis projects:
-
-1. **Domain**: Primary knowledge area (Source Material, Analysis Framework, Pattern, Entity, Relationship, Finding, Tool)
-2. **Source Type**: Type of source material (Document, Repository, Log, Dataset, Mixed)
-3. **Analysis Stage**: Stage in the analysis process (Raw, Processed, Analyzed, Synthesized)
-4. **Stability**: Change frequency expectation (Static, Semi-stable, Dynamic)
-5. **Abstraction**: Detail level (Conceptual, Structural, Detailed)
-6. **Confidence**: Information reliability (Established, Evolving, Speculative)
-7. **Relevance**: Importance to analysis goals (Critical, High, Medium, Low)
-
-### Relationship Types
-
-The template includes specialized relationship types for analysis:
-
-1. **Analysis Relationships**:
-   - `extracted-from`: Information extracted from source
-   - `supports`: Evidence supporting a finding
-   - `contradicts`: Evidence contradicting a finding
-   - `correlates-with`: Statistical correlation
-   - `causes`: Causal relationship
-   - `instance-of`: Example of a pattern
-
-2. **Source Material Relationships**:
-   - `version-of`: Different versions of same material
-   - `derived-from`: Processed form of source
-   - `references`: References another source
-   - `contains`: Contains another source
-
-### Plan/Act and Specific Scope
-
-Use Plan mode aggressively to develop a clear analysis strategy before taking action. Break down complex analysis tasks into specific, manageable steps.
-
-### Monitor and Validate
-
-Regularly review analysis artifacts for accuracy and completeness. Validate findings against source materials and document confidence levels appropriately.
-
-### Retrospective
-
-Periodically review your analysis process and findings to identify improvements. Update the context network with lessons learned and refinements to your approach.
-
-## Additional Resources
-
-- Context Networks Guide: https://jwynia.github.io/context-networks/
-- Custom Instructions: See `/inbox/custom-instructions-prompt.md` for agent configuration
+*This project is developed through community collaboration and maintained as a commons resource. All frameworks and materials are available for adaptation and local implementation by communities working toward liberation and collective self-determination.*
