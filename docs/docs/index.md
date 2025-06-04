@@ -22,6 +22,6 @@ Coming soon...
 
 ## Navigation
 
-- [Back to Home](/)
-- [View Analysis](/analysis)
+- [Back to Home](../)
+- [View Analysis](../analysis/)
 - [GitHub Repository](https://github.com/jwynia/myceliary)

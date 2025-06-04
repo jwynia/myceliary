@@ -2,7 +2,7 @@
 title: Myceliary
 description: A research project exploring anti-capitalist frameworks and patterns in AI/ML
 url: "https://jwynia.github.io"
-baseurl: "/myceliary/site"
+baseurl: "/myceliary"
 github_username: jwynia
 repository: jwynia/myceliary
 

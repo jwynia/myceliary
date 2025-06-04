@@ -18,8 +18,8 @@ This project serves as a platform for:
 ## Resources
 
 - [GitHub Repository](https://github.com/jwynia/myceliary) - View our source code and contribute
-- [Documentation](/docs) - Explore our research findings and frameworks
-- [Analysis](/analysis) - Read our detailed analysis of AI/ML patterns
+- [Documentation](docs/) - Explore our research findings and frameworks
+- [Analysis](analysis/) - Read our detailed analysis of AI/ML patterns
 
 ## Get Involved
 

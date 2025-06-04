@@ -30,6 +30,6 @@ Our analysis work is ongoing. Check back regularly for updates as we document ou
 
 ## Navigation
 
-- [Back to Home](/)
-- [View Documentation](/docs)
+- [Back to Home](../)
+- [View Documentation](../docs/)
 - [GitHub Repository](https://github.com/jwynia/myceliary)
