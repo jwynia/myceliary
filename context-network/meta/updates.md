@@ -1,5 +1,21 @@
 # Context Network Updates
 
+## Context Network Update: Jekyll Directory Migration - 2025-06-04
+
+### Information Nodes Modified
+- [planning/jekyll_implementation.md]: Updated Jekyll directory location
+  - **Content Changes**: Changed directory from /site to /docs
+  - **Classification Changes**: None
+  - **Structure Changes**: Updated directory structure documentation
+
+### Navigation Implications
+- All Jekyll-related paths now reference /docs instead of /site
+- GitHub Pages will serve from /docs directory
+
+### Follow-up Recommendations
+- Update any remaining references to /site in documentation
+- Verify GitHub Pages configuration with /docs directory
+
 ## Context Network Update: Jekyll Environment Setup - 2025-06-04
 
 ### Information Nodes Modified

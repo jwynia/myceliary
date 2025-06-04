@@ -286,7 +286,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  minima
 
 BUNDLED WITH
    2.6.9

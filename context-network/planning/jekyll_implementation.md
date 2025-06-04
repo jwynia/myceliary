@@ -23,9 +23,9 @@ Detailed implementation plan for setting up Jekyll/GitHub Pages in our devcontai
    - Bundle version check (latest from RubyGems)
 
 ### Phase 2: Jekyll Site Structure
-1. Set up basic Jekyll directory structure in /site:
+1. Set up basic Jekyll directory structure in /docs:
    ```
-   site/
+   docs/
    ├── _config.yml
    ├── _posts/
    ├── _layouts/
