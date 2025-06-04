@@ -7,7 +7,7 @@ github_username: jwynia
 repository: jwynia/myceliary
 
 # Theme settings
-remote_theme: awesome-jekyll-theme
+theme: jekyll-theme-dinky
 
 # Build settings
 markdown: kramdown
