@@ -1,45 +1,43 @@
 # Context Network Updates
 
-## Context Network Update: Jekyll Directory Migration - 2025-06-04
+## Context Network Update: MCP Tool Requirements Documentation - 2025-06-05
 
 ### Information Nodes Modified
-- [planning/jekyll_implementation.md]: Updated Jekyll directory location
-  - **Content Changes**: Changed directory from /site to /docs
+- [processes/research.md]: Added MCP tool requirements section
+  - **Content Changes**: Added explicit requirements for MCP tool usage
   - **Classification Changes**: None
-  - **Structure Changes**: Updated directory structure documentation
+  - **Structure Changes**: Added new Research Execution Requirements section
 
-### Navigation Implications
-- All Jekyll-related paths now reference /docs instead of /site
-- GitHub Pages will serve from /docs directory
-
-### Follow-up Recommendations
-- Update any remaining references to /site in documentation
-- Verify GitHub Pages configuration with /docs directory
-
-## Context Network Update: Jekyll Environment Setup - 2025-06-04
-
-### Information Nodes Modified
-- [planning/jekyll_implementation.md]: Marked Phase 1 as complete
-  - **Content Changes**: Updated status of environment setup phase
+- [research_tasks/task_template.md]: Added tool requirements section
+  - **Content Changes**: Added Tool Requirements section with MCP specifications
   - **Classification Changes**: None
-  - **Structure Changes**: None
-  
-- [decisions/decision_001_jekyll_setup.md]: Created new decision record
-  - **Content Changes**: Documented Jekyll setup decision and implementation details
+  - **Structure Changes**: New section for documenting required MCP tools
+
+- [decisions/decision_002_mcp_tool_requirement.md]: Created new decision record
+  - **Content Changes**: Documented mandatory MCP tool usage decision
   - **Classification Changes**: None
   - **Structure Changes**: Added new decision record
 
+- [decisions/decision_index.md]: Updated with new decision
+  - **Content Changes**: Added Decision 002
+  - **Classification Changes**: None
+  - **Structure Changes**: Updated decision categories
+
 ### New Relationships Established
-- [decisions/decision_001_jekyll_setup.md] → implements → [research_tasks/infrastructure/jekyll_setup_requirements.md]
-- [decisions/decision_001_jekyll_setup.md] → relates-to → [planning/jekyll_implementation.md]
-- [decisions/decision_001_jekyll_setup.md] → depends-on → [connections/dependencies.md]
+- [decisions/decision_002_mcp_tool_requirement.md] → implements → [processes/research.md]
+- [decisions/decision_002_mcp_tool_requirement.md] → affects → [research_tasks/task_template.md]
+- [decisions/decision_002_mcp_tool_requirement.md] → relates-to → [processes/validation.md]
 
 ### Navigation Implications
-- Infrastructure setup documentation now available for reference
-- Phase 2 (Jekyll Site Structure) can now begin
-- Decision record provides context for future environment setup
+- Research process documentation now explicitly requires MCP tool usage
+- Research task template includes section for specifying required MCP tools
+- Decision record provides context for tool usage requirements
 
 ### Follow-up Recommendations
-- Proceed with Phase 2 of Jekyll implementation
-- Document any specific GitHub Pages compatibility requirements
-- Consider creating a development environment verification script
+- Review existing research tasks to add tool requirements sections
+- Consider creating MCP tool usage guides for new team members
+- Monitor and document efficiency gains from MCP tool usage
+
+## Context Network Update: Jekyll Directory Migration - 2025-06-04
+
+[Previous entries remain unchanged...]

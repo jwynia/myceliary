@@ -16,6 +16,7 @@ This document serves as an index of all key decisions made for the project, prov
 | ID | Title | Status | Date | Domain | Summary |
 |----|-------|--------|------|--------|---------|
 | 001 | Jekyll Development Environment Setup | Accepted | 2025-06-04 | Infrastructure | Implementation of Jekyll in devcontainer using Ruby 3.1.2p20 |
+| 002 | Mandatory MCP Tool Usage for Research Tasks | Accepted | 2025-06-05 | Methodology | Requirement to use MCP tools for all research tasks based on empirical efficiency gains |
 
 ### Decision Status Legend
 
@@ -38,7 +39,7 @@ This document serves as an index of all key decisions made for the project, prov
 - **Architecture**: [List of decision IDs related to overall architecture]
 
 <!-- For Research Projects -->
-- **Methodology**: [List of decision IDs related to research methodology]
+- **Methodology**: [002]
 - **Data Collection**: [List of decision IDs related to data collection]
 - **Analysis**: [List of decision IDs related to analysis approaches]
 - **Interpretation**: [List of decision IDs related to interpretation frameworks]
@@ -57,7 +58,7 @@ This document serves as an index of all key decisions made for the project, prov
 
 #### By Status
 - **Proposed**: []
-- **Accepted**: [001]
+- **Accepted**: [001, 002]
 - **Deprecated**: []
 - **Superseded**: []
 

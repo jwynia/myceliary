@@ -31,6 +31,20 @@
 - **Next Run:** [Date for recurring tasks]
 - **Last Completed:** [Date of last completion]
 
+### Tool Requirements
+
+#### Required MCP Tools
+- **Primary Research Tool:** [Specify required MCP tool]
+- **Additional Tools:** [List any additional MCP tools needed]
+- **Fallback Process:** [Define process if primary tool is unavailable]
+
+#### Tool Output Requirements
+- **Output Format:** [Expected format from MCP tool]
+- **Integration Path:** [How tool output should be integrated]
+- **Validation Steps:** [How to verify tool output]
+
+**Note:** MCP tools MUST be used for all research tasks. "Ambient" knowledge or direct web browsing are NOT acceptable substitutes, as empirical evidence shows MCP tools reduce overhead and prevent circular reasoning.
+
 ### Process Steps
 1. [Step-by-step process for conducting this research]
 2. [Include any specific methodologies or tools to use]

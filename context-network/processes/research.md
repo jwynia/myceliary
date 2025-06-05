@@ -197,6 +197,30 @@ Example Queries:
 - "microgrid management platforms"
 - "energy democracy digital tools"
 
+### Research Execution Requirements
+
+#### MCP Tool Usage (REQUIRED)
+All research tasks MUST be executed using appropriate MCP tools:
+
+- Basic Web Search: Use Research MCP basicWebSearch tool
+- Light Research Report: Use Research MCP lightResearchReport tool
+- Standard Research Report: Use Research MCP mediumResearchReport tool
+- Deep Research Report: Use Research MCP deepResearchReport tool
+- URL Content Capture: Use Research MCP captureUrlContent tool
+- Archive Search: Use Research MCP searchLocalArchives tool
+
+**Critical Rule:** "Ambient" knowledge or direct web browsing MUST NOT be used as substitutes for MCP tools. This ensures:
+- Consistent research methodology
+- Traceable information sources
+- Reproducible results
+- Proper archiving of findings
+
+**Key Finding from Practice:** Experience has demonstrated that using MCP tools REDUCES overhead compared to relying on ambient knowledge. While ambient knowledge often leads to circular reasoning and ungrounded exploration, MCP tools provide:
+- Concrete starting points for research
+- Verified external information to ground decisions
+- Clear paths forward when stuck
+- Efficient ways to validate or challenge assumptions
+
 ### Research Process Notes
 
 **Source Prioritization:**
