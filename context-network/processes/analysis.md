@@ -100,6 +100,27 @@ Synthesize insights into coherent findings:
 4. Assess the confidence level for each finding based on supporting evidence
 5. Identify implications and next steps for each finding
 
+#### Research Task Integration
+
+When documenting findings:
+
+1. Link findings to their originating research tasks:
+   - Place findings in appropriate subdirectory under analysis/findings/
+   - Reference the research task ID in the finding's metadata
+   - Add bidirectional links between finding and task documents
+
+2. Update the research tasks index:
+   - If task is complete, follow completion steps in research_tasks_index.md
+   - Update task status and last updated date
+   - Recalculate status distribution counts
+   - Document completion in change history
+
+3. Validate finding integration:
+   - Ensure finding addresses task objectives
+   - Verify all relationships are properly documented
+   - Check that finding follows appropriate templates
+   - Confirm index accurately reflects task completion
+
 ### Step 8: Tool Requirement Identification
 
 Identify requirements for tools based on analysis:

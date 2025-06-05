@@ -221,6 +221,40 @@ All research tasks MUST be executed using appropriate MCP tools:
 - Clear paths forward when stuck
 - Efficient ways to validate or challenge assumptions
 
+### Research Task Management
+
+#### Task Index Maintenance
+The research tasks index (research_tasks/research_tasks_index.md) MUST be kept up to date:
+
+**When Creating New Tasks:**
+1. Create task file using task_template.md
+2. Add task to appropriate section in research_tasks_index.md
+3. Update status distribution counts
+4. Update priority distribution counts
+5. Add any new task relationships to the mermaid diagram
+6. Update metadata and change history
+
+**When Updating Tasks:**
+1. Update task status in index when task status changes
+2. Update next run/due dates for recurring tasks
+3. Update last updated date and metadata
+4. Adjust relationships if task dependencies change
+5. Recalculate status and priority distributions
+
+**When Completing Tasks:**
+1. Mark task as completed in index
+2. Clear next run date (use "-")
+3. Update status distribution counts
+4. Document completion in change history
+5. Ensure findings are properly linked in analysis/findings/
+
+**Monthly Index Review:**
+1. Verify all tasks are properly indexed
+2. Update status of overdue tasks
+3. Review and update task relationships
+4. Clean up completed one-time tasks
+5. Plan new tasks based on gaps identified
+
 ### Research Process Notes
 
 **Source Prioritization:**
