@@ -11,7 +11,7 @@ The Myceliary project conducts systematic research into anti-capitalist framewor
 
 The following diagram shows the relationships between our research areas:
 
-```mermaid
+<pre class="mermaid">
 graph TD
     %% Foundational Tasks
     F1[AI/ML Landscape] --> F2[Theoretical Frameworks]
@@ -33,7 +33,7 @@ graph TD
     %% Geographic Connections
     GE1[Global South Initiatives] --> GE2[Indigenous Tech Sovereignty]
     GE1 --> G2[Data Commons Implementation]
-```
+</pre>
 
 ## Progress Summary
 

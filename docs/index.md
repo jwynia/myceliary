@@ -9,7 +9,7 @@ Welcome to Myceliary, a research project dedicated to exploring anti-capitalist 
 
 ## Quick Start Guide
 
-```mermaid
+<pre class="mermaid">
 graph TD
     A[Start Here] --> B[Research Areas]
     A --> C[Frameworks]
@@ -17,7 +17,7 @@ graph TD
     B --> E[Current Projects]
     C --> F[Analysis Tools]
     D --> G[Historical Examples]
-```
+</pre>
 
 ### Key Resources
 - 🔬 [Research Dashboard](research/) - Track ongoing research and findings
@@ -46,7 +46,7 @@ graph TD
 ### Anti-Capitalist Framework
 Our primary tool for identifying AI applications that serve community needs outside capitalist structures.
 
-```mermaid
+<pre class="mermaid">
 graph LR
     A[Identify Need] --> B[Analyze Power]
     B --> C[Design Solution]
@@ -55,20 +55,20 @@ graph LR
     style B fill:#bbf,stroke:#333
     style C fill:#bfb,stroke:#333
     style D fill:#fbf,stroke:#333
-```
+</pre>
 
 [Learn More](frameworks/#anti-capitalist-ai-applications-framework)
 
 ### Capitalist Trap Detector
 Systematic approach to identifying when AI solutions inadvertently serve capitalist interests.
 
-```mermaid
+<pre class="mermaid">
 graph TD
     A[Solution] --> B{Efficiency Trap}
     A --> C{Platform Dependency}
     A --> D{Data Extraction}
     style A fill:#f9f,stroke:#333
-```
+</pre>
 
 [Learn More](frameworks/#capitalist-trap-detector-framework)
 

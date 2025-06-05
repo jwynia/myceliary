@@ -9,7 +9,7 @@ The Myceliary project develops systematic frameworks for identifying, evaluating
 
 ## Framework Overview
 
-```mermaid
+<pre class="mermaid">
 graph TD
     A[Anti-Capitalist Framework] --> B[Identify Opportunities]
     A --> C[Analyze Power Relations]
@@ -22,7 +22,7 @@ graph TD
     I[Research Query Framework] --> J[Structured Inquiry]
     I --> K[Ongoing Monitoring]
     I --> L[Crisis Response]
-```
+</pre>
 
 ## Anti-Capitalist AI Applications Framework
 
