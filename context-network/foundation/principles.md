@@ -13,104 +13,110 @@ This document outlines the core principles and standards that guide decision-mak
 
 ### Core Values
 
-[List and describe the fundamental values that drive the project]
+1. **Evidence-Based AI Understanding**
+   We commit to examining artificial intelligence through an accurate, evidence-based lens that separates real issues from misconceptions. We use The Multiverse School's AI Problems Index as a key reference to maintain a balanced perspective that acknowledges both legitimate concerns and actual benefits while avoiding common fallacies and oversimplified narratives.
 
-1. **[Value 1]**
-   [Description of Value 1]
+2. **Intellectual Rigor**
+   We maintain high standards for evaluating AI-related claims and discussions, emphasizing the importance of distinguishing between:
+   - Real AI problems that deserve attention and resources
+   - Misconceptions that distract from meaningful discourse
+   - Broader societal issues that intersect with but aren't unique to AI
+   - Environmental considerations with proper context
+   - Creative and consciousness implications based on current research
 
-2. **[Value 2]**
-   [Description of Value 2]
-
-3. **[Value 3]**
-   [Description of Value 3]
+3. **Balanced Perspective**
+   We strive to present a comprehensive view of AI that:
+   - Acknowledges legitimate concerns without fearmongering
+   - Recognizes benefits without overselling
+   - Considers environmental impact with proper context
+   - Examines creativity and consciousness claims critically
+   - Addresses legal and ethical implications thoughtfully
 
 ### Design Principles
 
-[List and describe the key principles that guide design decisions]
-
-1. **[Design Principle 1]**
-   [Description of Design Principle 1]
+1. **Evidence-Based Decision Making**
+   All project decisions regarding AI must be grounded in verifiable evidence and current research.
    
-   *Example:* [Concrete example of this principle in action]
+   *Example:* When discussing AI's environmental impact, we reference specific data about efficiency improvements and distinguish between power generation and environmental problems.
 
-2. **[Design Principle 2]**
-   [Description of Design Principle 2]
+2. **Clear Issue Categorization**
+   We maintain clear distinctions between AI-specific issues and broader societal challenges.
    
-   *Example:* [Concrete example of this principle in action]
+   *Example:* Labor market changes are examined as broader economic transitions rather than solely AI-driven disruptions.
 
-3. **[Design Principle 3]**
-   [Description of Design Principle 3]
+3. **Balanced Documentation**
+   Documentation and discussions must present both challenges and opportunities in AI development.
    
-   *Example:* [Concrete example of this principle in action]
+   *Example:* When discussing AI in creative fields, we examine both potential benefits for creators and legitimate concerns about impact.
 
 ### Standards and Guidelines
 
-[List and describe the standards and guidelines that the project adheres to]
-
 #### Quality Standards
 
-- [Standard 1]
-- [Standard 2]
-- [Standard 3]
+- All AI-related claims must be supported by current research or evidence
+- Regular review and updates based on new findings and research
+- Clear distinction between established facts and emerging theories
 
 #### Structural Standards
 
-- [Standard 1]
-- [Standard 2]
-- [Standard 3]
+- Systematic categorization of AI-related issues following established frameworks
+- Clear separation between AI-specific and general technological challenges
+- Regular validation against authoritative sources
 
 #### Safety and Security Standards
 
-- [Standard 1]
-- [Standard 2]
-- [Standard 3]
+- Evidence-based approach to AI safety considerations
+- Clear distinction between immediate and speculative risks
+- Regular review of current research on AI safety
 
 #### Performance and Efficiency Standards
 
-- [Standard 1]
-- [Standard 2]
-- [Standard 3]
+- Context-aware evaluation of AI system impacts
+- Evidence-based assessment of environmental considerations
+- Regular review of efficiency metrics and improvements
 
 ### Process Principles
 
-[List and describe the principles that guide development and operational processes]
+1. **Regular Fact-Checking**
+   Maintain ongoing verification of AI-related claims against authoritative sources.
 
-1. **[Process Principle 1]**
-   [Description of Process Principle 1]
+2. **Balanced Analysis**
+   Ensure comprehensive examination of both benefits and challenges in AI development.
 
-2. **[Process Principle 2]**
-   [Description of Process Principle 2]
-
-3. **[Process Principle 3]**
-   [Description of Process Principle 3]
+3. **Clear Communication**
+   Present AI-related information in clear, accurate, and contextual ways.
 
 ### Decision-Making Framework
 
-[Describe the framework used for making decisions in the project]
-
 #### Decision Criteria
 
-- [Criterion 1]
-- [Criterion 2]
-- [Criterion 3]
+- Evidence-based validation of claims
+- Clear categorization of issues (AI-specific vs. general)
+- Impact assessment based on current research
+- Alignment with established ethical principles
 
 #### Trade-off Considerations
 
-- [Trade-off 1]
-- [Trade-off 2]
-- [Trade-off 3]
+- Balance between innovation and responsible development
+- Short-term benefits vs. long-term implications
+- Individual vs. societal impacts
+- Technical capability vs. ethical considerations
 
 ### Principle Application
 
-[Describe how these principles should be applied in practice]
-
 #### When Principles Conflict
 
-[Guidance on how to resolve situations where principles may conflict with each other]
+When different principles appear to conflict, prioritize:
+1. Evidence-based understanding over speculation
+2. Comprehensive analysis over simplified narratives
+3. Balanced perspective over single-sided views
 
 #### Exceptions to Principles
 
-[Circumstances under which exceptions to these principles may be considered]
+Exceptions to these principles may be considered when:
+- New research provides compelling evidence for reconsideration
+- Emerging technologies create previously unconsidered scenarios
+- Specific contexts require modified approaches
 
 ## Relationships
 - **Parent Nodes:** [foundation/project_definition.md]
@@ -119,6 +125,7 @@ This document outlines the core principles and standards that guide decision-mak
   - [foundation/structure.md] - implements - Project structure implements these principles
   - [processes/creation.md] - guided-by - Creation processes follow these principles
   - [decisions/*] - evaluated-against - Decisions are evaluated against these principles
+  - [analysis/findings/ai_ml_landscape_analysis.md] - informs - AI landscape analysis informs these principles
 
 ## Navigation Guidance
 - **Access Context:** Use this document when making significant decisions or evaluating options
@@ -127,9 +134,9 @@ This document outlines the core principles and standards that guide decision-mak
 - **Update Patterns:** This document should be updated rarely, only when fundamental principles change
 
 ## Metadata
-- **Created:** [Date]
-- **Last Updated:** [Date]
-- **Updated By:** [Role/Agent]
+- **Created:** 2025-06-05
+- **Last Updated:** 2025-06-05
+- **Updated By:** Cline
 
 ## Change History
-- [Date]: Initial creation of principles template
+- 2025-06-05: Initial creation with focus on evidence-based AI understanding principles
