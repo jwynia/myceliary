@@ -5,7 +5,9 @@ title: Welcome to Myceliary
 
 # Myceliary
 
-Welcome to Myceliary, a research project dedicated to exploring anti-capitalist frameworks and patterns in AI/ML development. Our goal is to analyze and understand how artificial intelligence and machine learning can be developed and deployed in ways that prioritize social good over profit motives.
+Welcome to Myceliary, a research project dedicated to exploring anti-capitalist frameworks and patterns in AI/ML development. The name "Myceliary" draws inspiration from mycelial networks - the vast, interconnected fungal systems that facilitate communication and resource sharing in natural ecosystems. Like these organic networks, our project aims to build interconnected knowledge commons and frameworks that support community-driven technology development outside of capitalist structures.
+
+Our goal is to analyze and understand how artificial intelligence and machine learning can be developed and deployed in ways that prioritize social good over profit motives, fostering organic growth of community-controlled alternatives through shared understanding and collective inquiry.
 
 ## Project Overview
 

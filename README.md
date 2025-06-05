@@ -1,5 +1,21 @@
 # Myceliary - Anti-Capitalist AI Framework Project
 
+## About the Name
+
+"Myceliary" draws inspiration from mycelial networks - the vast, interconnected fungal systems that facilitate communication and resource sharing in natural ecosystems. The name reflects several key aspects of our project:
+
+- **Network Structure**: Like mycelial networks that connect different parts of an ecosystem, our context network creates interconnected pathways between research, analysis, and community knowledge.
+  
+- **Organic Growth**: Just as mycelial networks grow and adapt organically to their environment, our frameworks evolve through community use and adaptation rather than top-down imposition.
+  
+- **Resource Sharing**: Mycelial networks facilitate nutrient exchange between organisms. Similarly, our project aims to enable knowledge and resource sharing between communities developing anti-capitalist technology.
+  
+- **Underground Resistance**: Much like the hidden but vital mycelial networks beneath the forest floor, our work supports the often invisible but essential infrastructure of community resistance and mutual aid.
+
+The adjective form "myceliary" ("of or relating to mycelial networks") emphasizes our focus on building interconnected systems of knowledge and practice that support community-controlled technology development outside of capitalist structures.
+
+## Project Overview
+
 This project develops and shares frameworks for identifying, evaluating, and building AI and LLM applications that serve human needs outside of or in opposition to capitalist structures. Rather than cataloging specific use cases, we focus on inquiry methodologies, evaluation frameworks, and collaborative tools that help communities and technologists discover opportunities where AI could genuinely serve liberation rather than extraction.
 
 ## Core Problem
