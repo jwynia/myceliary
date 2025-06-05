@@ -49,7 +49,7 @@ Our primary framework for identifying AI applications that operate outside capit
 - Community self-governance tools
 - Direct democracy facilitation
 
-[View detailed framework documentation](/context-network/analysis/frameworks/anti_capitalist_framework.md)
+[View detailed framework documentation](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/frameworks/anti_capitalist_framework.md)
 
 ### Application Process
 
@@ -108,7 +108,7 @@ Positive anti-capitalist features include:
 - Addressing root causes of problems
 - Integration of diverse knowledge systems
 
-[View detailed framework documentation](/context-network/analysis/frameworks/capitalist_trap_detector.md)
+[View detailed framework documentation](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/frameworks/capitalist_trap_detector.md)
 
 ## Research Query Framework
 
@@ -130,7 +130,7 @@ A structured approach to conducting research and monitoring for anti-capitalist 
 - Geographic and Cultural Context
 - Sector-Specific Applications
 
-[View detailed framework documentation](/context-network/processes/research.md)
+[View detailed framework documentation](https://github.com/jwynia/myceliary/blob/main/context-network/processes/research.md)
 
 ## Framework Application
 

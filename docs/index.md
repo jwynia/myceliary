@@ -37,9 +37,9 @@ graph TD
 {% endfor %}
 
 ### Recent Findings
-- [AI/ML Landscape Analysis](/context-network/analysis/findings/ai_ml_landscape_analysis.md) - Comprehensive overview of current technologies
-- [Movement Monitoring Update](/context-network/analysis/findings/movement_monitoring_analysis.md) - Latest developments in community initiatives
-- [Policy Impact Assessment](/context-network/analysis/findings/policy_monitoring_analysis.md) - Recent policy changes affecting community tech
+- [AI/ML Landscape Analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/ai_ml_landscape_analysis.md) - Comprehensive overview of current technologies
+- [Movement Monitoring Update](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/movement_monitoring_analysis.md) - Latest developments in community initiatives
+- [Policy Impact Assessment](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/policy_monitoring_analysis.md) - Recent policy changes affecting community tech
 
 ## Core Frameworks
 
@@ -75,14 +75,14 @@ graph TD
 ## Featured Case Studies
 
 ### Historical Examples
-- [Project Cybersyn](/context-network/analysis/findings/case_studies/project_cybersyn.md) - Chilean economic planning system
-- [Zapatista Networks](/context-network/analysis/findings/case_studies/zapatista_networks.md) - Autonomous communication infrastructure
-- [Platform Cooperatives](/context-network/analysis/findings/case_studies/platform_coops.md) - Worker-owned digital platforms
+- [Project Cybersyn](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/project_cybersyn.md) - Chilean economic planning system
+- [Zapatista Networks](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/zapatista_networks.md) - Autonomous communication infrastructure
+- [Platform Cooperatives](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/platform_coops.md) - Worker-owned digital platforms
 
 ### Current Initiatives
-- [Mutual Aid Tech](/context-network/analysis/findings/case_studies/mutual_aid_tech.md) - Technology supporting community resilience
-- [Community Tech Centers](/context-network/analysis/findings/case_studies/community_tech_centers.md) - Local technology sovereignty
-- [Mesh Networks](/context-network/analysis/findings/case_studies/mesh_networks.md) - Community-controlled infrastructure
+- [Mutual Aid Tech](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/mutual_aid_tech.md) - Technology supporting community resilience
+- [Community Tech Centers](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/community_tech_centers.md) - Local technology sovereignty
+- [Mesh Networks](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/mesh_networks.md) - Community-controlled infrastructure
 
 ## Get Involved
 
@@ -93,7 +93,7 @@ graph TD
 ## Deep Dive Resources
 
 For comprehensive documentation and detailed analysis:
-- [Full Research Archive](/context-network/research_tasks/research_tasks_index.md)
-- [Complete Framework Documentation](/context-network/analysis/frameworks/)
-- [Detailed Case Studies](/context-network/analysis/findings/case_studies/)
-- [Research Methodology](/context-network/processes/research.md)
+- [Full Research Archive](https://github.com/jwynia/myceliary/blob/main/context-network/research_tasks/research_tasks_index.md)
+- [Complete Framework Documentation](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/frameworks/)
+- [Detailed Case Studies](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/)
+- [Research Methodology](https://github.com/jwynia/myceliary/blob/main/context-network/processes/research.md)

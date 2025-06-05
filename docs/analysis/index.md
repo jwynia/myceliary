@@ -39,14 +39,14 @@ graph TD
 Detailed examination of our core analytical frameworks and their practical applications.
 
 #### Anti-capitalist Framework
-- [Core Principles](/context-network/analysis/frameworks/anti_capitalist_framework.md)
-- [Application Examples](/context-network/analysis/findings/case_studies/)
-- [Evolution & Refinements](/context-network/meta/updates.md)
+- [Core Principles](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/frameworks/anti_capitalist_framework.md)
+- [Application Examples](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/)
+- [Evolution & Refinements](https://github.com/jwynia/myceliary/blob/main/context-network/meta/updates.md)
 
 #### Capitalist Trap Detection
-- [Methodology Overview](/context-network/analysis/frameworks/capitalist_trap_detector.md)
-- [Common Patterns](/context-network/analysis/patterns/)
-- [Mitigation Strategies](/context-network/analysis/findings/theoretical_frameworks_analysis.md)
+- [Methodology Overview](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/frameworks/capitalist_trap_detector.md)
+- [Common Patterns](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/patterns/)
+- [Mitigation Strategies](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md)
 
 ### Pattern Recognition
 
@@ -57,7 +57,7 @@ Common patterns observed in AI/ML development:
 - Resource Sharing Models
 - Privacy-Preserving Methods
 
-[View Full Pattern Analysis](/context-network/analysis/patterns/)
+[View Full Pattern Analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/patterns/)
 
 #### System Design Patterns
 Architectural patterns that support anti-capitalist principles:
@@ -66,7 +66,7 @@ Architectural patterns that support anti-capitalist principles:
 - Federation & Interoperability
 - Community Governance Models
 
-[View System Design Details](/context-network/analysis/findings/theoretical_frameworks_analysis.md)
+[View System Design Details](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md)
 
 #### Implementation Patterns
 Practical patterns for building anti-capitalist systems:
@@ -75,7 +75,7 @@ Practical patterns for building anti-capitalist systems:
 - Knowledge Sharing
 - Resource Distribution
 
-[View Implementation Guide](/context-network/processes/creation.md)
+[View Implementation Guide](https://github.com/jwynia/myceliary/blob/main/context-network/processes/creation.md)
 
 ## Current Research Focus
 
@@ -91,15 +91,15 @@ Practical patterns for building anti-capitalist systems:
 
 #### AI/ML Landscape
 Key insights from our comprehensive analysis:
-- [Current State Assessment](/context-network/analysis/findings/ai_ml_landscape_analysis.md)
-- [Emerging Trends](/context-network/analysis/findings/theoretical_frameworks_analysis.md)
-- [Community Impact](/context-network/analysis/findings/movement_monitoring_analysis.md)
+- [Current State Assessment](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/ai_ml_landscape_analysis.md)
+- [Emerging Trends](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md)
+- [Community Impact](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/movement_monitoring_analysis.md)
 
 #### Movement Monitoring
 Latest developments in community technology initiatives:
-- [Movement Analysis](/context-network/analysis/findings/movement_monitoring_analysis.md)
-- [Policy Impacts](/context-network/analysis/findings/policy_monitoring_analysis.md)
-- [Environmental Considerations](/context-network/research_tasks/monitoring/environmental_impact_metrics.md)
+- [Movement Analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/movement_monitoring_analysis.md)
+- [Policy Impacts](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/policy_monitoring_analysis.md)
+- [Environmental Considerations](https://github.com/jwynia/myceliary/blob/main/context-network/research_tasks/monitoring/environmental_impact_metrics.md)
 
 ## Pattern Relationships
 
@@ -115,7 +115,7 @@ graph LR
     style C fill:#bfb,stroke:#333
 ```
 
-[View Detailed Relationships](/context-network/connections/dependencies.md)
+[View Detailed Relationships](https://github.com/jwynia/myceliary/blob/main/context-network/connections/dependencies.md)
 
 ### Framework Interactions
 How our analytical frameworks complement each other:
@@ -123,12 +123,12 @@ How our analytical frameworks complement each other:
 - Complementary perspectives
 - Integrated application
 
-[View Framework Connections](/context-network/connections/interfaces.md)
+[View Framework Connections](https://github.com/jwynia/myceliary/blob/main/context-network/connections/interfaces.md)
 
 ## Deep Dive Resources
 
 For comprehensive analysis and documentation:
-- [Full Research Archive](/context-network/research_tasks/research_tasks_index.md)
-- [Detailed Methodology](/context-network/processes/analysis.md)
-- [Case Study Collection](/context-network/analysis/findings/case_studies/)
-- [Pattern Library](/context-network/analysis/patterns/)
+- [Full Research Archive](https://github.com/jwynia/myceliary/blob/main/context-network/research_tasks/research_tasks_index.md)
+- [Detailed Methodology](https://github.com/jwynia/myceliary/blob/main/context-network/processes/analysis.md)
+- [Case Study Collection](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/)
+- [Pattern Library](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/patterns/)

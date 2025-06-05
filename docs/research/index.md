@@ -55,7 +55,7 @@ Investigating technology patterns and solutions that emerge during crisis situat
 Current Tasks:
 - **Mutual Aid Tech Patterns** (In Progress) - Examining technology patterns in mutual aid initiatives
   - Due: 2025-06-15
-  - [View findings in context network](/context-network/analysis/findings/case_studies/mutual_aid_tech.md)
+  - [View findings in context network](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/mutual_aid_tech.md)
 
 ### Economic Research
 
@@ -71,13 +71,13 @@ Establishing core theoretical and practical foundations for anti-capitalist tech
 
 Current Tasks:
 - **AI/ML Landscape** (Completed) - Comprehensive analysis of current AI/ML technologies and their implications
-  - [View findings](/context-network/analysis/findings/ai_ml_landscape_analysis.md)
+  - [View findings](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/ai_ml_landscape_analysis.md)
 - **Historical Case Studies** (In Progress) - Examining historical examples of anti-capitalist technology initiatives
   - Due: 2025-06-30
-  - [View case studies](/context-network/analysis/findings/case_studies/)
+  - [View case studies](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/)
 - **Theoretical Frameworks** (In Progress) - Developing theoretical frameworks for anti-capitalist technology
   - Due: 2025-06-30
-  - [View analysis](/context-network/analysis/findings/theoretical_frameworks_analysis.md)
+  - [View analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md)
 
 ### Framework Development
 
@@ -117,7 +117,7 @@ Current Tasks:
 - **Federated Learning Implementation** (Not Started) - Investigating federated learning approaches
   - Planned Start: 2025-08-15
 - **Jekyll Setup Requirements** (Completed) - Documentation infrastructure setup
-  - [View requirements](/context-network/research_tasks/infrastructure/jekyll_setup_requirements.md)
+  - [View requirements](https://github.com/jwynia/myceliary/blob/main/context-network/research_tasks/infrastructure/jekyll_setup_requirements.md)
 
 ### Monitoring Research
 
@@ -128,10 +128,10 @@ Current Tasks:
   - Planned Start: 2025-09-01
 - **Movement Monitoring** (In Progress) - Tracking technology-related movement developments
   - Due: 2025-06-30
-  - [View analysis](/context-network/analysis/findings/movement_monitoring_analysis.md)
+  - [View analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/movement_monitoring_analysis.md)
 - **Policy Monitoring** (In Progress) - Monitoring policy developments affecting community technology
   - Due: 2025-06-30
-  - [View analysis](/context-network/analysis/findings/policy_monitoring_analysis.md)
+  - [View analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/policy_monitoring_analysis.md)
 
 ## Research Process
 
