@@ -5,30 +5,95 @@ title: Welcome to Myceliary
 
 # Myceliary
 
-Welcome to Myceliary, a research project dedicated to exploring anti-capitalist frameworks and patterns in AI/ML development. The name "Myceliary" draws inspiration from mycelial networks - the vast, interconnected fungal systems that facilitate communication and resource sharing in natural ecosystems. Like these organic networks, our project aims to build interconnected knowledge commons and frameworks that support community-driven technology development outside of capitalist structures.
+Welcome to Myceliary, a research project dedicated to exploring anti-capitalist frameworks and patterns in AI/ML development. Drawing inspiration from mycelial networks - nature's organic communication and resource-sharing systems - we build interconnected knowledge commons that support community-driven technology development outside of capitalist structures.
 
-Our goal is to analyze and understand how artificial intelligence and machine learning can be developed and deployed in ways that prioritize social good over profit motives, fostering organic growth of community-controlled alternatives through shared understanding and collective inquiry.
+## Quick Start Guide
 
-## Project Overview
+```mermaid
+graph TD
+    A[Start Here] --> B[Research Areas]
+    A --> C[Frameworks]
+    A --> D[Case Studies]
+    B --> E[Current Projects]
+    C --> F[Analysis Tools]
+    D --> G[Historical Examples]
+```
 
-This project serves as a platform for:
-- Researching anti-capitalist approaches to AI/ML development
-- Documenting patterns and frameworks that support ethical AI practices
-- Building a knowledge base of case studies and theoretical frameworks
-- Fostering discussion around socially responsible technology
+### Key Resources
+- 🔬 [Research Dashboard](research/) - Track ongoing research and findings
+- 🛠️ [Analysis Frameworks](frameworks/) - Tools for evaluating AI/ML initiatives
+- 📚 [Case Studies](research/#case-studies) - Real-world examples and lessons
+- 📊 [Latest Analysis](analysis/) - Current insights and patterns
 
-## Resources
+## Latest Research Progress
 
-- [GitHub Repository](https://github.com/jwynia/myceliary) - View our source code and contribute
-- [Research Topics](research/) - Explore our research areas and findings
-- [Frameworks](frameworks/) - Learn about our analysis methodologies
-- [Documentation](docs/) - Explore our research findings and frameworks
-- [Analysis](analysis/) - Read our detailed analysis of AI/ML patterns
+### Active Projects
+{% for task in site.data.research_tasks %}
+{% if task.status == "In Progress" %}
+- **{{ task.name }}** - {{ task.description }}
+  - Due: {{ task.due_date }}
+  - [View Details]({{ task.link }})
+{% endif %}
+{% endfor %}
+
+### Recent Findings
+- [AI/ML Landscape Analysis](/context-network/analysis/findings/ai_ml_landscape_analysis.md) - Comprehensive overview of current technologies
+- [Movement Monitoring Update](/context-network/analysis/findings/movement_monitoring_analysis.md) - Latest developments in community initiatives
+- [Policy Impact Assessment](/context-network/analysis/findings/policy_monitoring_analysis.md) - Recent policy changes affecting community tech
+
+## Core Frameworks
+
+### Anti-Capitalist Framework
+Our primary tool for identifying AI applications that serve community needs outside capitalist structures.
+
+```mermaid
+graph LR
+    A[Identify Need] --> B[Analyze Power]
+    B --> C[Design Solution]
+    C --> D[Test Impact]
+    style A fill:#f9f,stroke:#333
+    style B fill:#bbf,stroke:#333
+    style C fill:#bfb,stroke:#333
+    style D fill:#fbf,stroke:#333
+```
+
+[Learn More](frameworks/#anti-capitalist-ai-applications-framework)
+
+### Capitalist Trap Detector
+Systematic approach to identifying when AI solutions inadvertently serve capitalist interests.
+
+```mermaid
+graph TD
+    A[Solution] --> B{Efficiency Trap}
+    A --> C{Platform Dependency}
+    A --> D{Data Extraction}
+    style A fill:#f9f,stroke:#333
+```
+
+[Learn More](frameworks/#capitalist-trap-detector-framework)
+
+## Featured Case Studies
+
+### Historical Examples
+- [Project Cybersyn](/context-network/analysis/findings/case_studies/project_cybersyn.md) - Chilean economic planning system
+- [Zapatista Networks](/context-network/analysis/findings/case_studies/zapatista_networks.md) - Autonomous communication infrastructure
+- [Platform Cooperatives](/context-network/analysis/findings/case_studies/platform_coops.md) - Worker-owned digital platforms
+
+### Current Initiatives
+- [Mutual Aid Tech](/context-network/analysis/findings/case_studies/mutual_aid_tech.md) - Technology supporting community resilience
+- [Community Tech Centers](/context-network/analysis/findings/case_studies/community_tech_centers.md) - Local technology sovereignty
+- [Mesh Networks](/context-network/analysis/findings/case_studies/mesh_networks.md) - Community-controlled infrastructure
 
 ## Get Involved
 
-We welcome contributions from researchers, developers, and anyone interested in exploring how AI/ML can be developed with a focus on social benefit rather than capitalist exploitation. Visit our GitHub repository to learn more about how you can participate in this research project.
+- 📱 [Join Our Community](https://github.com/jwynia/myceliary/discussions) - Participate in discussions
+- 📬 [Newsletter](https://myceliary.substack.com/) - Regular updates and analysis
+- 🤝 [Contribute](https://github.com/jwynia/myceliary) - Help improve our research and tools
 
-## Recent Updates
+## Deep Dive Resources
 
-Check back soon for updates on our latest research findings and framework developments.
+For comprehensive documentation and detailed analysis:
+- [Full Research Archive](/context-network/research_tasks/research_tasks_index.md)
+- [Complete Framework Documentation](/context-network/analysis/frameworks/)
+- [Detailed Case Studies](/context-network/analysis/findings/case_studies/)
+- [Research Methodology](/context-network/processes/research.md)

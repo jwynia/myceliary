@@ -1,0 +1,29 @@
+- name: "AI/ML Landscape Analysis"
+  status: "Final Review"
+  completion_date: "2025-06-10"
+  id: "foundational/ai_ml_landscape"
+
+- name: "Movement Monitoring Analysis"
+  status: "Data Collection"
+  completion_date: "2025-06-30"
+  id: "monitoring/movement_monitoring"
+
+- name: "Policy Impact Assessment"
+  status: "Analysis Phase"
+  completion_date: "2025-06-30"
+  id: "monitoring/policy_monitoring"
+
+- name: "Community Tech Assessment Framework"
+  status: "Development"
+  completion_date: "2025-07-15"
+  id: "frameworks/community_tech_assessment"
+
+- name: "Indigenous Tech Sovereignty Study"
+  status: "Planning"
+  completion_date: "2025-07-01"
+  id: "geographic/indigenous_tech_sovereignty"
+
+- name: "Cooperative Tech Funding Models"
+  status: "Research"
+  completion_date: "2025-07-01"
+  id: "economic/cooperative_tech_funding"

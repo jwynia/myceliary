@@ -95,6 +95,14 @@ context-network/
    - Use templates from relevant directories
    - Document your findings in appropriate sections
 
+## Stay Updated
+
+Follow our Substack newsletter at [myceliary.substack.com](https://myceliary.substack.com/) for:
+- Regular updates on framework development
+- Analysis of emerging anti-capitalist AI initiatives
+- Case studies and community insights
+- Opportunities for collaboration and contribution
+
 ## Development Approach
 
 ### Community-Centered Development
