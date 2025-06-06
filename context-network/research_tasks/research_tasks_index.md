@@ -25,7 +25,7 @@ This document provides a centralized index of all research tasks across the proj
 | Task | Status | Priority | Next Run/Due | Last Updated |
 |------|--------|----------|--------------|--------------|
 | [AI/ML Landscape](foundational/ai_ml_landscape.md) | Completed | High | - | 2025-06-03 |
-| [Historical Case Studies](foundational/historical_case_studies.md) | In Progress | High | 2025-06-30 | 2025-06-03 |
+| [Historical Case Studies](foundational/historical_case_studies.md) | Completed | High | - | 2025-06-06 |
 | [Theoretical Frameworks](foundational/theoretical_frameworks.md) | In Progress | High | 2025-06-30 | 2025-06-03 |
 
 ### Framework Development
@@ -89,8 +89,8 @@ graph TD
 
 ### Status Distribution
 - Not Started: 8 tasks
-- In Progress: 4 tasks
-- Completed: 2 tasks
+- In Progress: 3 tasks
+- Completed: 3 tasks
 - Total: 14 tasks
 
 ### Priority Distribution
@@ -105,4 +105,5 @@ graph TD
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-06: Updated Historical Case Studies task to Completed
 - 2025-06-05: Initial creation of research tasks index
