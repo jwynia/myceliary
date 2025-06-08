@@ -65,46 +65,200 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
 #### Network Infrastructure
 1. **Physical Layer**
    - Rural, indigenous communities with limited infrastructure
-   - Strategic placement of communication nodes
-   - Solar-powered equipment installations
-   - Redundant physical pathways
-   - Mobile communication units
+     - Terrain-adaptive node placement strategies
+     - Elevation-based signal optimization
+     - Natural barrier mitigation techniques
+     - Weather-resistant equipment housing
+   
+   - Strategic communication node placement
+     - Line-of-sight optimization
+     - Coverage area analysis
+     - Redundancy planning
+     - Access point distribution
+     - Community center integration
+
+   - Solar power systems
+     - Panel configurations (typical 250W-1kW)
+     - Battery bank specifications (24V systems)
+     - Charge controller integration
+     - Load management systems
+     - Backup power solutions
+
+   - Physical infrastructure
+     - Tower designs (10-30m height)
+     - Guy-wire configurations
+     - Lightning protection systems
+     - Grounding implementations
+     - Equipment housing standards
+
+   - Mobile units
+     - Portable satellite uplinks
+     - Vehicle-mounted relays
+     - Emergency response kits
+     - Mobile power systems
+     - Rapid deployment protocols
 
 2. **Communication Systems**
    - Trusted intermediary networks
-   - Digital-to-physical conversion points
-   - Multi-language translation processes
-   - Collective information sharing methods
-   - Encrypted communication channels
+     - Verification protocols
+     - Message routing systems
+     - Trust chain management
+     - Intermediary selection criteria
+     - Backup routing paths
+
+   - Digital-physical conversion
+     - Document digitization methods
+     - Physical message systems
+     - Radio-internet bridges
+     - Print distribution networks
+     - Voice-text conversion
+
+   - Translation processes
+     - Language pair protocols
+     - Cultural context preservation
+     - Technical term standardization
+     - Translation verification
+     - Emergency communication procedures
+
+   - Information sharing
+     - Community bulletin systems
+     - Knowledge base management
+     - Update distribution methods
+     - Archive maintenance
+     - Access control systems
+
+   - Encryption implementation
+     - End-to-end protocols
+     - Key management systems
+     - Offline encryption methods
+     - Emergency key recovery
+     - Version control systems
 
 3. **Support Organizations**
-   - La Neta (internet access facilitation)
-   - Global mailing lists (e.g., Mexico 2000)
-   - Activist support networks
-   - Technical solidarity groups
-   - Local maintenance teams
+   - La Neta
+     - Technical training programs
+     - Infrastructure maintenance
+     - Security protocol development
+     - Equipment procurement
+     - International coordination
+
+   - Global support networks
+     - Technical solidarity groups
+     - Equipment donation programs
+     - Knowledge sharing networks
+     - Emergency response teams
+     - Training exchanges
+
+   - Local maintenance
+     - Repair workshops
+     - Spare parts inventory
+     - Tool libraries
+     - Training programs
+     - Documentation systems
 
 #### Security Architecture
-1. **Trust Mechanisms**
-   - Community verification processes
-   - Multi-step authentication
-   - Physical security measures
-   - Social trust networks
-   - Distributed validation
+1. **Threat Modeling**
+   - Risk assessment methodology
+     - Threat actor profiling
+     - Attack vector analysis
+     - Vulnerability mapping
+     - Impact assessment
+     - Mitigation prioritization
 
-2. **Resilience Strategies**
-   - Redundant communication paths
-   - Offline backup systems
-   - Alternative power sources
-   - Emergency protocols
-   - Distributed knowledge
+   - Security context analysis
+     - Political environment monitoring
+     - Technical capability assessment
+     - Resource availability mapping
+     - Community vulnerability assessment
+     - Support network evaluation
 
-3. **Protocol Implementation**
-   - Message verification systems
-   - Data integrity checks
-   - Access control methods
-   - Emergency communication procedures
-   - System recovery protocols
+2. **Trust Mechanisms**
+   - Community verification
+     - Multi-level validation protocols
+     - Identity verification methods
+     - Trust chain management
+     - Reputation systems
+     - Conflict resolution procedures
+
+   - Authentication systems
+     - Multi-factor implementations
+     - Physical token integration
+     - Biometric considerations
+     - Password policies
+     - Session management
+
+   - Physical security
+     - Equipment protection measures
+     - Access control systems
+     - Surveillance countermeasures
+     - Secure storage protocols
+     - Emergency response procedures
+
+3. **Resilience Strategies**
+   - Communication redundancy
+     - Alternative routing paths
+     - Backup communication methods
+     - Emergency protocols
+     - Network segmentation
+     - Failover systems
+
+   - Data preservation
+     - Offline backup systems
+     - Distributed storage
+     - Encryption standards
+     - Version control
+     - Recovery procedures
+
+   - Power independence
+     - Solar system redundancy
+     - Battery backup systems
+     - Load shedding protocols
+     - Emergency power procedures
+     - Maintenance schedules
+
+4. **Protocol Implementation**
+   - Message security
+     - End-to-end encryption
+     - Forward secrecy
+     - Message authentication
+     - Metadata minimization
+     - Traffic analysis resistance
+
+   - Access control
+     - Role-based systems
+     - Permission management
+     - Audit logging
+     - Account lifecycle
+     - Emergency access procedures
+
+   - System integrity
+     - Hash verification
+     - Update authentication
+     - Code signing
+     - Tamper detection
+     - Recovery procedures
+
+5. **Incident Response**
+   - Detection systems
+     - Monitoring protocols
+     - Alert mechanisms
+     - Anomaly detection
+     - Threat indicators
+     - Response triggers
+
+   - Response procedures
+     - Immediate actions
+     - Communication protocols
+     - Resource mobilization
+     - Documentation requirements
+     - Recovery steps
+
+   - Post-incident analysis
+     - Root cause investigation
+     - Impact assessment
+     - Procedure updates
+     - Training implications
+     - Community feedback
 
 ### Community Governance & Impact
 
@@ -157,39 +311,153 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
 #### Core Principles
 1. **Technological Sovereignty**
    - Community control
+     - Decision-making frameworks
+     - Resource allocation systems
+     - Infrastructure ownership
+     - Knowledge management
+     - Skill development programs
+
    - Infrastructure independence
+     - Local maintenance capacity
+     - Resource self-sufficiency
+     - Technical documentation
+     - Training programs
+     - Repair capabilities
+
    - Knowledge autonomy
-   - Resource self-determination
-   - Cultural preservation
+     - Documentation systems
+     - Training methodologies
+     - Skill sharing networks
+     - Research capabilities
+     - Innovation processes
 
 2. **Democratic Technology**
    - Collective decision-making
+     - Consensus protocols
+     - Voting systems
+     - Discussion platforms
+     - Documentation methods
+     - Implementation tracking
+
    - Inclusive design
-   - Participatory development
-   - Accessible systems
-   - Community ownership
+     - Accessibility standards
+     - Language support
+     - Cultural adaptation
+     - User testing
+     - Feedback integration
 
-#### Contemporary Applications
-1. **Community Networks**
-   - Mesh network implementations
-   - Local internet initiatives
-   - Community radio systems
-   - Digital commons projects
-   - Collective infrastructure
+#### Modern Applications (2020-2025)
 
-2. **Crisis Response**
-   - Emergency communication
-   - Resource coordination
-   - Community mobilization
-   - Information sharing
-   - Mutual aid networks
+1. **Mobile Integration**
+   - Smartphone applications
+     - Secure messaging systems
+     - Community coordination tools
+     - Emergency alert platforms
+     - Resource mapping
+     - Offline capabilities
 
-3. **Digital Sovereignty**
-   - Data ownership
-   - Privacy protection
-   - Infrastructure control
-   - Technical independence
-   - Cultural preservation
+   - Mobile mesh networks
+     - Protocol implementations
+     - Device compatibility
+     - Battery optimization
+     - Coverage mapping
+     - Performance monitoring
+
+2. **Cloud Security**
+   - Encryption systems
+     - End-to-end protocols
+     - Key management
+     - Access control
+     - Data sovereignty
+     - Privacy preservation
+
+   - Distributed storage
+     - Data replication
+     - Backup systems
+     - Version control
+     - Access management
+     - Recovery procedures
+
+3. **Community Radio Evolution**
+   - Digital integration
+     - Software-defined radio
+     - Digital signal processing
+     - Streaming capabilities
+     - Archive systems
+     - Network integration
+
+   - Programming innovations
+     - Interactive formats
+     - Educational content
+     - Emergency protocols
+     - Community participation
+     - Cultural preservation
+
+4. **Mesh Network Advances**
+   - Protocol improvements
+     - Routing optimization
+     - Security enhancements
+     - Performance monitoring
+     - Automated maintenance
+     - Failure recovery
+
+   - Hardware updates
+     - Energy efficiency
+     - Range extension
+     - Interference resistance
+     - Cost reduction
+     - Durability improvements
+
+5. **Integration Initiatives**
+   - Indigenous networks
+     - Knowledge exchange
+     - Resource sharing
+     - Technical solidarity
+     - Cultural preservation
+     - Joint development
+
+   - Global movements
+     - Technical collaboration
+     - Resource pooling
+     - Knowledge sharing
+     - Solidarity networks
+     - Emergency response
+
+6. **Impact Metrics**
+   - Network coverage
+     - Geographic reach
+     - Population served
+     - Service reliability
+     - Access points
+     - Usage patterns
+
+   - Community engagement
+     - Participation rates
+     - Training completion
+     - Skill development
+     - Leadership emergence
+     - Knowledge transfer
+
+   - Educational outcomes
+     - Program completion
+     - Skill acquisition
+     - Knowledge retention
+     - Teaching capacity
+     - Resource development
+
+   - Healthcare coordination
+     - Response times
+     - Resource distribution
+     - Information access
+     - Treatment outcomes
+     - Prevention programs
+
+   - Economic indicators
+     - Local enterprise growth
+     - Resource circulation
+     - Skill utilization
+     - Innovation adoption
+     - Sustainability measures
 
 ### Implementation Approach
 
