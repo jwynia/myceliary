@@ -22,6 +22,10 @@ graph TD
     I[Research Query Framework] --> J[Structured Inquiry]
     I --> K[Ongoing Monitoring]
     I --> L[Crisis Response]
+    
+    M[Second Order Effects] --> N[Technical Democratization]
+    M --> O[Economic Barrier Dissolution]
+    M --> P[Strategic Cascade Patterns]
 </pre>
 
 ## Anti-Capitalist AI Applications Framework
@@ -131,6 +135,53 @@ A structured approach to conducting research and monitoring for anti-capitalist 
 - Sector-Specific Applications
 
 [View detailed framework documentation](https://github.com/jwynia/myceliary/blob/main/context-network/processes/research.md)
+
+## Second Order Effects Framework
+
+A strategic framework for analyzing how AI's reduction of technical barriers creates cascading opportunities for community-controlled alternatives that enable anti-capitalist approaches.
+
+### Key Components
+
+#### Technical Democratization
+- AI reduces coding, design, and technical implementation barriers
+- Small community groups can build applications that previously required venture capital
+- Technical knowledge becomes more accessible across diverse communities
+- Community members can modify and adapt existing solutions rather than accepting corporate defaults
+
+#### Economic Barrier Dissolution
+- Development costs drop dramatically
+- Community organizations can build alternatives to corporate solutions
+- Grant funding goes further, enabling more experimental and locally adapted projects
+- Communities can afford to build "unscalable" solutions that serve specific local needs
+
+#### Strategic Cascade Patterns
+
+##### Alternative Platform Viability
+- Community-controlled versions of exploitative platforms become feasible
+- Critical mass becomes achievable for community platforms
+- Communities control their own economic and social data
+- Local platforms can network while maintaining autonomy
+
+##### Community Infrastructure Development
+- Communities can build their own digital infrastructure
+- Community-controlled messaging, coordination, and information sharing
+- Sophisticated mutual aid, resource sharing, and care coordination systems
+- Knowledge commons and community-controlled educational resources
+
+##### Resistance and Counter-Surveillance
+- Secure communication and coordination for community organizing
+- Tools for monitoring and exposing corporate malfeasance
+- Community-controlled news, research, and information verification
+- Digital self-defense tools for protecting communities
+
+#### Long-Term Strategic Vision
+The framework outlines a multi-phase strategy:
+1. Individual Application Development (Years 1-3)
+2. Ecosystem Federation (Years 3-7)
+3. Systemic Alternative Infrastructure (Years 7-15)
+4. Post-Capitalist Technological Commons (Years 15+)
+
+[View detailed framework documentation](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/frameworks/second_order_effects_framework.md)
 
 ## Framework Application
 

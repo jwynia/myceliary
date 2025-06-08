@@ -24,6 +24,8 @@ graph TD
 - 🛠️ [Analysis Frameworks](frameworks/) - Tools for evaluating AI/ML initiatives
 - 📚 [Case Studies](research/#case-studies) - Real-world examples and lessons
 - 📊 [Latest Analysis](analysis/) - Current insights and patterns
+- 💻 [P2P Platform Development](p2p_platform/) - Peer-to-peer community platform architecture
+- 🚀 [High-Leverage Projects](projects/) - Strategic technology project framework
 
 ## Latest Research Progress
 
@@ -37,6 +39,7 @@ graph TD
 {% endfor %}
 
 ### Recent Findings
+- [P2P Community Platform Architecture](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/p2p_community_platform_architecture.md) - Technical architecture for peer-to-peer platforms
 - [AI/ML Landscape Analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/ai_ml_landscape_analysis.md) - Comprehensive overview of current technologies
 - [Movement Monitoring Update](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/movement_monitoring_analysis.md) - Latest developments in community initiatives
 - [Policy Impact Assessment](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/policy_monitoring_analysis.md) - Recent policy changes affecting community tech
@@ -71,6 +74,21 @@ graph TD
 </pre>
 
 [Learn More](frameworks/#capitalist-trap-detector-framework)
+
+### Second Order Effects Framework
+Strategic analysis of how AI's reduced technical barriers create cascading opportunities for community-controlled alternatives.
+
+<pre class="mermaid">
+graph TD
+    A[Technical Democratization] --> B[Community Infrastructure]
+    C[Economic Barrier Dissolution] --> D[Platform Alternatives]
+    E[Knowledge Transfer] --> F[Resistance Tools]
+    style A fill:#f9f,stroke:#333
+    style C fill:#bbf,stroke:#333
+    style E fill:#bfb,stroke:#333
+</pre>
+
+[Learn More](frameworks/#second-order-effects-framework)
 
 ## Featured Case Studies
 
