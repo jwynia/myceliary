@@ -44,6 +44,7 @@ This document provides a centralized index of all research tasks across the proj
 |------|--------|----------|--------------|--------------|
 | [Community AI Governance](governance/community_ai_governance.md) | Not Started | High | 2025-07-15 | 2025-06-03 |
 | [Data Commons Implementation](governance/data_commons_implementation.md) | Not Started | Medium | 2025-08-01 | 2025-06-03 |
+| [Safety Systems for Vulnerable Users](governance/safety_systems_for_vulnerable_users.md) | In Progress | High | 2025-07-08 | 2025-06-08 |
 
 ### Infrastructure Research
 | Task | Status | Priority | Next Run/Due | Last Updated |
@@ -89,21 +90,22 @@ graph TD
 
 ### Status Distribution
 - Not Started: 8 tasks
-- In Progress: 3 tasks
+- In Progress: 4 tasks
 - Completed: 3 tasks
-- Total: 14 tasks
+- Total: 15 tasks
 
 ### Priority Distribution
-- High Priority: 8 tasks
+- High Priority: 9 tasks
 - Medium Priority: 6 tasks
 - Low Priority: 0 tasks
 
 ## Metadata
 - **Created:** 2025-06-05
 - **Created By:** Cline
-- **Last Updated:** 2025-06-05
+- **Last Updated:** 2025-06-08
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-08: Added Safety Systems for Vulnerable Users task and updated statistics
 - 2025-06-06: Updated Historical Case Studies task to Completed
 - 2025-06-05: Initial creation of research tasks index
