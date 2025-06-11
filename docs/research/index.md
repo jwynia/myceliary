@@ -7,6 +7,30 @@ title: Research Topics
 
 The Myceliary project conducts systematic research into anti-capitalist frameworks and patterns in AI/ML technology. Our research process emphasizes community perspectives, critical analysis, and practical applications for building alternative technological futures.
 
+## Research Archives and Citations
+
+Our research is backed by detailed reports with full academic citations:
+
+### Recent Research Archives
+
+- **[Anti-Capitalist Technology Frameworks](archives.html#anti-capitalist-technology-frameworks)** - Research on frameworks like digital ecosocialism, anti-capitalist software licenses, and decentralized governance
+  - 5 academic citations including MIT Press, CETRI, and VICE
+  - Used in our [Theoretical Frameworks Analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md)
+
+- **[Indigenous Digital Sovereignty](archives.html#indigenous-digital-sovereignty)** - Research on indigenous approaches to technology self-determination
+  - 5 academic citations including Taylor & Francis, Springer, and Routledge
+  - Used in our [Theoretical Frameworks Analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md)
+
+- **[Technology Commons Governance Models](archives.html#technology-commons-governance-models)** - Research on community-based technology governance
+  - 5 academic citations including Cambridge University Press and Rosa Luxemburg Stiftung
+  - Used in our [Theoretical Frameworks Analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md)
+
+- **[Open Source LLM Community](archives.html#open-source-large-language-models-community)** - Research on the open source AI landscape
+  - 5 industry and community citations
+  - Used in our [AI/ML Landscape Analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/ai_ml_landscape_analysis.md)
+
+[View All Research Archives with Full Citations](archives.html)
+
 ## Research Overview
 
 The following diagram shows the relationships between our research areas:
@@ -72,12 +96,14 @@ Establishing core theoretical and practical foundations for anti-capitalist tech
 Current Tasks:
 - **AI/ML Landscape** (Completed) - Comprehensive analysis of current AI/ML technologies and their implications
   - [View findings](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/ai_ml_landscape_analysis.md)
+  - [View research with citations](archives.html#open-source-large-language-models-community) (5 citations)
 - **Historical Case Studies** (In Progress) - Examining historical examples of anti-capitalist technology initiatives
   - Due: 2025-06-30
   - [View case studies](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/case_studies/)
 - **Theoretical Frameworks** (In Progress) - Developing theoretical frameworks for anti-capitalist technology
   - Due: 2025-06-30
   - [View analysis](https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md)
+  - [View research with citations](archives.html) - Including [Anti-Capitalist Frameworks](archives.html#anti-capitalist-technology-frameworks), [Indigenous Digital Sovereignty](archives.html#indigenous-digital-sovereignty), and [Technology Commons Governance](archives.html#technology-commons-governance-models) (15 citations total)
 
 ### Framework Development
 

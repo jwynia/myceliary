@@ -30,14 +30,14 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
    - Growing resistance movements
 
 3. **Infrastructure Challenges**
-   - Limited electricity access
+   - Limited electricity access (only 67% of households in Chiapas had electricity in 1991, compared to 88% nationally) [Citation: Research Archives, "Zapatista Digital Infrastructure Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
    - Minimal telecommunications
    - Geographic isolation
    - Resource constraints
 
 #### Network Development Timeline
 1. **Initial Formation (1994-1996)**
-   - First email connections established
+   - First email connections established through organizations like La Neta [Citation: Research Archives, "Zapatista Digital Infrastructure Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
    - Creation of La Neta network
    - Basic radio communication systems
    - Early supporter networks formed
@@ -46,7 +46,7 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
    - Integration of digital-physical systems
    - Development of translation networks
    - Establishment of media centers
-   - Growth of international connections
+   - Growth of international connections through specialized email lists, online conferences, and web pages dedicated to Chiapas [Citation: Research Archives, "Zapatista Digital Infrastructure Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
 
 3. **System Evolution (2001-2010)**
    - Enhanced security protocols
@@ -99,6 +99,11 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
      - Rapid deployment protocols
 
 2. **Communication Systems**
+   - Radio broadcasting networks
+     - Network of more than a dozen radio stations established since 2009 [Citation: Research Archives, "Zapatista Radio Networks Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
+     - Broadcasting to over 1,000 communities and rancherías across Zapatista territory [Citation: Research Archives, "Zapatista Radio Networks Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
+     - Programs focused on community news, denouncing social injustices, promoting Mayan languages and cultural practices, and defending indigenous land rights [Citation: Research Archives, "Zapatista Radio Networks Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
+
    - Trusted intermediary networks
      - Verification protocols
      - Message routing systems
@@ -141,6 +146,7 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
      - Security protocol development
      - Equipment procurement
      - International coordination
+     - Facilitated internet access in Chiapas to disseminate information worldwide [Citation: Research Archives, "Zapatista Digital Infrastructure Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
 
    - Global support networks
      - Technical solidarity groups
@@ -269,13 +275,15 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
    - Federated decision-making bodies
    - Base community assemblies
    - Technical working groups
+   - As of November 2023, evolved to include thousands of Local Autonomous Governments and hundreds of Collectives coordinating areas like health and education [Citation: Research Archives, "Zapatista Autonomous Governance Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_governance_medium.md)
 
 2. **Decision Processes**
-   - Horizontal governance structures
+   - Horizontal governance structures guided by the principle of "Mandar Obedeciendo" (Ruling by Obeying) [Citation: Research Archives, "Zapatista Autonomous Governance Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_governance_medium.md)
    - Collective technology decisions
    - Multi-language deliberation
    - Inclusive participation methods
    - Consensus-building practices
+   - Representatives chosen through open deliberation rather than conventional elections, accountable to those they represent and recallable at any time [Citation: Research Archives, "Zapatista Autonomous Governance Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_governance_medium.md)
 
 #### Implementation Impact
 1. **Education Access**
@@ -284,6 +292,7 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
    - Knowledge preservation
    - Cultural education initiatives
    - Community training systems
+   - Autonomous education teaching bilingualism (Spanish plus Indigenous mother tongue) [Citation: Research Archives, "Zapatista Radio Networks Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
 
 2. **Healthcare Coordination**
    - Emergency response networks
@@ -305,6 +314,7 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
    - Cultural practice sharing
    - Intergenerational learning
    - Artistic expression platforms
+   - Promotion and revitalization of Mayan cultural practices through radio programming [Citation: Research Archives, "Zapatista Radio Networks Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
 
 ### Modern Applications & Lessons
 
@@ -483,6 +493,7 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
    - Cross-community sharing
    - Rapid verification systems
    - Knowledge preservation
+   - Contrary to popular myths, EZLN communiqués were often passed physically to intermediaries who then digitized them elsewhere for global distribution [Citation: Research Archives, "Zapatista Digital Infrastructure Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
 
 2. **Access Methods**
    - Printed materials distribution
@@ -538,6 +549,34 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
    - Network resilience
    - Cultural integration
 
+## Sources and Citations
+
+### Key Research Sources
+
+1. [Citation: Research Archives, "Zapatista Radio Networks Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
+   - Provided information on Zapatista radio broadcasting networks, reaching over 1,000 communities
+   - Detailed the radio stations' role in cultural preservation and community organization
+   - Described educational integration of radio with autonomous bilingual education initiatives
+
+2. [Citation: Research Archives, "Zapatista Digital Infrastructure Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
+   - Clarified the role of intermediaries and organizations like La Neta in facilitating internet communications
+   - Provided infrastructure statistics, such as limited electricity access (67% of households in 1991)
+   - Debunked myths about direct internet usage from jungle outposts
+
+3. [Citation: Research Archives, "Zapatista Autonomous Governance Research Report", 2025-06-11](../../../research_archives/medium_reports/2025-06-11_zapatista_governance_medium.md)
+   - Detailed the multi-tiered governance structure and its evolution through 2023
+   - Explained the "Mandar Obedeciendo" (Ruling by Obeying) principle of leadership
+   - Described the process of selecting and recalling representatives
+
+### External Sources Referenced in Research
+- Cultural Survival (2019, 2020): Zapatista Radio: Broadcasting for Autonomy and Self-determination
+- Freedom News (2024): Explainer: New Zapatista Autonomy
+- Schools for Chiapas (2013): What is Zapatista Autonomy?
+- La Escuela (2023): Whirlwind of Our Words: Practices in Zapatista Autonomous Education
+- Libcom.org: The Zapatista Effect: The Internet and the rise of an alternative political fabric
+- E-IR (2022): Decolonising Politics and Constructing Worlds in the Everyday through Zapatista Autonomy
+- Anarchy In Action: Zapatista-run Chiapas
+
 ## Relationships
 - **Parent Nodes:**
   - research_tasks/foundational/historical_case_studies.md - is-child-of - Part of historical research
@@ -547,6 +586,9 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
   - analysis/findings/case_studies/project_cybersyn.md - relates-to - Contrasting approach to technological autonomy
   - analysis/findings/case_studies/indigenous_tech_sovereignty.md - implements - Indigenous technology principles
   - analysis/findings/case_studies/mesh_networks.md - relates-to - Similar network architecture approaches
+  - research_archives/medium_reports/2025-06-11_zapatista_radio_networks_medium.md - cited-by - Research on radio networks
+  - research_archives/medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md - cited-by - Research on digital infrastructure
+  - research_archives/medium_reports/2025-06-11_zapatista_governance_medium.md - cited-by - Research on governance
 
 ## Navigation Guide
 - **When to Use:**
@@ -565,10 +607,11 @@ The Zapatista movement in Chiapas, Mexico, has developed a distinctive approach 
 
 ## Metadata
 - **Created:** 2025-06-05
-- **Last Updated:** 2025-06-06
-- **Updated By:** Cline
+- **Last Updated:** 2025-06-11
+- **Updated By:** Cline (Added citations to research reports)
 - **Source:** Research MCP mediumResearchReport
 
 ## Change History
+- 2025-06-11: Updated with proper citations to research reports on radio networks, digital infrastructure, and governance
 - 2025-06-06: Major expansion of case study with detailed sections on historical context, technical implementation, community impact, and modern applications
 - 2025-06-05: Initial creation based on research report

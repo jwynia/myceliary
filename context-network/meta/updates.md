@@ -1,5 +1,79 @@
 # Context Network Updates
 
+## Context Network Update: Zapatista Networks Case Study Citation Update - 2025-06-11
+
+### Information Nodes Modified
+- [research_archives/medium_reports/2025-06-11_zapatista_radio_networks_medium.md]: Created new research report
+  - **Content Changes**: Detailed research on Zapatista radio networks and communication systems
+  - **Structure Changes**: Follows archive entry template with complete research results and key insights
+  - **Classification Changes**: Established as Medium Research Report
+- [research_archives/medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md]: Created new research report
+  - **Content Changes**: Research on Zapatista digital infrastructure, internet usage, and security
+  - **Structure Changes**: Follows archive entry template with complete research results and key insights
+  - **Classification Changes**: Established as Medium Research Report
+- [research_archives/medium_reports/2025-06-11_zapatista_governance_medium.md]: Created new research report
+  - **Content Changes**: Research on Zapatista autonomous governance and decision-making
+  - **Structure Changes**: Follows archive entry template with complete research results and key insights
+  - **Classification Changes**: Established as Medium Research Report
+- [research_archives/research_index.md]: Updated with new Zapatista research reports
+  - **Content Changes**: Added three new medium research reports on Zapatista networks
+  - **Structure Changes**: Added new Case Studies: Zapatista Movement topic section
+  - **Classification Changes**: No classification changes
+
+### New Relationships Established
+- Zapatista Research Reports → Zapatista Networks Case Study: cites relationship for traceability
+- Zapatista Radio Networks → Digital Infrastructure → Autonomous Governance: complementary research topics
+- Indigenous Digital Sovereignty → Zapatista Networks: conceptual connection between frameworks and implementation
+
+### Navigation Implications
+- Enhanced research foundation for Zapatista networks case study
+- Clear citations for key claims about communication systems, infrastructure, and governance
+- Integration with broader research on indigenous digital sovereignty
+- Traceable connections between case study claims and external sources
+
+### Follow-up Recommendations
+- Update the Zapatista networks case study with proper citations to these research reports
+- Connect Zapatista networks to other case studies for comparative analysis
+- Explore modern applications of Zapatista network principles in contemporary contexts
+- Consider relationship to theoretical frameworks on technological sovereignty
+
+## Context Network Update: Website Research Archives Integration - 2025-06-11
+
+### Information Nodes Modified
+- [docs/research/archives.md]: Created dedicated research archives page
+  - **Content Changes**: Comprehensive archive of research reports with citations
+  - **Structure Changes**: Organized by research area with formatted citations and key insights
+  - **Classification Changes**: Created as Website Integration document
+- [docs/research/index.md]: Updated with research archives links
+  - **Content Changes**: Added research archives section with links to citations
+  - **Structure Changes**: Added citation information to research area listings
+  - **Classification Changes**: No classification changes
+- [docs/_data/research_citations.yml]: Created citation data file
+  - **Content Changes**: Structured data for all research citations
+  - **Structure Changes**: Organized by report with nested citation information
+  - **Classification Changes**: Created as Website Data document
+- [docs/_includes/citation_list.html]: Created citation include template
+  - **Content Changes**: Template for displaying citations consistently
+  - **Structure Changes**: Support for single report or multiple report citations
+  - **Classification Changes**: Created as Website Template document
+
+### New Relationships Established
+- Website Research Archives → Context Network Research Archives: surfaces relationship for public visibility
+- Research Citations → Original Sources: provides direct links to external references
+- Website Templates → Citation Display: standardizes presentation of research citations
+
+### Navigation Implications
+- Enhanced public access to research citations
+- Clear progression from research findings to supporting evidence
+- Improved traceability between website content and context network
+- Consistent citation formatting across the website
+
+### Follow-up Recommendations
+- Monitor website build process for any SCSS compilation errors
+- Consider adding citation counts to the research landing page
+- Create a dedicated page for explaining citation methodology
+- Add citation filters by topic, source type, or date
+
 ## Context Network Update: Research Reports Regeneration - 2025-06-11
 
 ### Information Nodes Modified

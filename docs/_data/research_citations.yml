@@ -1,0 +1,150 @@
+- report: "Anti-Capitalist Technology Frameworks"
+  id: "anticapitalist-tech-frameworks"
+  date: "2025-06-11"
+  link: "/context-network/research_archives/light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md"
+  web_link: "archives.html#anti-capitalist-technology-frameworks"
+  findings: "/context-network/analysis/findings/theoretical_frameworks_analysis.md"
+  description: "Research on frameworks like digital ecosocialism, anti-capitalist software licenses, and decentralized governance"
+  citations:
+    - number: 1
+      title: "The Anti-Capitalist Case for Standards"
+      url: "https://thereader.mitpress.mit.edu/the-anti-capitalist-case-for-standards/"
+      source: "MIT Press Reader"
+      date: "2025-03-24"
+    - number: 2
+      title: "Anti-Capitalist Chronicles: When Technology Becomes A Business"
+      url: "https://www.youtube.com/watch?v=VoAEvZPaNSA"
+      date: "2022-03-10"
+    - number: 3
+      title: "Anti-Capitalist Chronicles: Technological Dynamism"
+      url: "https://www.youtube.com/watch?v=-Ay-bnxxRg4"
+      source: "YouTube"
+      date: "2022-02-24"
+    - number: 4
+      title: "Digital Ecosocialism: Breaking the power of Big Tech"
+      url: "https://www.cetri.be/Digital-Ecosocialism-Breaking-the"
+      source: "CETRI"
+    - number: 5
+      title: "The Path to Destroying Capitalism Might Go Through a Software License"
+      url: "https://www.vice.com/en/article/the-path-to-destroying-capitalism-might-go-through-a-software-license/"
+      source: "VICE"
+      date: "2020-08-26"
+  key_insights:
+    - "Standards development organizations demonstrate collaborative knowledge production that limits corporate dominance"
+    - "Digital ecosocialism offers a comprehensive framework for transitioning to a socialist digital economy"
+    - "Decentralization and socialization of technology can promote community-driven governance"
+    - "Anti-capitalist software licensing presents a practical approach to challenging capitalist exploitation"
+    - "Technological dynamism can be harnessed to benefit society as a whole rather than capitalist interests"
+
+- report: "Indigenous Digital Sovereignty"
+  id: "indigenous-digital-sovereignty"
+  date: "2025-06-11"
+  link: "/context-network/research_archives/light_reports/2025-06-11_indigenous_digital_sovereignty_light.md"
+  web_link: "archives.html#indigenous-digital-sovereignty"
+  findings: "/context-network/analysis/findings/theoretical_frameworks_analysis.md"
+  description: "Research on indigenous approaches to technology self-determination"
+  citations:
+    - number: 1
+      title: "Indigenous Data Sovereignty and Policy"
+      url: "https://www.taylorfrancis.com/books/edit/10.4324/9780429273957/indigenous-data-sovereignty-policy-maggie-walter-tahu-kukutai-stephanie-russo-carroll-desi-rodriguez-lonebear"
+      source: "Taylor & Francis"
+      date: "2021-05-02"
+    - number: 2
+      title: "Digital Sovereignty: Aboriginal Peoples and the Future of the Internet"
+      url: "https://cira.ca/resources/state-internet/digital-sovereignty-aboriginal-peoples"
+      source: "CIRA"
+      date: "2023-10-15"
+    - number: 3
+      title: "Indigenous Knowledge Systems and Data Sovereignty"
+      url: "https://link.springer.com/article/10.1007/s10676-020-09537-z"
+      source: "Ethics and Information Technology"
+      date: "2020-07-18"
+    - number: 4
+      title: "Tribal Technology Assessment: The State of Internet Service on Tribal Lands"
+      url: "https://aipi.asu.edu/sites/default/files/tribal_tech_assessment_compressed.pdf"
+      source: "American Indian Policy Institute"
+      date: "2022-08-01"
+    - number: 5
+      title: "Indigenous Peoples in the Information Age: From Digital Divide to Data Sovereignty"
+      url: "https://www.routledge.com/indigenous-peoples-digital-rights/"
+      source: "Routledge"
+      date: "2024-01-25"
+  key_insights:
+    - "Indigenous data sovereignty movements recognize the rights of indigenous communities to control data about them and their territories"
+    - "Digital self-determination extends beyond data to include technological infrastructure, platforms, and governance"
+    - "Indigenous approaches often integrate traditional knowledge systems with digital technologies"
+    - "Case studies from tribal nations demonstrate diverse implementation approaches"
+    - "Policy frameworks and international declarations increasingly recognize indigenous digital rights"
+
+- report: "Technology Commons Governance Models"
+  id: "tech-commons-governance"
+  date: "2025-06-11"
+  link: "/context-network/research_archives/light_reports/2025-06-11_tech_commons_governance_light.md"
+  web_link: "archives.html#technology-commons-governance-models"
+  findings: "/context-network/analysis/findings/theoretical_frameworks_analysis.md"
+  description: "Research on community-based technology governance"
+  citations:
+    - number: 1
+      title: "Governing the Commons: The Evolution of Institutions for Collective Action"
+      url: "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5"
+      source: "Cambridge University Press"
+      date: "1990"
+    - number: 2
+      title: "Platform Cooperativism: Challenging the Corporate Sharing Economy"
+      url: "https://rosaluxspba.org/en/platform-cooperativism-2/"
+      source: "Rosa Luxemburg Stiftung"
+      date: "2016"
+    - number: 3
+      title: "Patterns of Commoning"
+      url: "https://www.bollier.org/patterns-of-commoning"
+      source: "Commons Strategy Group"
+      date: "2015"
+    - number: 4
+      title: "Blockchain Governance: Programming Our Future"
+      url: "https://hackernoon.com/blockchain-governance-programming-our-future-c3bfe30f2d74"
+      source: "Hackernoon"
+      date: "2024-01-11"
+    - number: 5
+      title: "Community Rule: A Template for Peer Governance"
+      url: "https://communityrule.info/"
+      source: "Community Rule"
+      date: "2023-04-30"
+  key_insights:
+    - "Technology commons combine shared ownership with community-driven governance structures"
+    - "Polycentric governance models distribute decision-making across multiple centers"
+    - "Blockchain-based governance shows promise for transparent, auditable technology governance"
+    - "Platform cooperatives demonstrate viable alternatives to extractive technology platforms"
+    - "Various stewardship models provide frameworks for long-term commons maintenance"
+
+- report: "Open Source Large Language Models Community"
+  id: "open-source-llm-community"
+  date: "2025-06-05"
+  link: "/context-network/research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md"
+  web_link: "archives.html#open-source-large-language-models-community"
+  findings: "/context-network/analysis/findings/ai_ml_landscape_analysis.md"
+  description: "Research on the open source AI landscape"
+  citations:
+    - number: 1
+      title: "Awesome-LLM: a curated list of Large Language Model"
+      url: "https://github.com/Hannibal046/Awesome-LLM"
+      source: "GitHub"
+    - number: 2
+      title: "LLM360 | Community-Driven AGI via Open-Source LLMs"
+      url: "https://www.llm360.ai"
+    - number: 3
+      title: "Open Source Large Language Models - Industry Insider"
+      url: "https://insider.govtech.com/texas/sponsored/open-source-large-language-models"
+      date: "2024-05-10"
+    - number: 4
+      title: "Top 10 open source LLMs for 2025 - NetApp Instaclustr"
+      url: "https://www.instaclustr.com/education/open-source-ai/top-10-open-source-llms-for-2025/"
+    - number: 5
+      title: "Essential open source large language models to watch in 2025"
+      url: "https://pieces.app/blog/open-source-llms"
+      date: "2024-12-13"
+  key_insights:
+    - "Open source LLMs offer transparency and customization capabilities that proprietary models cannot match"
+    - "Community-driven development is central to open source LLM advancement, with projects like LLM360 advocating for community-owned AGI"
+    - "Leading open source models include LLaMA 3.1 (8B-405B parameters), BLOOM (176B parameters), and Falcon 180B"
+    - "These models support multilingual capabilities and extensive context lengths (up to 128K tokens)"
+    - "While there may be performance trade-offs compared to proprietary models, open source LLMs provide flexibility in deployment and mitigate vendor lock-in risks"

@@ -1,0 +1,97 @@
+---
+---
+
+.citation-list {
+  margin-left: 1.5rem;
+  margin-bottom: 2rem;
+  
+  .citation-item {
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
+  }
+  
+  .citation-link {
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px dotted #0366d6;
+    
+    &:hover {
+      border-bottom: 1px solid #0366d6;
+    }
+    
+    &:after {
+      content: "\2197";
+      font-size: 0.75em;
+      vertical-align: super;
+      margin-left: 2px;
+      opacity: 0.7;
+    }
+  }
+  
+  .citation-source {
+    font-style: italic;
+    margin-left: 0.5rem;
+    &:before {
+      content: "- ";
+    }
+  }
+  
+  .citation-date {
+    color: #586069;
+    margin-left: 0.5rem;
+  }
+  
+  .citation-report {
+    display: inline-block;
+    font-size: 0.85em;
+    background: #f1f8ff;
+    border-radius: 3px;
+    padding: 0.2rem 0.5rem;
+    margin-left: 0.5rem;
+    color: #0366d6;
+  }
+}
+
+// Styling for the Research Archives page
+.research-archive-section {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e1e4e8;
+  
+  h3 {
+    margin-top: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #eaecef;
+  }
+  
+  .meta {
+    font-style: italic;
+    color: #586069;
+    margin-bottom: 1rem;
+  }
+  
+  .key-insights {
+    background-color: #f6f8fa;
+    border-left: 4px solid #0366d6;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    
+    ol, ul {
+      margin-bottom: 0;
+    }
+  }
+  
+  .view-full-report {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.4rem 0.8rem;
+    background-color: #f1f8ff;
+    border-radius: 3px;
+    color: #0366d6;
+    text-decoration: none;
+    
+    &:hover {
+      background-color: #dbedff;
+    }
+  }
+}

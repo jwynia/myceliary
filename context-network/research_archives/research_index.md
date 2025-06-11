@@ -12,33 +12,51 @@ This index catalogs all research reports, web searches, and URL captures stored 
 ## Content
 
 ### Search Statistics
-- **Total Research Items:** 4
+- **Total Research Items:** 7
 - **Web Searches:** 0
 - **Light Reports:** 4
-- **Medium Reports:** 0
+- **Medium Reports:** 3
 - **Deep Reports:** 0
 - **URL Captures:** 0
 
 ### Recent Research (Last 30 Days)
-1. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** (2025-06-11)
+1. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)** (2025-06-11)
+   - **Type:** Medium Report
+   - **Topic:** Zapatista autonomous technology networks and communication systems
+   - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
+   - **Citations:** 1
+
+2. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)** (2025-06-11)
+   - **Type:** Medium Report
+   - **Topic:** Zapatista digital infrastructure, internet usage, mesh networks, and security
+   - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
+   - **Citations:** 1
+
+3. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)** (2025-06-11)
+   - **Type:** Medium Report
+   - **Topic:** Zapatista autonomous governance, technology, and democratic decision-making
+   - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
+   - **Citations:** 1
+
+4. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** (2025-06-11)
    - **Type:** Light Report
    - **Topic:** Indigenous digital sovereignty and technology self-determination
    - **Related Task:** [Theoretical Frameworks Research](../research_tasks/foundational/theoretical_frameworks.md)
    - **Citations:** 1
 
-2. **[Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)** (2025-06-11)
+5. **[Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)** (2025-06-11)
    - **Type:** Light Report
    - **Topic:** Technology commons governance models and digital commons
    - **Related Task:** [Theoretical Frameworks Research](../research_tasks/foundational/theoretical_frameworks.md)
    - **Citations:** 1
 
-3. **[Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)** (2025-06-11)
+6. **[Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)** (2025-06-11)
    - **Type:** Light Report
    - **Topic:** Anti-capitalist technology frameworks and theoretical approaches
    - **Related Task:** [Theoretical Frameworks Research](../research_tasks/foundational/theoretical_frameworks.md)
    - **Citations:** 1
 
-4. **[AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)** (2025-06-05)
+7. **[AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)** (2025-06-05)
    - **Type:** Light Report
    - **Topic:** Open source large language models community
    - **Related Task:** [AI/ML Technical Landscape Research](../research_tasks/foundational/ai_ml_landscape.md)
@@ -64,6 +82,19 @@ This index catalogs all research reports, web searches, and URL captures stored 
 1. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** (2025-06-11)
    - **Type:** Light Report
    - **Key Insights:** Indigenous data sovereignty, tribal digital sovereignty, self-determination, digital equity, governance frameworks
+
+#### Case Studies: Zapatista Movement
+1. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)** (2025-06-11)
+   - **Type:** Medium Report
+   - **Key Insights:** Radio broadcasting networks, decentralized communication structure, educational integration, community-based content production
+
+2. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)** (2025-06-11)
+   - **Type:** Medium Report
+   - **Key Insights:** Mediated internet access, infrastructure challenges, security considerations, role of external allies in digital communication
+
+3. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)** (2025-06-11)
+   - **Type:** Medium Report
+   - **Key Insights:** Multi-tiered governance structure, "Mandar Obedeciendo" principle, participatory democracy practices, technology in governance
 
 ### Research by Type
 
@@ -96,7 +127,23 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Credibility:** High
 
 #### Medium Research Reports
-*No medium research reports archived yet*
+1. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)**
+   - **Date:** 2025-06-11
+   - **Query:** "Zapatista autonomous technology networks communication systems"
+   - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
+   - **Credibility:** High
+
+2. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)**
+   - **Date:** 2025-06-11
+   - **Query:** "Zapatista digital infrastructure internet mesh networks technology security"
+   - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
+   - **Credibility:** High
+
+3. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)**
+   - **Date:** 2025-06-11
+   - **Query:** "Zapatista autonomous governance technology democratic decision making communication"
+   - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
+   - **Credibility:** High
 
 #### Deep Research Reports
 *No deep research reports archived yet*
@@ -106,16 +153,22 @@ This index catalogs all research reports, web searches, and URL captures stored 
 
 ### Research by Date
 #### June 2025
-1. **2025-06-11:** [Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
-2. **2025-06-11:** [Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)
-3. **2025-06-11:** [Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
-4. **2025-06-05:** [AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)
+1. **2025-06-11:** [Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
+2. **2025-06-11:** [Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
+3. **2025-06-11:** [Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)
+4. **2025-06-11:** [Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
+5. **2025-06-11:** [Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)
+6. **2025-06-11:** [Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
+7. **2025-06-05:** [AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 ### Research by Citation Frequency
 1. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** - 1 citation
 1. **[Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)** - 1 citation
 1. **[Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)** - 1 citation
 1. **[AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)** - 1 citation
+1. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)** - 1 citation
+1. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)** - 1 citation
+1. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)** - 1 citation
 
 ## Usage Guidelines
 
@@ -176,9 +229,10 @@ When citing research in findings or analysis documents, use this format:
 
 ## Metadata
 - **Created:** 2025-06-11
-- **Last Updated:** 2025-06-11 (Regenerated research reports with proper citations)
+- **Last Updated:** 2025-06-11 (Added Zapatista research reports)
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-11: Added three medium research reports on Zapatista networks
 - 2025-06-11: Regenerated research reports with proper citations
 - 2025-06-11: Initial creation of research archives index
