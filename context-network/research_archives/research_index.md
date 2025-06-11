@@ -12,51 +12,69 @@ This index catalogs all research reports, web searches, and URL captures stored 
 ## Content
 
 ### Search Statistics
-- **Total Research Items:** 7
+- **Total Research Items:** 10
 - **Web Searches:** 0
-- **Light Reports:** 4
-- **Medium Reports:** 3
+- **Light Reports:** 6
+- **Medium Reports:** 4
 - **Deep Reports:** 0
 - **URL Captures:** 0
 
 ### Recent Research (Last 30 Days)
-1. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)** (2025-06-11)
+1. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)** (2025-06-11)
+   - **Type:** Medium Report
+   - **Topic:** Time banking software platforms, implementations, and technical infrastructure
+   - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
+   - **Citations:** 1
+
+2. **[Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)** (2025-06-11)
+   - **Type:** Light Report
+   - **Topic:** Critical analysis of time banking as anti-capitalist alternative economic model
+   - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
+   - **Citations:** 1
+
+3. **[Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)** (2025-06-11)
+   - **Type:** Light Report
+   - **Topic:** Contemporary developments in time banking systems and modern platforms
+   - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
+   - **Citations:** 1
+
+4. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)** (2025-06-11)
    - **Type:** Medium Report
    - **Topic:** Zapatista autonomous technology networks and communication systems
    - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
    - **Citations:** 1
 
-2. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)** (2025-06-11)
+5. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)** (2025-06-11)
    - **Type:** Medium Report
    - **Topic:** Zapatista digital infrastructure, internet usage, mesh networks, and security
    - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
    - **Citations:** 1
 
-3. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)** (2025-06-11)
+6. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)** (2025-06-11)
    - **Type:** Medium Report
    - **Topic:** Zapatista autonomous governance, technology, and democratic decision-making
    - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
    - **Citations:** 1
 
-4. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** (2025-06-11)
+7. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** (2025-06-11)
    - **Type:** Light Report
    - **Topic:** Indigenous digital sovereignty and technology self-determination
    - **Related Task:** [Theoretical Frameworks Research](../research_tasks/foundational/theoretical_frameworks.md)
    - **Citations:** 1
 
-5. **[Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)** (2025-06-11)
+8. **[Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)** (2025-06-11)
    - **Type:** Light Report
    - **Topic:** Technology commons governance models and digital commons
    - **Related Task:** [Theoretical Frameworks Research](../research_tasks/foundational/theoretical_frameworks.md)
    - **Citations:** 1
 
-6. **[Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)** (2025-06-11)
+9. **[Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)** (2025-06-11)
    - **Type:** Light Report
    - **Topic:** Anti-capitalist technology frameworks and theoretical approaches
    - **Related Task:** [Theoretical Frameworks Research](../research_tasks/foundational/theoretical_frameworks.md)
    - **Citations:** 1
 
-7. **[AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)** (2025-06-05)
+10. **[AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)** (2025-06-05)
    - **Type:** Light Report
    - **Topic:** Open source large language models community
    - **Related Task:** [AI/ML Technical Landscape Research](../research_tasks/foundational/ai_ml_landscape.md)
@@ -67,6 +85,19 @@ This index catalogs all research reports, web searches, and URL captures stored 
 1. **[AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)** (2025-06-05)
    - **Type:** Light Report
    - **Key Insights:** Open source LLMs, hardware requirements, community governance, implementation pathways
+
+#### Time Banking
+1. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)** (2025-06-11)
+   - **Type:** Medium Report
+   - **Key Insights:** Mature ecosystem, scale considerations, open source options, technical infrastructure, community-centered design
+
+2. **[Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)** (2025-06-11)
+   - **Type:** Light Report
+   - **Key Insights:** Radical roots vs. cooptation, structural limitations, feminist dimensions, state integration issues, critical analysis gap
+
+3. **[Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)** (2025-06-11)
+   - **Type:** Light Report
+   - **Key Insights:** Research interpretation note, relevant finding, technology context, digital transformation, research gap
 
 #### Technology Frameworks
 1. **[Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)** (2025-06-11)
@@ -126,6 +157,18 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Citations:** [analysis/findings/ai_ml_landscape_analysis.md](../analysis/findings/ai_ml_landscape_analysis.md)
    - **Credibility:** High
 
+5. **[Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)**
+   - **Date:** 2025-06-11
+   - **Query:** "time banking anti-capitalist analysis"
+   - **Citations:** [analysis/findings/case_studies/time_banking.md](../analysis/findings/case_studies/time_banking.md)
+   - **Credibility:** High
+
+6. **[Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)**
+   - **Date:** 2025-06-11
+   - **Query:** "contemporary time banking systems development 2020s"
+   - **Citations:** [analysis/findings/case_studies/time_banking.md](../analysis/findings/case_studies/time_banking.md)
+   - **Credibility:** Mixed
+
 #### Medium Research Reports
 1. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)**
    - **Date:** 2025-06-11
@@ -145,6 +188,12 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
    - **Credibility:** High
 
+4. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)**
+   - **Date:** 2025-06-11
+   - **Query:** "time banking software implementations"
+   - **Citations:** [analysis/findings/case_studies/time_banking.md](../analysis/findings/case_studies/time_banking.md)
+   - **Credibility:** High
+
 #### Deep Research Reports
 *No deep research reports archived yet*
 
@@ -153,13 +202,16 @@ This index catalogs all research reports, web searches, and URL captures stored 
 
 ### Research by Date
 #### June 2025
-1. **2025-06-11:** [Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
-2. **2025-06-11:** [Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
-3. **2025-06-11:** [Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)
-4. **2025-06-11:** [Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
-5. **2025-06-11:** [Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)
-6. **2025-06-11:** [Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
-7. **2025-06-05:** [AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)
+1. **2025-06-11:** [Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)
+2. **2025-06-11:** [Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)
+3. **2025-06-11:** [Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)
+4. **2025-06-11:** [Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
+5. **2025-06-11:** [Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
+6. **2025-06-11:** [Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)
+7. **2025-06-11:** [Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
+8. **2025-06-11:** [Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)
+9. **2025-06-11:** [Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
+10. **2025-06-05:** [AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 ### Research by Citation Frequency
 1. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** - 1 citation
@@ -169,6 +221,9 @@ This index catalogs all research reports, web searches, and URL captures stored 
 1. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)** - 1 citation
 1. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)** - 1 citation
 1. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)** - 1 citation
+1. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)** - 1 citation
+1. **[Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)** - 1 citation
+1. **[Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)** - 1 citation
 
 ## Usage Guidelines
 
@@ -233,6 +288,7 @@ When citing research in findings or analysis documents, use this format:
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-11: Added three time banking research reports (1 medium, 2 light)
 - 2025-06-11: Added three medium research reports on Zapatista networks
 - 2025-06-11: Regenerated research reports with proper citations
 - 2025-06-11: Initial creation of research archives index
