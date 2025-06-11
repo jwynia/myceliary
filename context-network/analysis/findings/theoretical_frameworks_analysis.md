@@ -290,13 +290,98 @@ The legacy of socialist cybernetics, from Project Cybersyn to contemporary platf
 - **Next Steps:** Reference specific frameworks for implementation guidance
 - **Related Tasks:** Framework application in specific projects
 
+## Sources and Citations
+
+This section provides direct links to the specific research archives that inform this finding, ensuring traceability between conclusions and original sources. Note that the existing numbered references [1], [2], etc. in the text are being progressively linked to archived research sources.
+
+#### Primary Research Sources
+
+1. **Anti-Capitalist Technology Frameworks**
+   - **Research Type:** Light Report
+   - **Date:** 2025-06-11
+   - **Citation:** [Citation: Research Archives, "Anti-Capitalist Technology Frameworks and Theoretical Approaches Research Report", 2025-06-11](../../../research_archives/light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
+   - **Key Contributions:** Overview of anti-capitalist technology frameworks including standards development, digital ecosocialism, and alternative software licensing models
+   - **Source Evaluation:** 
+     - **Credibility:** Medium-High
+     - **Relevance:** High
+     - **Currency:** Recent
+
+2. **Technology Commons Governance Models**
+   - **Research Type:** Light Report
+   - **Date:** 2025-06-11
+   - **Citation:** [Citation: Research Archives, "Technology Commons Governance Models and Digital Commons Research Report", 2025-06-11](../../../research_archives/light_reports/2025-06-11_tech_commons_governance_light.md)
+   - **Key Contributions:** Analysis of digital commons governance including community-stewarded development, blockchain technology for governance, polycentric governance principles, and cooperative models
+   - **Source Evaluation:** 
+     - **Credibility:** High
+     - **Relevance:** High
+     - **Currency:** Recent
+
+3. **Digital Sovereignty & Indigenous Perspectives**
+   - **Research Type:** Light Report
+   - **Date:** 2025-06-11
+   - **Citation:** [Citation: Research Archives, "Indigenous Digital Sovereignty and Technology Self-Determination Research Report", 2025-06-11](../../../research_archives/light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
+   - **Key Contributions:** Overview of Indigenous data sovereignty, tribal digital sovereignty concepts, self-determination principles, and digital equity considerations
+   - **Source Evaluation:** 
+     - **Credibility:** High
+     - **Relevance:** High
+     - **Currency:** Recent
+
+#### Secondary Sources
+
+*Sources cited within primary research that significantly informed this finding*
+
+1. **Tribal Digital Sovereignty Defined**
+   - **Cited In:** [Citation: Research Archives, "Indigenous Digital Sovereignty and Technology Self-Determination Research Report", 2025-06-11](../../../research_archives/light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
+   - **Original Publication:** American Indian Policy Institute
+   - **Key Contributions:** Definition of tribal digital sovereignty and its importance for digital equity on reservation lands
+   - **Note:** This is a secondary citation. Efforts were not made to locate and archive the primary source.
+
+2. **Anti-Capitalist Software License**
+   - **Cited In:** [Citation: Research Archives, "Anti-Capitalist Technology Frameworks and Theoretical Approaches Research Report", 2025-06-11](../../../research_archives/light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
+   - **Original Publication:** Referenced as citation [5] in the research report
+   - **Key Contributions:** Information about the Anti-Capitalist Software License (ACSL) as both a manifesto and functional license
+   - **Note:** This is a secondary citation. Efforts were not made to locate and archive the primary source.
+
+#### Citation Map
+
+The following diagram illustrates the relationship between claims in this finding and their supporting sources:
+
+```mermaid
+graph TD
+  Finding[Theoretical Frameworks Analysis] --> Claim1[Anti-Capitalist Technology Frameworks]
+  Finding --> Claim2[Technology Commons & Governance]
+  Finding --> Claim3[Digital Sovereignty & Indigenous Perspectives]
+  Finding --> Claim4[Appropriate Technology & Convivial Tools]
+  Finding --> Claim5[Socialist Cybernetics & Platform Cooperativism]
+  
+  Claim1 --> Source1[Anti-Capitalist Technology Frameworks Research]
+  Claim2 --> Source2[Technology Commons Governance Research]
+  Claim3 --> Source3[Indigenous Digital Sovereignty Research]
+  Claim4 --> Source4[Appropriate Technology Research]
+  Claim5 --> Source5[Socialist Cybernetics Research]
+  
+  Source1[Anti-Capitalist Technology Research<br>2025-06-11]
+  Source2[Technology Commons Research<br>2025-06-11]
+  Source3[Indigenous Digital Sovereignty<br>2025-06-11]
+  Source4[Appropriate Technology Research<br>Future Archive Link]
+  Source5[Socialist Cybernetics Research<br>Future Archive Link]
+  
+  class Source1,Source2,Source3,Source4,Source5 sourceNode;
+  class Claim1,Claim2,Claim3,Claim4,Claim5 claimNode;
+  class Finding findingNode;
+```
+
+*Note: Parts 4 and 5 (Appropriate Technology & Convivial Tools and Socialist Cybernetics & Platform Cooperativism) still require research to be archived and properly cited.*
+
 ## Metadata
 - **Created:** 2025-06-05
 - **Created By:** Cline
-- **Last Updated:** 2025-06-05
+- **Last Updated:** 2025-06-11
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-11: Updated Sources and Citations section with actual research archives
+- 2025-06-11: Added Sources and Citations section template structure
 - 2025-06-05: Added Part 5 (Socialist Cybernetics & Platform Cooperativism)
 - 2025-06-05: Added Part 4 (Appropriate Technology & Convivial Tools)
 - 2025-06-05: Added Part 3 (Digital Sovereignty & Indigenous Perspectives)

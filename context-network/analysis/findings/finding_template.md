@@ -45,6 +45,70 @@ This document presents a finding derived from the analysis of source materials, 
 **Strength:** [Strong/Moderate/Weak]
 **Notes:** [Any notes on the quality or interpretation of this evidence]
 
+### Sources and Citations
+
+This section provides direct links to the specific research archives that inform this finding, ensuring traceability between conclusions and original sources.
+
+#### Primary Research Sources
+
+1. **[Topic of Research]**
+   - **Research Type:** [Web Search/Light Report/Medium Report/Deep Report/URL Capture]
+   - **Date:** YYYY-MM-DD
+   - **Citation:** [Citation: Research Archives, "Title of Research", YYYY-MM-DD](../../../research_archives/type/YYYY-MM-DD_topic_type.md)
+   - **Key Contributions:** [Brief description of what this source contributed to the finding]
+   - **Source Evaluation:** 
+     - **Credibility:** [High/Medium/Low]
+     - **Relevance:** [High/Medium/Low]
+     - **Currency:** [Recent/Somewhat current/Outdated]
+
+2. **[Topic of Research]**
+   - **Research Type:** [Web Search/Light Report/Medium Report/Deep Report/URL Capture]
+   - **Date:** YYYY-MM-DD
+   - **Citation:** [Citation: Research Archives, "Title of Research", YYYY-MM-DD](../../../research_archives/type/YYYY-MM-DD_topic_type.md)
+   - **Key Contributions:** [Brief description of what this source contributed to the finding]
+   - **Source Evaluation:** 
+     - **Credibility:** [High/Medium/Low]
+     - **Relevance:** [High/Medium/Low]
+     - **Currency:** [Recent/Somewhat current/Outdated]
+
+#### Secondary Sources
+
+*Sources cited within primary research that significantly informed this finding*
+
+1. **[Name of Source]**
+   - **Cited In:** [Citation: Research Archives, "Title of Research", YYYY-MM-DD](../../../research_archives/type/YYYY-MM-DD_topic_type.md)
+   - **Original Publication:** [Publication details]
+   - **Key Contributions:** [Brief description of what this source contributed to the finding]
+   - **Note:** This is a secondary citation. Efforts [were/were not] made to locate and archive the primary source.
+
+#### Citation Map
+
+*Diagram showing the relationship between claims in this finding and their supporting sources*
+
+```mermaid
+graph TD
+  Finding[Finding Statement] --> Claim1[Claim 1]
+  Finding --> Claim2[Claim 2]
+  Finding --> Claim3[Claim 3]
+  
+  Claim1 --> Source1[Source 1]
+  Claim1 --> Source2[Source 2]
+  Claim2 --> Source2
+  Claim2 --> Source3[Source 3]
+  Claim3 --> Source4[Source 4]
+  
+  Source1[Source 1<br>YYYY-MM-DD]
+  Source2[Source 2<br>YYYY-MM-DD]
+  Source3[Source 3<br>YYYY-MM-DD]
+  Source4[Source 4<br>YYYY-MM-DD]
+  
+  class Source1,Source2,Source3,Source4 sourceNode;
+  class Claim1,Claim2,Claim3 claimNode;
+  class Finding findingNode;
+  
+  %% Add class definitions and styling if needed
+```
+
 ### Analysis
 
 [Detailed analysis of the finding, including:
@@ -97,6 +161,7 @@ This document presents a finding derived from the analysis of source materials, 
   - [analysis/patterns/[related pattern]] - builds-on - Pattern that supports this finding
   - [analysis/relationships/[related relationship]] - considers - Relationship considered in this finding
   - [analysis/findings/[related finding]] - relates-to - Finding that relates to this one
+  - [research_archives/[type]/YYYY-MM-DD_topic_type.md] - cites - Primary research source for this finding
 
 ## Navigation Guidance
 - **Access Context:** Use this document when developing tool requirements or related findings
@@ -111,3 +176,4 @@ This document presents a finding derived from the analysis of source materials, 
 
 ## Change History
 - [Date]: Initial documentation of finding
+- [Date]: Added Sources and Citations section with traceable research links

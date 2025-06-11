@@ -26,8 +26,21 @@ context-network/
 │   ├── entities/                   # Key entities discovered
 │   ├── relationships/              # Relationships between entities
 │   └── findings/                   # Key findings from analysis
+├── research_archives/              # Complete research results storage
+│   ├── research_index.md           # Index of all research reports
+│   ├── web_searches/               # Web search results
+│   ├── light_reports/              # Light research reports
+│   ├── medium_reports/             # Medium research reports
+│   ├── deep_reports/               # Deep research reports
+│   └── url_captures/               # Captured URL content
+├── research_tasks/                 # Research task definitions
+│   ├── research_tasks_index.md     # Index of all research tasks
+│   ├── foundational/               # One-time foundational research
+│   ├── monitoring/                 # Ongoing monitoring research
+│   └── [other task categories]     # Other research categories
 ├── processes/                      # Process documentation
 │   ├── ingestion.md                # Source material ingestion process
+│   ├── research.md                 # Research process and citation
 │   ├── analysis.md                 # Analysis workflows
 │   ├── validation.md               # Validation procedures
 │   └── synthesis.md                # Synthesizing findings
@@ -64,11 +77,17 @@ context-network/
 3. Check `source_material/preprocessing.md` for any preprocessing steps applied
 4. Follow the process in `processes/ingestion.md` for adding new materials
 
+### For Conducting Research
+1. Start with `processes/research.md` to understand the research process and citation requirements
+2. Review existing research tasks in `research_tasks/`
+3. Check existing research archives in `research_archives/` to avoid duplication
+4. Use the research workflow to conduct, archive, and cite new research
+
 ### For Conducting Analysis
 1. Start with `processes/analysis.md` to understand the analysis workflow
 2. Review relevant analysis frameworks in `analysis/frameworks/`
 3. Check existing patterns in `analysis/patterns/` and entities in `analysis/entities/`
-4. Document new findings in `analysis/findings/`
+4. Document new findings in `analysis/findings/` with proper citations to research archives
 
 ### For Tool Development
 1. Start with `tools/requirements/` to understand tool needs

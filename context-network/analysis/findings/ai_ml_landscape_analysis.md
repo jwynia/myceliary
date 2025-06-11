@@ -19,11 +19,13 @@ This analysis synthesizes research findings on the current state of AI/ML techno
   - BLOOM: 176B parameters, 46 natural languages
   - Falcon 180B (TII)
   - h2oGPT: 7B-40B parameters
+  [Citation: Research Archives, "AI/ML Technical Landscape Research Report", 2025-06-05](../../../research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 #### Community Resources
 - LLM360: Community-driven AGI development
 - Curated resources on GitHub (Awesome-LLM, Open-LLMs)
 - Focus on transparency and ethical development
+[Citation: Research Archives, "AI/ML Technical Landscape Research Report", 2025-06-05](../../../research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 ### 2. Decentralized Training Approaches
 
@@ -31,12 +33,14 @@ This analysis synthesizes research findings on the current state of AI/ML techno
 - **Federated Learning**: Enables collaborative model training without data sharing
 - **Decentralized Protocols**: Share model updates between network nodes
 - **Frameworks**: Hivemind and Petals support decentralized algorithms
+[Citation: Research Archives, "AI/ML Technical Landscape Research Report", 2025-06-05](../../../research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 #### Benefits
 - Enhanced data privacy and security
 - Democratization of AI development
 - Ethical use of public on-chain data
 - Improved scalability and performance
+[Citation: Research Archives, "AI/ML Technical Landscape Research Report", 2025-06-05](../../../research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 ### 3. Edge Computing and Local Deployment
 
@@ -80,12 +84,14 @@ This analysis synthesizes research findings on the current state of AI/ML techno
 #### Energy Consumption
 - Training large models requires significant power
 - Data centers projected to increase global electricity usage
+[Citation: Research Archives, "AI/ML Technical Landscape Research Report", 2025-06-05](../../../research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 #### Efficiency Techniques
 - Model pruning and quantization
 - Knowledge distillation
 - Energy-efficient hardware
 - Specialized architectures (MobileNet, EfficientNet)
+[Citation: Research Archives, "AI/ML Technical Landscape Research Report", 2025-06-05](../../../research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 ### 7. Local-First Software Principles
 
@@ -380,12 +386,56 @@ Mesh networking and distribution approaches enable resilient, community-controll
 ## Navigation Guide
 [Previous content remains unchanged...]
 
+## Sources and Citations
+
+This section provides direct links to the specific research archives that inform this finding, ensuring traceability between conclusions and original sources.
+
+#### Primary Research Sources
+
+1. **Open Source Large Language Models Community**
+   - **Research Type:** Light Report
+   - **Date:** 2025-06-05
+   - **Citation:** [Citation: Research Archives, "AI/ML Technical Landscape Research Report", 2025-06-05](../../../research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md)
+   - **Key Contributions:** Comprehensive overview of available open source models, hardware requirements, implementation considerations, governance models, and deployment pathways
+   - **Source Evaluation:** 
+     - **Credibility:** High
+     - **Relevance:** High
+     - **Currency:** Recent
+
+#### Citation Map
+
+```mermaid
+graph TD
+  Finding[AI/ML Technical Landscape Analysis] --> Claim1[Open Source LLM Ecosystem]
+  Finding --> Claim2[Decentralized Training]
+  Finding --> Claim3[Edge Computing]
+  Finding --> Claim4[Algorithmic Justice]
+  Finding --> Claim5[Explainable AI]
+  Finding --> Claim6[Environmental Impact]
+  Finding --> Claim7[Local-First Software]
+  Finding --> Claim8[Mesh Networking]
+  
+  Claim1 --> Source1[AI/ML Technical Landscape Research Report]
+  Claim2 --> Source1
+  Claim3 --> Source1
+  Claim6 --> Source1
+  Claim7 --> Source1
+  Claim8 --> Source1
+  
+  Source1[AI/ML Technical Landscape Research Report<br>2025-06-05]
+  
+  class Source1 sourceNode;
+  class Claim1,Claim2,Claim3,Claim4,Claim5,Claim6,Claim7,Claim8 claimNode;
+  class Finding findingNode;
+```
+
 ## Metadata
 - **Created:** 2025-06-05
 - **Created By:** Cline
-- **Last Updated:** 2025-06-06
+- **Last Updated:** 2025-06-11
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-11: Added Sources and Citations section with traceable research links
 - 2025-06-06: Expanded all sections with comprehensive analysis
 - 2025-06-05: Initial creation based on research findings
