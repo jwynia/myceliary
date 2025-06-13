@@ -12,15 +12,39 @@ This index catalogs all research reports, web searches, and URL captures stored 
 ## Content
 
 ### Search Statistics
-- **Total Research Items:** 10
+- **Total Research Items:** 14
 - **Web Searches:** 0
 - **Light Reports:** 6
-- **Medium Reports:** 4
+- **Medium Reports:** 8
 - **Deep Reports:** 0
 - **URL Captures:** 0
 
 ### Recent Research (Last 30 Days)
-1. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)** (2025-06-11)
+1. **[Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)** (2025-06-12)
+   - **Type:** Medium Report
+   - **Topic:** Location sharing safety check-in systems digital platforms stalking risks privacy controls
+   - **Related Task:** [Safety Systems for Vulnerable Users Research](../research_tasks/governance/safety_systems_for_vulnerable_users.md)
+   - **Citations:** 1
+
+2. **[Whisper Networks and Informal Safety Mechanisms Research Report](medium_reports/2025-06-12_whisper_networks_safety_medium.md)** (2025-06-12)
+   - **Type:** Medium Report
+   - **Topic:** Whisper networks informal safety mechanisms sexual harassment warning systems
+   - **Related Task:** [Safety Systems for Vulnerable Users Research](../research_tasks/governance/safety_systems_for_vulnerable_users.md)
+   - **Citations:** 1
+
+3. **[Reputation Systems in P2P Platforms Research Report](medium_reports/2025-06-12_reputation_systems_p2p_medium.md)** (2025-06-12)
+   - **Type:** Medium Report
+   - **Topic:** Reputation systems peer-to-peer platforms trust mechanisms user verification
+   - **Related Task:** [Safety Systems for Vulnerable Users Research](../research_tasks/governance/safety_systems_for_vulnerable_users.md)
+   - **Citations:** 1
+
+4. **[Safety Systems for Vulnerable Users Research Report](medium_reports/2025-06-12_safety_systems_vulnerable_users_medium.md)** (2025-06-12)
+   - **Type:** Medium Report
+   - **Topic:** Safety systems vulnerable users community platforms digital harassment stalking protection
+   - **Related Task:** [Safety Systems for Vulnerable Users Research](../research_tasks/governance/safety_systems_for_vulnerable_users.md)
+   - **Citations:** 1
+
+5. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)** (2025-06-11)
    - **Type:** Medium Report
    - **Topic:** Time banking software platforms, implementations, and technical infrastructure
    - **Related Task:** [Historical Case Studies Research](../research_tasks/foundational/historical_case_studies.md)
@@ -170,25 +194,49 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Credibility:** Mixed
 
 #### Medium Research Reports
-1. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)**
+1. **[Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)**
+   - **Date:** 2025-06-12
+   - **Query:** "location sharing safety check-in systems digital platforms stalking risks privacy controls personal safety apps"
+   - **Citations:** [analysis/findings/safety_systems_for_vulnerable_users.md](../analysis/findings/safety_systems_for_vulnerable_users.md)
+   - **Credibility:** High
+
+2. **[Whisper Networks and Informal Safety Mechanisms Research Report](medium_reports/2025-06-12_whisper_networks_safety_medium.md)**
+   - **Date:** 2025-06-12
+   - **Query:** "whisper networks informal safety mechanisms sexual harassment warning systems digital platforms marginalized communities"
+   - **Citations:** [analysis/findings/safety_systems_for_vulnerable_users.md](../analysis/findings/safety_systems_for_vulnerable_users.md)
+   - **Credibility:** High
+
+3. **[Reputation Systems in P2P Platforms Research Report](medium_reports/2025-06-12_reputation_systems_p2p_medium.md)**
+   - **Date:** 2025-06-12
+   - **Query:** "reputation systems peer-to-peer platforms trust mechanisms user verification community safety"
+   - **Citations:** [analysis/findings/safety_systems_for_vulnerable_users.md](../analysis/findings/safety_systems_for_vulnerable_users.md)
+   - **Credibility:** High
+
+4. **[Safety Systems for Vulnerable Users Research Report](medium_reports/2025-06-12_safety_systems_vulnerable_users_medium.md)**
+   - **Date:** 2025-06-12
+   - **Query:** "safety systems vulnerable users community platforms digital harassment stalking protection mechanisms"
+   - **Citations:** [analysis/findings/safety_systems_for_vulnerable_users.md](../analysis/findings/safety_systems_for_vulnerable_users.md)
+   - **Credibility:** High
+
+5. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)**
    - **Date:** 2025-06-11
    - **Query:** "Zapatista autonomous technology networks communication systems"
    - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
    - **Credibility:** High
 
-2. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)**
+6. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)**
    - **Date:** 2025-06-11
    - **Query:** "Zapatista digital infrastructure internet mesh networks technology security"
    - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
    - **Credibility:** High
 
-3. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)**
+7. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)**
    - **Date:** 2025-06-11
    - **Query:** "Zapatista autonomous governance technology democratic decision making communication"
    - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
    - **Credibility:** High
 
-4. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)**
+8. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)**
    - **Date:** 2025-06-11
    - **Query:** "time banking software implementations"
    - **Citations:** [analysis/findings/case_studies/time_banking.md](../analysis/findings/case_studies/time_banking.md)
@@ -202,16 +250,20 @@ This index catalogs all research reports, web searches, and URL captures stored 
 
 ### Research by Date
 #### June 2025
-1. **2025-06-11:** [Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)
-2. **2025-06-11:** [Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)
-3. **2025-06-11:** [Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)
-4. **2025-06-11:** [Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
-5. **2025-06-11:** [Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
-6. **2025-06-11:** [Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)
-7. **2025-06-11:** [Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
-8. **2025-06-11:** [Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)
-9. **2025-06-11:** [Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
-10. **2025-06-05:** [AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)
+1. **2025-06-12:** [Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)
+2. **2025-06-12:** [Whisper Networks and Informal Safety Mechanisms Research Report](medium_reports/2025-06-12_whisper_networks_safety_medium.md)
+3. **2025-06-12:** [Reputation Systems in P2P Platforms Research Report](medium_reports/2025-06-12_reputation_systems_p2p_medium.md)
+4. **2025-06-12:** [Safety Systems for Vulnerable Users Research Report](medium_reports/2025-06-12_safety_systems_vulnerable_users_medium.md)
+5. **2025-06-11:** [Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)
+6. **2025-06-11:** [Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)
+7. **2025-06-11:** [Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)
+8. **2025-06-11:** [Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
+9. **2025-06-11:** [Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
+10. **2025-06-11:** [Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)
+11. **2025-06-11:** [Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
+12. **2025-06-11:** [Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)
+13. **2025-06-11:** [Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
+14. **2025-06-05:** [AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 ### Research by Citation Frequency
 1. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** - 1 citation
@@ -284,10 +336,11 @@ When citing research in findings or analysis documents, use this format:
 
 ## Metadata
 - **Created:** 2025-06-11
-- **Last Updated:** 2025-06-11 (Added Zapatista research reports)
+- **Last Updated:** 2025-06-12 (Added Safety Systems research reports)
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-12: Added four medium research reports on safety systems for vulnerable users
 - 2025-06-11: Added three time banking research reports (1 medium, 2 light)
 - 2025-06-11: Added three medium research reports on Zapatista networks
 - 2025-06-11: Regenerated research reports with proper citations
