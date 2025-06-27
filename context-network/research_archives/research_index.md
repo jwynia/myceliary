@@ -12,15 +12,52 @@ This index catalogs all research reports, web searches, and URL captures stored 
 ## Content
 
 ### Search Statistics
-- **Total Research Items:** 14
+- **Total Research Items:** 20
 - **Web Searches:** 0
-- **Light Reports:** 6
-- **Medium Reports:** 8
-- **Deep Reports:** 0
-- **URL Captures:** 0
+- **Light Reports:** 7
+- **Medium Reports:** 9
+- **Deep Reports:** 1
+- **URL Captures:** 2
+- **Analysis Documents:** 1
 
 ### Recent Research (Last 30 Days)
-1. **[Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)** (2025-06-12)
+1. **[Independent Research Labs Deep Report](deep_reports/2025-06-27_independent_research_labs_deep.md)** (2025-06-27)
+   - **Type:** Deep Report
+   - **Topic:** Independent research labs as alternative models for technology development
+   - **Related Task:** Research into Ink & Switch and similar organizations
+   - **Citations:** 0
+
+2. **[Ink & Switch Homepage Capture](url_captures/2025-06-27_ink_and_switch_homepage.md)** (2025-06-27)
+   - **Type:** URL Capture
+   - **Topic:** Ink & Switch research lab overview, mission, and projects
+   - **Related Task:** Research into Ink & Switch and similar organizations
+   - **Citations:** 0
+
+3. **[Independent Research Lab Model Analysis](analysis/independent_research_lab_model_analysis.md)** (2025-06-27)
+   - **Type:** Analysis Document
+   - **Topic:** Analysis of independent research lab model, funding, and operations
+   - **Related Task:** Research into Ink & Switch and similar organizations
+   - **Citations:** 0
+
+4. **[Local-First Software: You Own Your Data, in Spite of the Cloud](url_captures/2025-06-18_local_first_software_url.md)** (2025-06-18)
+   - **Type:** URL Capture
+   - **Topic:** Local-first software principles, data ownership, collaborative software architecture
+   - **Related Task:** Integration of local-first principles into anti-capitalist technology frameworks
+   - **Citations:** 0
+
+2. **[Conflict-free Replicated Data Types (CRDTs) for Community-Controlled Applications](medium_reports/2025-06-18_crdts_community_applications_medium.md)** (2025-06-18)
+   - **Type:** Medium Report
+   - **Topic:** CRDTs for community-controlled applications, decentralized collaboration technology
+   - **Related Task:** Integration of local-first principles into anti-capitalist technology frameworks
+   - **Citations:** 0
+
+3. **[Local-First Software Implementations and Practical Examples](light_reports/2025-06-18_local_first_implementations_light.md)** (2025-06-18)
+   - **Type:** Light Report
+   - **Topic:** Local-first software implementations and practical examples
+   - **Related Task:** Integration of local-first principles into anti-capitalist technology frameworks
+   - **Citations:** 0
+
+4. **[Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)** (2025-06-12)
    - **Type:** Medium Report
    - **Topic:** Location sharing safety check-in systems digital platforms stalking risks privacy controls
    - **Related Task:** [Safety Systems for Vulnerable Users Research](../research_tasks/governance/safety_systems_for_vulnerable_users.md)
@@ -105,6 +142,31 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Citations:** 1
 
 ### Research by Topic
+#### Independent Research Labs
+1. **[Independent Research Labs Deep Report](deep_reports/2025-06-27_independent_research_labs_deep.md)** (2025-06-27)
+   - **Type:** Deep Report
+   - **Key Insights:** Alternative funding models, research freedom principles, organizational structures, relevance to anti-capitalist technology
+
+2. **[Ink & Switch Homepage Capture](url_captures/2025-06-27_ink_and_switch_homepage.md)** (2025-06-27)
+   - **Type:** URL Capture
+   - **Key Insights:** Four research areas (local-first, malleable software, programmable ink, universal version control), production software (Muse, Automerge)
+
+3. **[Independent Research Lab Model Analysis](analysis/independent_research_lab_model_analysis.md)** (2025-06-27)
+   - **Type:** Analysis Document
+   - **Key Insights:** Funding independence strategies, operational challenges, success factors, recommendations for myceliary project
+#### Local-First Software
+1. **[Local-First Software: You Own Your Data, in Spite of the Cloud](url_captures/2025-06-18_local_first_software_url.md)** (2025-06-18)
+   - **Type:** URL Capture
+   - **Key Insights:** Seven ideals framework, data ownership vs. corporate control, CRDT technology promise, practical implementation pathways
+
+2. **[Conflict-free Replicated Data Types (CRDTs) for Community-Controlled Applications](medium_reports/2025-06-18_crdts_community_applications_medium.md)** (2025-06-18)
+   - **Type:** Medium Report
+   - **Key Insights:** Decentralization without coordination, automatic conflict resolution, resilience and fault tolerance, community-scale collaboration
+
+3. **[Local-First Software Implementations and Practical Examples](light_reports/2025-06-18_local_first_implementations_light.md)** (2025-06-18)
+   - **Type:** Light Report
+   - **Key Insights:** Data control and security, resilience and reliability, developer benefits, practical implementation examples
+
 #### AI/ML
 1. **[AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)** (2025-06-05)
    - **Type:** Light Report
@@ -193,6 +255,12 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Citations:** [analysis/findings/case_studies/time_banking.md](../analysis/findings/case_studies/time_banking.md)
    - **Credibility:** Mixed
 
+7. **[Local-First Software Implementations and Practical Examples](light_reports/2025-06-18_local_first_implementations_light.md)**
+   - **Date:** 2025-06-18
+   - **Query:** "local-first software implementations and practical examples"
+   - **Citations:** [Future citations]
+   - **Credibility:** High
+
 #### Medium Research Reports
 1. **[Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)**
    - **Date:** 2025-06-12
@@ -242,28 +310,61 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Citations:** [analysis/findings/case_studies/time_banking.md](../analysis/findings/case_studies/time_banking.md)
    - **Credibility:** High
 
+9. **[Conflict-free Replicated Data Types (CRDTs) for Community-Controlled Applications](medium_reports/2025-06-18_crdts_community_applications_medium.md)**
+   - **Date:** 2025-06-18
+   - **Query:** "Conflict-free Replicated Data Types (CRDTs) for community-controlled applications"
+   - **Citations:** [Future citations]
+   - **Credibility:** High
+
 #### Deep Research Reports
-*No deep research reports archived yet*
+1. **[Independent Research Labs Deep Report](deep_reports/2025-06-27_independent_research_labs_deep.md)**
+   - **Date:** 2025-06-27
+   - **Query:** "independent research labs as alternative models for technology development"
+   - **Citations:** [Future citations]
+   - **Credibility:** High
 
 #### URL Captures
-*No URL captures archived yet*
+1. **[Ink & Switch Homepage Capture](url_captures/2025-06-27_ink_and_switch_homepage.md)**
+   - **Date:** 2025-06-27
+   - **URL:** "https://www.inkandswitch.com"
+   - **Citations:** [Future citations]
+   - **Credibility:** High
+
+2. **[Local-First Software: You Own Your Data, in Spite of the Cloud](url_captures/2025-06-18_local_first_software_url.md)**
+   - **Date:** 2025-06-18
+   - **URL:** "https://www.inkandswitch.com/essay/local-first/"
+   - **Citations:** [Future citations]
+   - **Credibility:** High
+
+#### Analysis Documents
+1. **[Independent Research Lab Model Analysis](analysis/independent_research_lab_model_analysis.md)**
+   - **Date:** 2025-06-27
+   - **Topic:** "Analysis of independent research lab model, funding, and operations"
+   - **Citations:** [Future citations]
+   - **Credibility:** High
 
 ### Research by Date
 #### June 2025
-1. **2025-06-12:** [Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)
-2. **2025-06-12:** [Whisper Networks and Informal Safety Mechanisms Research Report](medium_reports/2025-06-12_whisper_networks_safety_medium.md)
-3. **2025-06-12:** [Reputation Systems in P2P Platforms Research Report](medium_reports/2025-06-12_reputation_systems_p2p_medium.md)
-4. **2025-06-12:** [Safety Systems for Vulnerable Users Research Report](medium_reports/2025-06-12_safety_systems_vulnerable_users_medium.md)
-5. **2025-06-11:** [Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)
-6. **2025-06-11:** [Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)
-7. **2025-06-11:** [Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)
-8. **2025-06-11:** [Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
-9. **2025-06-11:** [Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
-10. **2025-06-11:** [Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)
-11. **2025-06-11:** [Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
-12. **2025-06-11:** [Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)
-13. **2025-06-11:** [Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
-14. **2025-06-05:** [AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)
+1. **2025-06-27:** [Independent Research Labs Deep Report](deep_reports/2025-06-27_independent_research_labs_deep.md)
+2. **2025-06-27:** [Ink & Switch Homepage Capture](url_captures/2025-06-27_ink_and_switch_homepage.md)
+3. **2025-06-27:** [Independent Research Lab Model Analysis](analysis/independent_research_lab_model_analysis.md)
+4. **2025-06-18:** [Local-First Software: You Own Your Data, in Spite of the Cloud](url_captures/2025-06-18_local_first_software_url.md)
+2. **2025-06-18:** [Conflict-free Replicated Data Types (CRDTs) for Community-Controlled Applications](medium_reports/2025-06-18_crdts_community_applications_medium.md)
+3. **2025-06-18:** [Local-First Software Implementations and Practical Examples](light_reports/2025-06-18_local_first_implementations_light.md)
+4. **2025-06-12:** [Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)
+5. **2025-06-12:** [Whisper Networks and Informal Safety Mechanisms Research Report](medium_reports/2025-06-12_whisper_networks_safety_medium.md)
+6. **2025-06-12:** [Reputation Systems in P2P Platforms Research Report](medium_reports/2025-06-12_reputation_systems_p2p_medium.md)
+7. **2025-06-12:** [Safety Systems for Vulnerable Users Research Report](medium_reports/2025-06-12_safety_systems_vulnerable_users_medium.md)
+8. **2025-06-11:** [Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)
+9. **2025-06-11:** [Time Banking Anti-Capitalist Analysis Research Report](light_reports/2025-06-11_time_banking_anticapitalist_light.md)
+10. **2025-06-11:** [Contemporary Time Banking Systems Development Research Report](light_reports/2025-06-11_contemporary_time_banking_systems_light.md)
+11. **2025-06-11:** [Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)
+12. **2025-06-11:** [Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)
+13. **2025-06-11:** [Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)
+14. **2025-06-11:** [Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)
+15. **2025-06-11:** [Technology Commons Governance Models Research Report](light_reports/2025-06-11_tech_commons_governance_light.md)
+16. **2025-06-11:** [Anti-Capitalist Technology Frameworks Research Report](light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md)
+17. **2025-06-05:** [AI/ML Technical Landscape Research Report](light_reports/2025-06-05_ai_ml_landscape_light.md)
 
 ### Research by Citation Frequency
 1. **[Indigenous Digital Sovereignty Research Report](light_reports/2025-06-11_indigenous_digital_sovereignty_light.md)** - 1 citation
@@ -336,10 +437,11 @@ When citing research in findings or analysis documents, use this format:
 
 ## Metadata
 - **Created:** 2025-06-11
-- **Last Updated:** 2025-06-12 (Added Safety Systems research reports)
+- **Last Updated:** 2025-06-18 (Added Local-First Software research)
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-18: Added three local-first software research entries (1 URL capture, 1 medium report, 1 light report)
 - 2025-06-12: Added four medium research reports on safety systems for vulnerable users
 - 2025-06-11: Added three time banking research reports (1 medium, 2 light)
 - 2025-06-11: Added three medium research reports on Zapatista networks
