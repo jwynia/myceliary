@@ -32,6 +32,7 @@ This document provides a centralized index of all research tasks across the proj
 | Task | Status | Priority | Next Run/Due | Last Updated |
 |------|--------|----------|--------------|--------------|
 | [Community Tech Assessment](frameworks/community_tech_assessment.md) | Not Started | Medium | 2025-07-15 | 2025-06-03 |
+| [Community Alternatives Research Plan](frameworks/community_alternatives_research_plan.md) | In Progress | High | 2025-07-01 | 2025-06-27 |
 
 ### Geographic Research
 | Task | Status | Priority | Next Run/Due | Last Updated |
@@ -90,22 +91,23 @@ graph TD
 
 ### Status Distribution
 - Not Started: 8 tasks
-- In Progress: 4 tasks
+- In Progress: 5 tasks
 - Completed: 3 tasks
-- Total: 15 tasks
+- Total: 16 tasks
 
 ### Priority Distribution
-- High Priority: 9 tasks
+- High Priority: 10 tasks
 - Medium Priority: 6 tasks
 - Low Priority: 0 tasks
 
 ## Metadata
 - **Created:** 2025-06-05
 - **Created By:** Cline
-- **Last Updated:** 2025-06-08
+- **Last Updated:** 2025-06-27
 - **Updated By:** Cline
 
 ## Change History
+- 2025-06-27: Added Community Alternatives Research Plan task
 - 2025-06-08: Added Safety Systems for Vulnerable Users task and updated statistics
 - 2025-06-06: Updated Historical Case Studies task to Completed
 - 2025-06-05: Initial creation of research tasks index
