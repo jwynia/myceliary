@@ -22,10 +22,12 @@ graph TD
 ### Key Resources
 - 🔬 [Research Dashboard](research/) - Track ongoing research and findings
 - 🛠️ [Analysis Frameworks](frameworks/) - Tools for evaluating AI/ML initiatives
-- 📚 [Case Studies](research/#case-studies) - Real-world examples and lessons
+- 📚 [Case Studies](case-studies/) - Real-world examples and lessons
 - 📊 [Latest Analysis](analysis/) - Current insights and patterns
 - 💻 [P2P Platform Development](p2p_platform/) - Peer-to-peer community platform architecture
 - 🚀 [High-Leverage Projects](projects/) - Strategic technology project framework
+- 🔄 [Community Alternatives](alternatives/) - Replace exploitative apps with community-owned solutions
+- 🛡️ [Safety Systems](safety/) - Protect vulnerable users in community platforms
 
 ## Latest Research Progress
 
