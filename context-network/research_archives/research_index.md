@@ -12,16 +12,28 @@ This index catalogs all research reports, web searches, and URL captures stored 
 ## Content
 
 ### Search Statistics
-- **Total Research Items:** 20
+- **Total Research Items:** 22
 - **Web Searches:** 0
 - **Light Reports:** 7
-- **Medium Reports:** 9
+- **Medium Reports:** 11
 - **Deep Reports:** 1
 - **URL Captures:** 2
 - **Analysis Documents:** 1
 
 ### Recent Research (Last 30 Days)
-1. **[Independent Research Labs Deep Report](deep_reports/2025-06-27_independent_research_labs_deep.md)** (2025-06-27)
+1. **[Fruit Sharing Apps Gleaning Coordination Platforms](medium_reports/2025-06-28_fruit_sharing_gleaning_apps_medium.md)** (2025-06-28)
+   - **Type:** Medium Report
+   - **Topic:** Fruit sharing apps gleaning coordination platforms urban harvest sharing excess produce donation apps community food sharing technology
+   - **Related Task:** Analysis of fruit sharing and gleaning apps through anti-capitalist framework
+   - **Citations:** 1
+
+2. **[OLIO App Business Models Monetization](medium_reports/2025-06-28_olio_business_models_medium.md)** (2025-06-28)
+   - **Type:** Medium Report
+   - **Topic:** OLIO app Nextdoor produce sharing NeighborFood Ripe Near Me fruit sharing apps business models monetization
+   - **Related Task:** Analysis of fruit sharing and gleaning apps through anti-capitalist framework
+   - **Citations:** 1
+
+3. **[Independent Research Labs Deep Report](deep_reports/2025-06-27_independent_research_labs_deep.md)** (2025-06-27)
    - **Type:** Deep Report
    - **Topic:** Independent research labs as alternative models for technology development
    - **Related Task:** Research into Ink & Switch and similar organizations
