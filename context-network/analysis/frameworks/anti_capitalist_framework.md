@@ -113,6 +113,14 @@ Operating under hostile conditions:
 - How can the tool function under conditions of active repression or surveillance?
 - What backup systems exist if primary infrastructure is compromised?
 
+**8. Cannae Opportunity Analysis**
+Drawing from Joan Westenberg's analysis ([YouTube](https://www.youtube.com/watch?v=BOepYPGJDfE)):
+- What mental models does the dominant system treat as unchangeable truth?
+- Where does their past success create exploitable blind spots?
+- How can community alternatives position themselves as "Hannibal" to capitalism's "Roman legions"?
+- What would it look like to turn their greatest strengths into weaknesses?
+- When might their rigid orthodoxy lead to a "Cannae moment" of catastrophic failure?
+
 #### Secondary Questions
 
 **Community Needs Assessment**
@@ -174,17 +182,39 @@ Tools for collective power and corporate oversight:
 - Community self-defense
 - Alternative information networks
 
+### Strategic Positioning Against Mental Model Rigidity
+
+Based on the Cannae Problem analysis, position anti-capitalist AI applications to exploit systemic blind spots:
+
+#### Identifying Orthodox Vulnerabilities
+- **Scale Fixation**: Deploy deliberately unscalable, hyperlocal solutions
+- **Efficiency Obsession**: Build redundant, care-centered systems
+- **Individual Responsibility**: Create collective solutions to "individual" problems
+- **Monetization Imperative**: Develop robust gift economies
+- **Competition Ideology**: Demonstrate superior outcomes through cooperation
+
+#### Creating Strategic Advantages
+As Westenberg notes: "Hannibal didn't try to beat the Romans at their own game. He completely reframed the problem."
+
+For anti-capitalist AI:
+1. Never compete on capitalist metrics (ROI, growth, efficiency)
+2. Create new success measures that capitalism cannot compute
+3. Position solutions where mental model blind spots are largest
+4. Prepare to act decisively during system "Cannae moments"
+
 ### Application Process
 1. **Identify the Gap** - What human need is currently unmet or poorly served?
 2. **Analyze the Failure** - Why isn't capitalism addressing this need adequately?
-3. **Map Power Relations** - Who benefits from the current situation and who suffers?
-4. **Explore AI Potential** - How could AI/LLM capabilities address the underlying issue?
-5. **Design for Anti-Capture** - What features would prevent commodification?
-6. **Test Community Fit** - Does this actually serve identified community needs and knowledge systems?
-7. **Plan for Sustainability** - How can this exist and grow outside capitalist frameworks?
-8. **Assess Ecological Impact** - What are the environmental costs and appropriate technology considerations?
-9. **Security and Resilience Planning** - How does this function under crisis or repression conditions?
-10. **Network Integration** - How does this connect with other anti-capitalist tools and communities?
+3. **Map Mental Models** - What orthodox beliefs prevent the dominant system from seeing alternatives?
+4. **Map Power Relations** - Who benefits from the current situation and who suffers?
+5. **Explore AI Potential** - How could AI/LLM capabilities address the underlying issue?
+6. **Design for Anti-Capture** - What features would prevent commodification?
+7. **Position Strategically** - How can this exploit identified mental model rigidities?
+8. **Test Community Fit** - Does this actually serve identified community needs and knowledge systems?
+9. **Plan for Sustainability** - How can this exist and grow outside capitalist frameworks?
+10. **Assess Ecological Impact** - What are the environmental costs and appropriate technology considerations?
+11. **Security and Resilience Planning** - How does this function under crisis or repression conditions?
+12. **Network Integration** - How does this connect with other anti-capitalist tools and communities?
 
 ### Evaluation Criteria
 
@@ -251,6 +281,14 @@ Tools for collective power and corporate oversight:
 - Balancing immediate harm reduction with systemic change
 - Navigating the gap between ideal and practical implementations
 
+#### Avoiding Our Own Cannae
+As Westenberg warns: "Success creates its own failure mechanisms."
+- What orthodoxies are we developing that could become vulnerabilities?
+- Where might our success create rigidity that prevents adaptation?
+- How do we maintain strategic flexibility while building alternatives?
+- What practices ensure we question our own mental models?
+- When do our strengths (solidarity, consensus, ideological clarity) become weaknesses?
+
 ### Further Development
 This framework requires iterative refinement through:
 - Testing with specific community organizing contexts
@@ -265,6 +303,7 @@ This framework requires iterative refinement through:
   - None currently defined
 - **Related Nodes:**
   - analysis/frameworks/capitalist_trap_detector.md - complements - Works together to evaluate and strengthen solutions
+  - analysis/patterns/mental_model_trap_patterns.md - integrates - Applies Cannae Problem insights to anti-capitalist strategy
   - processes/research.md - relates-to - Provides research methodology for framework application
   - foundation/principles.md - implements - Guided by project principles
 
@@ -288,8 +327,9 @@ This framework requires iterative refinement through:
 
 ## Metadata
 - **Created:** 2025-06-03
-- **Last Updated:** 2025-06-03
-- **Updated By:** Cline (Document Integration Task)
+- **Last Updated:** 2025-07-23
+- **Updated By:** Claude (Cannae Problem Integration)
 
 ## Change History
 - 2025-06-03: Initial integration from ai_anticapitalist_framework.md into context network structure
+- 2025-07-23: Added Cannae Opportunity Analysis and Strategic Positioning based on Joan Westenberg's analysis

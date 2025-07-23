@@ -133,6 +133,27 @@ This node provides systematic analysis methods to identify when AI solutions tha
 - What would universal access look like instead of algorithmic filtering?
 - How can we design systems that actively counter existing biases rather than encoding them?
 
+#### The Mental Model Rigidity Trap
+**Pattern:** Exploits the "Cannae Problem" where past success creates blind spots, preventing systems from recognizing or adapting to fundamentally different approaches. As Joan Westenberg notes: "Success creates its own failure mechanisms." ([YouTube](https://www.youtube.com/watch?v=BOepYPGJDfE))
+
+**Warning Signs:**
+- Dismisses alternatives as "unrealistic" or "unscalable"
+- Interprets community solutions as temporary anomalies
+- Doubles down on failing approaches rather than questioning assumptions
+- Cannot process value outside monetization frameworks
+- Exhibits "curse of expertise" - too invested in current models to see alternatives
+
+**Example Analyses:**
+- "Gig economy platforms adding worker benefits" → Cannot see worker cooperatives as superior model
+- "Carbon credit marketplaces" → Cannot recognize gift economies or commons management
+- "AI efficiency tools for nonprofits" → Blind to mutual aid networks that bypass nonprofit structures
+
+**Strengthening Questions:**
+- What mental models does this system take as unchangeable truth?
+- How can we position community alternatives to exploit these rigid assumptions?
+- Where is their "greatest strength" actually their greatest vulnerability?
+- What would a "Hannibal strategy" look like for this context?
+
 ### Solution Strengthening Process
 
 #### Phase 1: Structural Analysis
@@ -222,6 +243,8 @@ This node provides systematic analysis methods to identify when AI solutions tha
 - [ ] Increases surveillance or control capabilities
 - [ ] Individualizes collective problems
 - [ ] Optimizes exploitative systems rather than challenging them
+- [ ] Cannot conceive of non-monetized value creation
+- [ ] Dismisses community solutions as "unscalable" or "inefficient"
 
 #### Yellow Flag Assessment
 **Requires Careful Analysis:**
@@ -260,6 +283,42 @@ Pushing for rapid scaling that requires venture capital or corporate partnership
 #### The Technical Complexity Trap
 Creating solutions so technically complex that communities can't maintain them independently, creating ongoing dependence on expert labor.
 
+### Cannae Strategy Development
+
+Drawing from Joan Westenberg's analysis of the Cannae Problem, this section provides strategic approaches for positioning community alternatives to exploit capitalist mental model rigidities.
+
+#### Identifying the "Roman Formation"
+Map the orthodox beliefs that capitalist systems cannot question:
+- Growth imperatives
+- Efficiency maximization
+- Individual responsibility
+- Monetization requirements
+- Scale obsession
+- Competition as natural law
+
+#### Creating "Hannibal Moments"
+Design community solutions that turn these strengths into weaknesses:
+- **Against Scale:** Build hyperlocal solutions that work precisely because they don't scale
+- **Against Efficiency:** Create resilient redundancy that survives when efficient systems fail
+- **Against Competition:** Demonstrate collective thriving that makes competition look primitive
+- **Against Monetization:** Build gift economies that provide better outcomes than markets
+
+#### Strategic Positioning
+As Westenberg notes: "Disruptors don't succeed by playing the same game better. They change the game entirely."
+
+For anti-capitalist organizing:
+1. Never compete on capitalist terms (efficiency, scale, growth)
+2. Create new metrics that capitalism cannot compute (care, resilience, joy)
+3. Position community solutions where capitalism's blind spots are largest
+4. Wait for crisis moments when rigid mental models fail catastrophically
+
+#### Warning Signs of Our Own Rigidity
+Monitor for when anti-capitalist movements fall into their own Cannae traps:
+- Ideological purity tests that exclude potential allies
+- Dismissing pragmatic solutions as "reformist"
+- Romanticizing past movements without learning from failures
+- Creating new orthodoxies that resist evolution
+
 ## Relationships
 - **Parent Nodes:**
   - foundation/project_definition.md - is-child-of - Implements core project vision
@@ -267,6 +326,7 @@ Creating solutions so technically complex that communities can't maintain them i
   - None currently defined
 - **Related Nodes:**
   - analysis/frameworks/anti_capitalist_framework.md - complements - Works together to identify and evaluate solutions
+  - analysis/patterns/mental_model_trap_patterns.md - extends - Provides detailed analysis of mental model vulnerabilities
   - processes/research.md - relates-to - Provides research methodology for trap detection
   - foundation/principles.md - implements - Guided by project principles
 
@@ -290,8 +350,9 @@ Creating solutions so technically complex that communities can't maintain them i
 
 ## Metadata
 - **Created:** 2025-06-03
-- **Last Updated:** 2025-06-03
-- **Updated By:** Cline (Document Integration Task)
+- **Last Updated:** 2025-07-23
+- **Updated By:** Claude (Cannae Problem Integration)
 
 ## Change History
 - 2025-06-03: Initial integration from capitalist_trap_detector.md into context network structure
+- 2025-07-23: Added Mental Model Rigidity Trap and Cannae Strategy Development based on Joan Westenberg's analysis

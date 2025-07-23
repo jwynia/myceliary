@@ -12,16 +12,24 @@ This index catalogs all research reports, web searches, and URL captures stored 
 ## Content
 
 ### Search Statistics
-- **Total Research Items:** 22
+- **Total Research Items:** 23
 - **Web Searches:** 0
 - **Light Reports:** 7
 - **Medium Reports:** 11
 - **Deep Reports:** 1
 - **URL Captures:** 2
 - **Analysis Documents:** 1
+- **External Sources:** 1
 
 ### Recent Research (Last 30 Days)
-1. **[Fruit Sharing Apps Gleaning Coordination Platforms](medium_reports/2025-06-28_fruit_sharing_gleaning_apps_medium.md)** (2025-06-28)
+1. **[The Cannae Problem - Joan Westenberg](../archive/source_materials/cannae-transcript.md)** (2025-07-23)
+   - **Type:** External Source (Video Transcript)
+   - **Topic:** Mental model rigidity, how success creates failure mechanisms, strategic vulnerabilities in dominant systems
+   - **Related Task:** Strategic analysis of capitalist blind spots and anti-capitalist positioning
+   - **Citations:** 3 (mental_model_trap_patterns.md, capitalist_trap_detector.md, anti_capitalist_framework.md)
+   - **Source:** https://www.youtube.com/watch?v=BOepYPGJDfE
+
+2. **[Fruit Sharing Apps Gleaning Coordination Platforms](medium_reports/2025-06-28_fruit_sharing_gleaning_apps_medium.md)** (2025-06-28)
    - **Type:** Medium Report
    - **Topic:** Fruit sharing apps gleaning coordination platforms urban harvest sharing excess produce donation apps community food sharing technology
    - **Related Task:** Analysis of fruit sharing and gleaning apps through anti-capitalist framework
@@ -355,9 +363,26 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Citations:** [Future citations]
    - **Credibility:** High
 
+#### External Sources
+1. **[The Cannae Problem - Joan Westenberg](../archive/source_materials/cannae-transcript.md)**
+   - **Date:** 2025-07-23 (Archived)
+   - **Type:** Video Transcript
+   - **Source:** https://www.youtube.com/watch?v=BOepYPGJDfE
+   - **Topic:** Mental model rigidity, strategic vulnerabilities in dominant systems
+   - **Citations:** 
+     - [mental_model_trap_patterns.md](../analysis/patterns/mental_model_trap_patterns.md)
+     - [capitalist_trap_detector.md](../analysis/frameworks/capitalist_trap_detector.md)
+     - [anti_capitalist_framework.md](../analysis/frameworks/anti_capitalist_framework.md)
+   - **Credibility:** High
+
 ### Research by Date
+#### July 2025
+1. **2025-07-23:** [The Cannae Problem - Joan Westenberg](../archive/source_materials/cannae-transcript.md)
+
 #### June 2025
-1. **2025-06-27:** [Independent Research Labs Deep Report](deep_reports/2025-06-27_independent_research_labs_deep.md)
+1. **2025-06-28:** [Fruit Sharing Apps Gleaning Coordination Platforms](medium_reports/2025-06-28_fruit_sharing_gleaning_apps_medium.md)
+2. **2025-06-28:** [OLIO App Business Models Monetization](medium_reports/2025-06-28_olio_business_models_medium.md)
+3. **2025-06-27:** [Independent Research Labs Deep Report](deep_reports/2025-06-27_independent_research_labs_deep.md)
 2. **2025-06-27:** [Ink & Switch Homepage Capture](url_captures/2025-06-27_ink_and_switch_homepage.md)
 3. **2025-06-27:** [Independent Research Lab Model Analysis](analysis/independent_research_lab_model_analysis.md)
 4. **2025-06-18:** [Local-First Software: You Own Your Data, in Spite of the Cloud](url_captures/2025-06-18_local_first_software_url.md)
