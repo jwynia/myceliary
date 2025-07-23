@@ -12,17 +12,24 @@ This index catalogs all research reports, web searches, and URL captures stored 
 ## Content
 
 ### Search Statistics
-- **Total Research Items:** 23
+- **Total Research Items:** 24
 - **Web Searches:** 0
 - **Light Reports:** 7
-- **Medium Reports:** 11
+- **Medium Reports:** 12
 - **Deep Reports:** 1
 - **URL Captures:** 2
 - **Analysis Documents:** 1
 - **External Sources:** 1
 
 ### Recent Research (Last 30 Days)
-1. **[The Cannae Problem - Joan Westenberg](../archive/source_materials/cannae-transcript.md)** (2025-07-23)
+1. **[Community AI Initiatives and Cooperative Governance Models Research Report](medium_reports/2025-07-23_community_ai_initiatives_medium.md)** (2025-07-23)
+   - **Type:** Medium Report
+   - **Topic:** Community-controlled AI initiatives, cooperative governance, Indigenous language preservation, federated AI projects, distributed community AI systems
+   - **Related Task:** Research existing community AI initiatives and cooperative projects
+   - **Citations:** 0
+   - **Credibility:** High
+
+2. **[The Cannae Problem - Joan Westenberg](../archive/source_materials/cannae-transcript.md)** (2025-07-23)
    - **Type:** External Source (Video Transcript)
    - **Topic:** Mental model rigidity, how success creates failure mechanisms, strategic vulnerabilities in dominant systems
    - **Related Task:** Strategic analysis of capitalist blind spots and anti-capitalist positioning
@@ -282,55 +289,61 @@ This index catalogs all research reports, web searches, and URL captures stored 
    - **Credibility:** High
 
 #### Medium Research Reports
-1. **[Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)**
+1. **[Community AI Initiatives and Cooperative Governance Models Research Report](medium_reports/2025-07-23_community_ai_initiatives_medium.md)**
+   - **Date:** 2025-07-23
+   - **Query:** "Community-controlled AI initiatives, cooperative governance, Indigenous language preservation, federated AI projects, distributed community AI systems"
+   - **Citations:** [Future citations]
+   - **Credibility:** High
+
+2. **[Location Sharing and Safety Check-in Systems Research Report](medium_reports/2025-06-12_location_sharing_safety_medium.md)**
    - **Date:** 2025-06-12
    - **Query:** "location sharing safety check-in systems digital platforms stalking risks privacy controls personal safety apps"
    - **Citations:** [analysis/findings/safety_systems_for_vulnerable_users.md](../analysis/findings/safety_systems_for_vulnerable_users.md)
    - **Credibility:** High
 
-2. **[Whisper Networks and Informal Safety Mechanisms Research Report](medium_reports/2025-06-12_whisper_networks_safety_medium.md)**
+3. **[Whisper Networks and Informal Safety Mechanisms Research Report](medium_reports/2025-06-12_whisper_networks_safety_medium.md)**
    - **Date:** 2025-06-12
    - **Query:** "whisper networks informal safety mechanisms sexual harassment warning systems digital platforms marginalized communities"
    - **Citations:** [analysis/findings/safety_systems_for_vulnerable_users.md](../analysis/findings/safety_systems_for_vulnerable_users.md)
    - **Credibility:** High
 
-3. **[Reputation Systems in P2P Platforms Research Report](medium_reports/2025-06-12_reputation_systems_p2p_medium.md)**
+4. **[Reputation Systems in P2P Platforms Research Report](medium_reports/2025-06-12_reputation_systems_p2p_medium.md)**
    - **Date:** 2025-06-12
    - **Query:** "reputation systems peer-to-peer platforms trust mechanisms user verification community safety"
    - **Citations:** [analysis/findings/safety_systems_for_vulnerable_users.md](../analysis/findings/safety_systems_for_vulnerable_users.md)
    - **Credibility:** High
 
-4. **[Safety Systems for Vulnerable Users Research Report](medium_reports/2025-06-12_safety_systems_vulnerable_users_medium.md)**
+5. **[Safety Systems for Vulnerable Users Research Report](medium_reports/2025-06-12_safety_systems_vulnerable_users_medium.md)**
    - **Date:** 2025-06-12
    - **Query:** "safety systems vulnerable users community platforms digital harassment stalking protection mechanisms"
    - **Citations:** [analysis/findings/safety_systems_for_vulnerable_users.md](../analysis/findings/safety_systems_for_vulnerable_users.md)
    - **Credibility:** High
 
-5. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)**
+6. **[Zapatista Radio Networks Research Report](medium_reports/2025-06-11_zapatista_radio_networks_medium.md)**
    - **Date:** 2025-06-11
    - **Query:** "Zapatista autonomous technology networks communication systems"
    - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
    - **Credibility:** High
 
-6. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)**
+7. **[Zapatista Digital Infrastructure Research Report](medium_reports/2025-06-11_zapatista_digital_infrastructure_medium.md)**
    - **Date:** 2025-06-11
    - **Query:** "Zapatista digital infrastructure internet mesh networks technology security"
    - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
    - **Credibility:** High
 
-7. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)**
+8. **[Zapatista Autonomous Governance Research Report](medium_reports/2025-06-11_zapatista_governance_medium.md)**
    - **Date:** 2025-06-11
    - **Query:** "Zapatista autonomous governance technology democratic decision making communication"
    - **Citations:** [analysis/findings/case_studies/zapatista_networks.md](../analysis/findings/case_studies/zapatista_networks.md)
    - **Credibility:** High
 
-8. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)**
+9. **[Time Banking Software Implementations Research Report](medium_reports/2025-06-11_time_banking_software_medium.md)**
    - **Date:** 2025-06-11
    - **Query:** "time banking software implementations"
    - **Citations:** [analysis/findings/case_studies/time_banking.md](../analysis/findings/case_studies/time_banking.md)
    - **Credibility:** High
 
-9. **[Conflict-free Replicated Data Types (CRDTs) for Community-Controlled Applications](medium_reports/2025-06-18_crdts_community_applications_medium.md)**
+10. **[Conflict-free Replicated Data Types (CRDTs) for Community-Controlled Applications](medium_reports/2025-06-18_crdts_community_applications_medium.md)**
    - **Date:** 2025-06-18
    - **Query:** "Conflict-free Replicated Data Types (CRDTs) for community-controlled applications"
    - **Citations:** [Future citations]
@@ -377,7 +390,8 @@ This index catalogs all research reports, web searches, and URL captures stored 
 
 ### Research by Date
 #### July 2025
-1. **2025-07-23:** [The Cannae Problem - Joan Westenberg](../archive/source_materials/cannae-transcript.md)
+1. **2025-07-23:** [Community AI Initiatives and Cooperative Governance Models Research Report](medium_reports/2025-07-23_community_ai_initiatives_medium.md)
+2. **2025-07-23:** [The Cannae Problem - Joan Westenberg](../archive/source_materials/cannae-transcript.md)
 
 #### June 2025
 1. **2025-06-28:** [Fruit Sharing Apps Gleaning Coordination Platforms](medium_reports/2025-06-28_fruit_sharing_gleaning_apps_medium.md)
