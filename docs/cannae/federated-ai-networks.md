@@ -37,6 +37,36 @@ graph TD
     style E fill:#9f9,stroke:#333,stroke-width:2px
 ```
 
+### How Federation Creates Resilience
+
+```mermaid
+graph LR
+    subgraph "Corporate Model"
+    C1[Big Tech AI] --> U1[User 1]
+    C1 --> U2[User 2]
+    C1 --> U3[User 3]
+    C1 --> U4[User 4]
+    end
+    
+    subgraph "Federated Model"
+    N1[Community AI 1] <--> N2[Community AI 2]
+    N2 <--> N3[Community AI 3]
+    N3 <--> N4[Community AI 4]
+    N1 <--> N4
+    
+    N1 --> M1[Members]
+    N2 --> M2[Members]
+    N3 --> M3[Members]
+    N4 --> M4[Members]
+    end
+    
+    style C1 fill:#ffcccc,stroke:#ff0000,stroke-width:3px
+    style N1 fill:#ccffcc,stroke:#00aa00,stroke-width:2px
+    style N2 fill:#ccffcc,stroke:#00aa00,stroke-width:2px
+    style N3 fill:#ccffcc,stroke:#00aa00,stroke-width:2px
+    style N4 fill:#ccffcc,stroke:#00aa00,stroke-width:2px
+```
+
 ### Capitalist Blind Spots We Exploit
 
 1. **Scale Economics**: They can't see profit in serving small communities
