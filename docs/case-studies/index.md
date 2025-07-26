@@ -145,7 +145,7 @@ Software development cooperatives building tools for social movements.
 
 ## Interactive Timeline
 
-<div class="timeline-container">
+<div class="timeline-container" markdown="1">
 [Coming Soon: Interactive timeline showing the evolution of community technology initiatives from 1960s to present]
 </div>
 

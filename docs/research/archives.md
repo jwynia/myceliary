@@ -7,11 +7,11 @@ title: Research Archives
 
 This page provides access to our complete research archives, including all primary research reports with their full citations and references.
 
-<div class="research-archives">
+<div class="research-archives" markdown="1">
 
 ## Theoretical Frameworks Research
 
-<div class="research-archive-section">
+<div class="research-archive-section" markdown="1">
 ### Anti-Capitalist Technology Frameworks
 *Research conducted: June 11, 2025*
 
@@ -32,7 +32,7 @@ This page provides access to our complete research archives, including all prima
 <a href="https://github.com/jwynia/myceliary/blob/main/context-network/research_archives/light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md">View full report</a>
 </div>
 
-<div class="research-archive-section">
+<div class="research-archive-section" markdown="1">
 ### Indigenous Digital Sovereignty
 *Research conducted: June 11, 2025*
 
@@ -53,7 +53,7 @@ This page provides access to our complete research archives, including all prima
 <a href="https://github.com/jwynia/myceliary/blob/main/context-network/research_archives/light_reports/2025-06-11_indigenous_digital_sovereignty_light.md">View full report</a>
 </div>
 
-<div class="research-archive-section">
+<div class="research-archive-section" markdown="1">
 ### Technology Commons Governance Models
 *Research conducted: June 11, 2025*
 
@@ -76,7 +76,7 @@ This page provides access to our complete research archives, including all prima
 
 ## AI/ML Landscape Research
 
-<div class="research-archive-section">
+<div class="research-archive-section" markdown="1">
 
 ### Open Source Large Language Models Community
 *Research conducted: June 5, 2025*
