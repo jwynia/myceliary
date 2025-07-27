@@ -33,39 +33,44 @@ Our principles translate our [core values](values.md) into practical guidelines.
    
    *Example:* Deploy only where deep community relationships exist.
 
+4. **Collaborate, Don't Compete** *(Operationalizes: Cooperation Over Competition, Abundance)*
+   We actively seek opportunities to support and build upon others' work, sharing our own freely and creating mutual benefit.
+   
+   *Example:* Publishing all code openly, using existing standards, contributing improvements back to projects we build upon.
+
 #### Technical Principles
 
-4. **Distribute by Design** *(Operationalizes: Decentralization, Resilience)*
+5. **Distribute by Design** *(Operationalizes: Decentralization, Resilience)*
    Architecture decisions default to distribution of power, data, and control. Centralization requires extraordinary justification.
    
    *Example:* Federated systems where each community controls their node.
 
-5. **Adapt and Evolve** *(Operationalizes: Adaptation, Emergence)*
+6. **Adapt and Evolve** *(Operationalizes: Adaptation, Emergence)*
    Systems must be designed for change, expecting community needs and contexts to shift over time.
    
    *Example:* Architectures that support forking, versioning, and local modification.
 
-6. **Transparency Over Complexity** *(Operationalizes: Trust, Justice)*
+7. **Transparency Over Complexity** *(Operationalizes: Trust, Justice)*
    Communities should understand how systems work. Complexity that obscures function serves oppression.
    
    *Example:* Algorithms explained in plain language with community veto power.
 
 #### Analytical Principles
 
-7. **Evidence-Based Understanding** *(Operationalizes: Intellectual Rigor, Justice)*
+8. **Evidence-Based Understanding** *(Operationalizes: Intellectual Rigor, Justice)*
    We ground our work in verifiable evidence, distinguishing between actual problems and manufactured fears.
    
    *Example:* Using research to separate real AI harms from speculation.
 
-8. **Multiple Ways of Knowing** *(Operationalizes: Radical Imagination, Interdependence)*
+9. **Multiple Ways of Knowing** *(Operationalizes: Radical Imagination, Interdependence)*
    We value lived experience, community wisdom, and non-Western knowledge systems alongside technical expertise.
    
    *Example:* Indigenous data sovereignty principles inform our data architectures.
 
-9. **Root Cause Analysis** *(Operationalizes: Transformative Justice, Liberation)*
-   We address systemic issues, not just symptoms, designing solutions that transform conditions creating harm.
+10. **Root Cause Analysis** *(Operationalizes: Transformative Justice, Liberation)*
+    We address systemic issues, not just symptoms, designing solutions that transform conditions creating harm.
    
-   *Example:* Food security tools that address distribution systems, not just optimization.
+    *Example:* Food security tools that address distribution systems, not just optimization.
 
 ### Design Principles
 

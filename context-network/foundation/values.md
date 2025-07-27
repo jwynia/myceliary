@@ -103,6 +103,17 @@ We dare to envision worlds that don't yet exist and work to bring them into bein
 - Rejecting "that's how it's always been"
 - Building the future in the present
 
+#### 11. **Cooperation Over Competition**
+We choose collaboration, mutual support, and collective success over rivalry, scarcity-based thinking, and zero-sum games. Together we accomplish what none could alone.
+
+**What this means:**
+- Sharing knowledge, code, and resources freely
+- Celebrating others' successes as our own
+- Building on each other's work with attribution and gratitude
+- Creating systems that reward collaboration
+- Refusing to see other projects as competitors
+- Designing for interoperability and mutual benefit
+
 ### Living These Values
 
 #### In Our Technology
@@ -111,6 +122,9 @@ We dare to envision worlds that don't yet exist and work to bring them into bein
 - **Architectures that distribute power** rather than concentrate it
 - **Designs that bring joy** rather than mere functionality
 - **Commons-based approaches** rather than proprietary lock-in
+- **Protocols that enable cooperation** rather than enforce competition
+- **Interoperable standards** rather than walled gardens
+- **Shared infrastructure** rather than duplicated efforts
 
 #### In Our Process
 - **Starting with those most affected** by the problems we're solving
