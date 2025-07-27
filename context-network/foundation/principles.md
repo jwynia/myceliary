@@ -1,7 +1,7 @@
 # Project Principles
 
 ## Purpose
-This document outlines the core principles and standards that guide decision-making and development across the project.
+This document outlines the core principles and standards that guide decision-making and development across the project. These principles operationalize our foundational values into actionable guidelines.
 
 ## Classification
 - **Domain:** Core Concept
@@ -11,26 +11,61 @@ This document outlines the core principles and standards that guide decision-mak
 
 ## Content
 
-### Core Values
+### Relationship to Values
+Our principles translate our [core values](values.md) into practical guidelines. While values describe what we believe and aspire toward, principles guide how we act on those beliefs in our daily work.
 
-1. **Evidence-Based AI Understanding**
-   We commit to examining artificial intelligence through an accurate, evidence-based lens that separates real issues from misconceptions. We use The Multiverse School's AI Problems Index as a key reference to maintain a balanced perspective that acknowledges both legitimate concerns and actual benefits while avoiding common fallacies and oversimplified narratives.
+### Core Principles
 
-2. **Intellectual Rigor**
-   We maintain high standards for evaluating AI-related claims and discussions, emphasizing the importance of distinguishing between:
-   - Real AI problems that deserve attention and resources
-   - Misconceptions that distract from meaningful discourse
-   - Broader societal issues that intersect with but aren't unique to AI
-   - Environmental considerations with proper context
-   - Creative and consciousness implications based on current research
+#### Community-Centered Principles
 
-3. **Balanced Perspective**
-   We strive to present a comprehensive view of AI that:
-   - Acknowledges legitimate concerns without fearmongering
-   - Recognizes benefits without overselling
-   - Considers environmental impact with proper context
-   - Examines creativity and consciousness claims critically
-   - Addresses legal and ethical implications thoughtfully
+1. **Start with Those Most Affected** *(Operationalizes: Collective Liberation, Interdependence)*
+   Every initiative begins by centering the communities experiencing the problem. Their wisdom, needs, and visions drive our solutions.
+   
+   *Example:* Elder care AI development starts with elders and caregivers, not tech capabilities.
+
+2. **Build Power, Not Dependency** *(Operationalizes: Decentralization, Abundance)*
+   Our tools should increase community capacity and autonomy, never create reliance on external systems or expertise.
+   
+   *Example:* Language learning systems designed to make themselves unnecessary over time.
+
+3. **Move at the Speed of Trust** *(Operationalizes: Emergence, Fractal Responsibility)*
+   Development pace is determined by relationship depth, not market pressures or technical possibilities.
+   
+   *Example:* Deploy only where deep community relationships exist.
+
+#### Technical Principles
+
+4. **Distribute by Design** *(Operationalizes: Decentralization, Resilience)*
+   Architecture decisions default to distribution of power, data, and control. Centralization requires extraordinary justification.
+   
+   *Example:* Federated systems where each community controls their node.
+
+5. **Adapt and Evolve** *(Operationalizes: Adaptation, Emergence)*
+   Systems must be designed for change, expecting community needs and contexts to shift over time.
+   
+   *Example:* Architectures that support forking, versioning, and local modification.
+
+6. **Transparency Over Complexity** *(Operationalizes: Trust, Justice)*
+   Communities should understand how systems work. Complexity that obscures function serves oppression.
+   
+   *Example:* Algorithms explained in plain language with community veto power.
+
+#### Analytical Principles
+
+7. **Evidence-Based Understanding** *(Operationalizes: Intellectual Rigor, Justice)*
+   We ground our work in verifiable evidence, distinguishing between actual problems and manufactured fears.
+   
+   *Example:* Using research to separate real AI harms from speculation.
+
+8. **Multiple Ways of Knowing** *(Operationalizes: Radical Imagination, Interdependence)*
+   We value lived experience, community wisdom, and non-Western knowledge systems alongside technical expertise.
+   
+   *Example:* Indigenous data sovereignty principles inform our data architectures.
+
+9. **Root Cause Analysis** *(Operationalizes: Transformative Justice, Liberation)*
+   We address systemic issues, not just symptoms, designing solutions that transform conditions creating harm.
+   
+   *Example:* Food security tools that address distribution systems, not just optimization.
 
 ### Design Principles
 
@@ -119,13 +154,16 @@ Exceptions to these principles may be considered when:
 - Specific contexts require modified approaches
 
 ## Relationships
-- **Parent Nodes:** [foundation/project_definition.md]
+- **Parent Nodes:** 
+  - [foundation/values.md] - operationalizes - Principles put values into practice
+  - [foundation/project_definition.md] - serves - Principles serve project goals
 - **Child Nodes:** None
 - **Related Nodes:** 
+  - [foundation/emergent_strategy_connections.md] - informed-by - Movement wisdom shapes principles
   - [foundation/structure.md] - implements - Project structure implements these principles
   - [processes/creation.md] - guided-by - Creation processes follow these principles
   - [decisions/*] - evaluated-against - Decisions are evaluated against these principles
-  - [analysis/findings/ai_ml_landscape_analysis.md] - informs - AI landscape analysis informs these principles
+  - [processes/opportunity_lifecycle.md] - guides - Principles guide opportunity evaluation
 
 ## Navigation Guidance
 - **Access Context:** Use this document when making significant decisions or evaluating options
