@@ -35,6 +35,7 @@ Your goal is to perform comprehensive research and integrate all findings, analy
    - Plan research phases (broad → specific)
    - Set criteria for source evaluation
    - Establish synthesis approach
+   - Create a research report file named with the freshly verified current date and topic in the context network.
 
 ### Phase 2: Research Execution
 

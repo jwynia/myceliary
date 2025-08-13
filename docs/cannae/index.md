@@ -15,11 +15,11 @@ Technologies that turn capitalism's greatest strengths into its greatest weaknes
 
 ## What Are Cannae Opportunities?
 
-Drawing from Joan Westenberg's analysis of the Cannae Problem - where success creates the very blind spots that lead to failure - we've identified 8 specific vulnerabilities in how capitalism approaches technology. Each vulnerability represents an opportunity to build community-controlled alternatives that capitalism literally cannot comprehend or compete with.
+Drawing from Joan Westenberg's analysis of the Cannae Problem - where success creates the very blind spots that lead to failure - we've identified 9+ specific vulnerabilities in how capitalism approaches technology. Each vulnerability represents an opportunity to build community-controlled alternatives that capitalism literally cannot comprehend or compete with.
 
 > "Success creates its own failure mechanisms. The very things that make you successful produce the blind spots that make you vulnerable." - Joan Westenberg
 
-## The 8 Opportunities
+## The Core Opportunities
 
 ### 🌐 Ready Now (Start Today)
 

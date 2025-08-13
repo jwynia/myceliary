@@ -1,9 +1,9 @@
 - report: "Anti-Capitalist Technology Frameworks"
   id: "anticapitalist-tech-frameworks"
   date: "2025-06-11"
-  link: "/context-network/research_archives/light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md"
+  link: "https://github.com/jwynia/myceliary/blob/main/context-network/research_archives/light_reports/2025-06-11_anticapitalist_tech_frameworks_light.md"
   web_link: "archives.html#anti-capitalist-technology-frameworks"
-  findings: "/context-network/analysis/findings/theoretical_frameworks_analysis.md"
+  findings: "https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md"
   description: "Research on frameworks like digital ecosocialism, anti-capitalist software licenses, and decentralized governance"
   citations:
     - number: 1
@@ -39,9 +39,9 @@
 - report: "Indigenous Digital Sovereignty"
   id: "indigenous-digital-sovereignty"
   date: "2025-06-11"
-  link: "/context-network/research_archives/light_reports/2025-06-11_indigenous_digital_sovereignty_light.md"
+  link: "https://github.com/jwynia/myceliary/blob/main/context-network/research_archives/light_reports/2025-06-11_indigenous_digital_sovereignty_light.md"
   web_link: "archives.html#indigenous-digital-sovereignty"
-  findings: "/context-network/analysis/findings/theoretical_frameworks_analysis.md"
+  findings: "https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md"
   description: "Research on indigenous approaches to technology self-determination"
   citations:
     - number: 1
@@ -79,9 +79,9 @@
 - report: "Technology Commons Governance Models"
   id: "tech-commons-governance"
   date: "2025-06-11"
-  link: "/context-network/research_archives/light_reports/2025-06-11_tech_commons_governance_light.md"
+  link: "https://github.com/jwynia/myceliary/blob/main/context-network/research_archives/light_reports/2025-06-11_tech_commons_governance_light.md"
   web_link: "archives.html#technology-commons-governance-models"
-  findings: "/context-network/analysis/findings/theoretical_frameworks_analysis.md"
+  findings: "https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/theoretical_frameworks_analysis.md"
   description: "Research on community-based technology governance"
   citations:
     - number: 1
@@ -119,9 +119,9 @@
 - report: "Open Source Large Language Models Community"
   id: "open-source-llm-community"
   date: "2025-06-05"
-  link: "/context-network/research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md"
+  link: "https://github.com/jwynia/myceliary/blob/main/context-network/research_archives/light_reports/2025-06-05_ai_ml_landscape_light.md"
   web_link: "archives.html#open-source-large-language-models-community"
-  findings: "/context-network/analysis/findings/ai_ml_landscape_analysis.md"
+  findings: "https://github.com/jwynia/myceliary/blob/main/context-network/analysis/findings/ai_ml_landscape_analysis.md"
   description: "Research on the open source AI landscape"
   citations:
     - number: 1
