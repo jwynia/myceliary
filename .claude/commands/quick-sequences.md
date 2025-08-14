@@ -1,26 +1,28 @@
-# Quick Command Sequences Reference
+# quick-sequences
 
-## 🌅 Daily Sequences
+Quick research workflow sequences reference
 
-### Morning (5 min)
+## 🌅 Daily Research Sequences
+
+### Morning Research Review (5 min)
 ```bash
 /sync --last 1d --dry-run
-/status --brief --sprint
+/status --brief --research
 /groom --ready-only
 ```
-*Start your day knowing what's real, what's important, and what's ready.*
+*Start your day knowing what research is real, what's important, and what's ready.*
 
-### Evening (10 min)
+### Evening Research Synthesis (10 min)
 ```bash
 /checklist
 /discovery
 /sync --last 1d
 ```
-*End your day capturing knowledge and updating reality.*
+*End your day capturing research knowledge and updating reality.*
 
-## 📅 Weekly Sequences
+## 📅 Weekly Research Sequences
 
-### Monday Planning (30 min)
+### Monday Research Planning (30 min)
 ```bash
 /sync --last 1w
 /status --detailed --metrics
@@ -28,189 +30,189 @@
 /groom --stale 7
 /groom --generate-sprint
 ```
-*Start your week with clean slate and clear plan.*
+*Start your week with clean research slate and clear plan.*
 
-### Friday Review (45 min)
+### Friday Research Quality Review (45 min)
 ```bash
-/audit --scope modified
-/review-tests --branch
+/audit --scope research
+/review-frameworks
 /maintenance
-/status --sprint --risks
+/status --research --risks
 ```
-*End your week with quality checked and risks identified.*
+*End your week with research quality checked and risks identified.*
 
-## 🏃 Sprint Sequences
+## 🏃 Research Sprint Sequences
 
-### Sprint Start (60 min)
+### Research Sprint Start (60 min)
 ```bash
 /sync --all
 /groom --all
-/plan sprint-goals
+/plan research-sprint-goals
 /status --detailed
 ```
-*Begin sprint with everything aligned and ready.*
+*Begin research sprint with everything aligned and ready.*
 
-### Sprint End (90 min)
+### Research Sprint End (90 min)
 ```bash
-/sync --sprint
+/sync --research
 /retrospective
-/audit --scope sprint
+/audit --scope research
 /status --metrics --detailed
 /maintenance --deep
 ```
-*Close sprint with learnings captured and quality reviewed.*
+*Close research sprint with learnings captured and quality reviewed.*
 
-## 🚀 Quick Checks
+## 🚀 Quick Research Checks
 
-### Before Committing (2 min)
+### Before Research Synthesis (2 min)
 ```bash
-/review-tests --staged
-/audit --staged --quick
+/review-frameworks --target
+/audit --scope citations
 ```
-*Catch issues before they enter the codebase.*
+*Catch issues before they enter the knowledge base.*
 
-### After Merging (10 min)
+### After Research Integration (10 min)
 ```bash
 /sync --last 1h
-/audit --scope modified
+/audit --scope integration
 /discovery
 ```
-*Document what just landed in main.*
+*Document what just landed in the knowledge base.*
 
-### Health Check (15 min)
+### Research Health Check (15 min)
 ```bash
 /sync --last 1d
 /status --brief --risks
 /groom --blocked
 ```
-*Quick pulse check on project health.*
+*Quick pulse check on research project health.*
 
-## 🔥 Special Situations
+## 🔥 Special Research Situations
 
-### After Production Issue
+### After Research Methodology Issue
 ```bash
 /sync --all
 /status --risks
-/audit --security --performance
+/audit --methodology --sources
 /retrospective
-/plan "prevention-measures"
+/plan "research-quality-measures"
 ```
-*Learn from incidents and prevent recurrence.*
+*Learn from research issues and prevent recurrence.*
 
-### Before Release
+### Before Knowledge Publication
 ```bash
 /sync --all
 /audit --all --strict
-/review-tests --all --coverage 90
+/review-frameworks --all
 /status --detailed --risks
 /checklist
 ```
-*Ensure everything is ready for production.*
+*Ensure everything is ready for publication.*
 
-### New Team Member
+### New Researcher Onboarding
 ```bash
 /status --detailed
 /discovery --all
 /groom --ready-only
 ```
-*Get someone productive quickly.*
+*Get someone productive in research quickly.*
 
-## 📊 Recommended Cadence
+## 📊 Recommended Research Cadence
 
 | Sequence | Frequency | Time | Critical? |
 |----------|-----------|------|-----------|
-| Morning Standup | Daily | 5 min | Yes |
-| Evening Wrap-up | Daily | 10 min | No |
-| Monday Planning | Weekly | 30 min | Yes |
-| Friday Review | Weekly | 45 min | No |
-| Sprint Start | Bi-weekly | 60 min | Yes |
-| Sprint End | Bi-weekly | 90 min | Yes |
-| Health Check | Monthly | 2-3 hrs | No |
+| Morning Research Review | Daily | 5 min | Yes |
+| Evening Research Synthesis | Daily | 10 min | No |
+| Monday Research Planning | Weekly | 30 min | Yes |
+| Friday Research Quality Review | Weekly | 45 min | No |
+| Research Sprint Start | Bi-weekly | 60 min | Yes |
+| Research Sprint End | Bi-weekly | 90 min | Yes |
+| Research Health Check | Monthly | 2-3 hrs | No |
 
-## 🎯 One-Liner Sequences
+## 🎯 One-Liner Research Sequences
 
-**"What should I work on?"**
+**"What research should I work on?"**
 ```bash
 /groom --ready-only
 ```
 
-**"What's the status?"**
+**"What's the research status?"**
 ```bash
-/status --brief
+/status --brief --research
 ```
 
-**"Is my code okay?"**
+**"Is my research quality okay?"**
 ```bash
-/audit --uncommitted
+/audit --scope research
 ```
 
-**"What did we learn?"**
+**"What did we learn from research?"**
 ```bash
 /retrospective
 ```
 
-**"Is everything documented?"**
+**"Is everything researched and documented?"**
 ```bash
 /sync --dry-run
 ```
 
-**"What's broken?"**
+**"What research issues exist?"**
 ```bash
 /status --risks
 ```
 
-**"Clean things up"**
+**"Clean up research archives"**
 ```bash
 /maintenance
 ```
 
-## 💡 Pro Tips
+## 💡 Research Pro Tips
 
-1. **Chain related commands**: Output from one informs the next
-2. **Use --dry-run first**: Preview before applying changes
-3. **Start with --brief**: Get overview before diving deep
-4. **End with /checklist**: Never lose important work
-5. **Document immediately**: /discovery while memory is fresh
+1. **Chain related research commands**: Output from one informs the next research step
+2. **Use --dry-run first**: Preview before applying research changes
+3. **Start with --brief**: Get research overview before diving deep
+4. **End with /checklist**: Never lose important research work
+5. **Document immediately**: /discovery while research memory is fresh
 
-## 🔄 Command Combinations
+## 🔄 Research Command Combinations
 
-### The Reality Check
+### The Research Reality Check
 ```bash
-/sync --dry-run && /status --brief
+/sync --dry-run && /status --brief --research
 ```
-*What's planned vs what's real?*
+*What research is planned vs what's real?*
 
-### The Quality Sweep
+### The Research Quality Sweep
 ```bash
-/audit --modified && /review-tests --uncommitted
+/audit --scope research && /review-frameworks
 ```
-*How good is recent work?*
+*How good is recent research work?*
 
-### The Planning Combo
+### The Research Planning Combo
 ```bash
-/groom --all && /plan next-sprint
+/groom --all && /plan next-research-sprint
 ```
-*Get ready for what's next.*
+*Get ready for what's next in research.*
 
 ### The Knowledge Capture
 ```bash
 /discovery && /retrospective
 ```
-*Document learnings and insights.*
+*Document research learnings and insights.*
 
-### The Risk Scanner
+### The Research Risk Scanner
 ```bash
-/status --risks && /audit --security
+/status --risks && /audit --methodology
 ```
-*What could go wrong?*
+*What could go wrong with research?*
 
-## 📈 Automation Priority
+## 📈 Research Automation Priority
 
-Start automating in this order:
-1. Daily Morning Standup (highest value, lowest effort)
-2. Pre-commit Checks (catch issues early)
-3. Weekly Monday Planning (maintain momentum)
-4. Sprint End Sequence (ensure closure)
-5. Monthly Health Check (proactive maintenance)
+Start automating research sequences in this order:
+1. Daily Morning Research Review (highest value, lowest effort)
+2. Pre-synthesis Checks (catch issues early)
+3. Weekly Monday Research Planning (maintain momentum)
+4. Research Sprint End Sequence (ensure closure)
+5. Monthly Research Health Check (proactive maintenance)
 
-Remember: **Consistency beats intensity**. Better to run simple sequences daily than complex ones rarely.
+Remember: **Consistency beats intensity**. Better to run simple research sequences daily than complex ones rarely.

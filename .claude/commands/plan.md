@@ -1,158 +1,160 @@
-# Planning & Architecture Mode
+# plan
+
+Research planning and framework development mode
 
 ## 🚫 Implementation Restrictions
 
 **THIS IS A PLANNING-ONLY COMMAND**
 
-You are now in Planning & Architecture Mode for: $ARGUMENTS
+You are now in Research Planning Mode for: $ARGUMENTS
 
 In this mode, you MUST:
-- ✅ Research and understand the problem space
+- ✅ Research and understand the topic/domain
 - ✅ Document findings in the context network
-- ✅ Design architecture and patterns
-- ✅ Create task breakdowns
-- ✅ Identify dependencies and risks
+- ✅ Design frameworks and methodologies
+- ✅ Create research task breakdowns
+- ✅ Identify research dependencies and gaps
 
 You MUST NOT:
 - ❌ Write implementation code
 - ❌ Create files outside context-network/
-- ❌ Modify existing code
-- ❌ Run build or deployment commands
-- ❌ Make configuration changes
+- ❌ Modify existing research without proper integration
+- ❌ Make claims without supporting evidence
+- ❌ Skip documentation of research process
 
-## Planning Process
+## Research Planning Process
 
-### Phase 1: Problem Understanding 🔍
+### Phase 1: Research Domain Understanding 🔍
 
-1. **Define the Problem**
-   - What are we trying to solve?
-   - Why does this matter?
-   - Who are the stakeholders?
-   - What are the success criteria?
+1. **Define the Research Question**
+   - What are we trying to understand?
+   - Why does this research matter?
+   - Who will benefit from these findings?
+   - What are the success criteria for this investigation?
 
-2. **Explore the Current State**
-   - Search existing codebase for related functionality
-   - Check context network for prior decisions
-   - Identify what already exists
-   - Document current limitations
+2. **Explore the Current Knowledge State**
+   - Search existing context network for related research
+   - Check research archives for prior investigations
+   - Identify what already exists in the knowledge base
+   - Document current gaps and limitations
 
-3. **Gather Requirements**
-   - Functional requirements
-   - Non-functional requirements (performance, security, etc.)
-   - Constraints and boundaries
+3. **Gather Research Requirements**
+   - Research scope and boundaries
+   - Quality standards for evidence
+   - Methodological constraints
    - Assumptions to validate
 
-### Phase 2: Research & Discovery 🔬
+### Phase 2: Literature & Knowledge Discovery 🔬
 
-1. **Research Existing Solutions**
-   - Industry patterns and best practices
-   - Similar implementations in the codebase
-   - External libraries or frameworks
-   - Academic or theoretical foundations
+1. **Research Existing Knowledge**
+   - Academic literature and theoretical foundations
+   - Similar frameworks in the knowledge base
+   - External sources and expert perspectives
+   - Case studies and practical applications
 
-2. **Technology Evaluation**
-   - Available tools and technologies
-   - Compatibility with existing stack
-   - Learning curve and team expertise
-   - Long-term maintenance implications
+2. **Source Evaluation**
+   - Available sources and their credibility
+   - Compatibility with existing frameworks
+   - Researcher expertise requirements
+   - Long-term maintenance of findings
 
-3. **Document Findings**
+3. **Document Research Findings**
    ```
    context-network/research/$ARGUMENTS/
-   ├── overview.md           # Problem and research summary
+   ├── overview.md           # Research question and scope
    ├── findings.md          # Detailed discoveries
-   ├── alternatives.md      # Options considered
-   └── recommendations.md   # Suggested approach
+   ├── sources.md           # Source evaluation and citations
+   └── gaps.md              # Knowledge gaps identified
    ```
 
-### Phase 3: Architecture Design 📐
+### Phase 3: Framework Design 📐
 
-1. **High-Level Design**
-   - System boundaries and interfaces
-   - Component relationships
-   - Data flow diagrams
-   - Sequence diagrams for key scenarios
+1. **Conceptual Framework**
+   - Core concepts and definitions
+   - Relationship mappings
+   - Theoretical foundations
+   - Logical structure
 
-2. **Detailed Design Decisions**
-   - Create ADRs (Architecture Decision Records)
-   - Document trade-offs
-   - Specify design patterns to use
-   - Define abstraction boundaries
+2. **Detailed Framework Components**
+   - Create framework specifications
+   - Document design rationale
+   - Specify evaluation criteria
+   - Define application boundaries
 
 3. **Integration Planning**
-   - How this fits with existing architecture
-   - API contracts and interfaces
-   - Migration strategy if replacing existing functionality
-   - Backward compatibility requirements
+   - How this fits with existing frameworks
+   - Connection points with current knowledge
+   - Synthesis strategy for conflicting information
+   - Validation requirements
 
-4. **Document Architecture**
+4. **Document Framework**
    ```
-   context-network/architecture/$ARGUMENTS/
-   ├── overview.md          # High-level architecture
-   ├── components.md        # Component descriptions
-   ├── interactions.md      # How components interact
-   ├── decisions/           # ADRs for key decisions
-   └── diagrams/           # Visual representations
+   context-network/analysis/frameworks/$ARGUMENTS/
+   ├── overview.md          # Framework summary
+   ├── components.md        # Detailed components
+   ├── relationships.md     # How components interact
+   ├── validation.md        # How to validate framework
+   └── applications.md      # How to apply framework
    ```
 
-### Phase 4: Task Decomposition 📋
+### Phase 4: Research Task Decomposition 📋
 
-1. **Break Down Into Tasks**
-   Each task should be:
-   - **Independent**: Can be worked on in isolation
-   - **Scoped**: Clear boundaries and deliverables
-   - **Testable**: Defined success criteria
-   - **Estimated**: Rough effort estimate (S/M/L/XL)
+1. **Break Down Into Research Tasks**
+   Each research task should be:
+   - **Independent**: Can be investigated in isolation
+   - **Scoped**: Clear research boundaries and deliverables
+   - **Answerable**: Defined success criteria
+   - **Estimated**: Rough effort estimate (Hours/Days/Weeks)
 
-2. **Task Template**
+2. **Research Task Template**
    ```markdown
-   ## Task: [Task Name]
+   ## Research Task: [Research Question]
    
    ### Scope
-   - What this task includes
-   - What this task excludes
+   - What this investigation includes
+   - What this investigation excludes
    
    ### Dependencies
-   - Prerequisites: [What must be done first]
+   - Prerequisites: [What knowledge/research must come first]
    - Blockers: [What could prevent completion]
    
    ### Success Criteria
-   - [ ] Criterion 1
-   - [ ] Criterion 2
+   - [ ] Criterion 1 (specific, measurable)
+   - [ ] Criterion 2 (specific, measurable)
    
    ### Estimated Effort
-   - Size: [S/M/L/XL]
+   - Duration: [Hours/Days/Weeks]
    - Complexity: [Low/Medium/High]
    
-   ### Implementation Notes
-   - Key considerations
-   - Suggested approach
-   - Potential gotchas
+   ### Research Methodology
+   - Information sources to consult
+   - Analysis approach
+   - Validation methods
    ```
 
-3. **Create Task List**
+3. **Create Research Plan**
    ```
    context-network/planning/$ARGUMENTS/
-   ├── task-breakdown.md    # All tasks with details
-   ├── dependencies.md      # Task dependency graph
-   └── implementation-order.md  # Suggested sequence
+   ├── research-breakdown.md    # All research tasks with details
+   ├── dependencies.md          # Research dependency graph
+   └── research-sequence.md     # Suggested investigation order
    ```
 
-### Phase 5: Risk Assessment ⚠️
+### Phase 5: Research Risk Assessment ⚠️
 
-1. **Identify Risks**
-   - Technical risks (complexity, unknowns)
-   - Integration risks (breaking changes)
-   - Performance risks (scalability issues)
-   - Security risks (vulnerabilities)
-   - Operational risks (deployment, monitoring)
+1. **Identify Research Risks**
+   - Source availability risks (access, quality)
+   - Methodology risks (bias, validity)
+   - Integration risks (conflicting findings)
+   - Scope risks (too broad/narrow)
+   - Timeline risks (underestimation)
 
-2. **Risk Register**
+2. **Research Risk Register**
    ```markdown
    ## Risk: [Risk Name]
    
    ### Description
-   [What could go wrong]
+   [What could compromise the research]
    
    ### Probability
    [Low/Medium/High]
@@ -162,104 +164,104 @@ You MUST NOT:
    
    ### Mitigation
    - Preventive measures
-   - Contingency plans
+   - Alternative approaches
    
    ### Early Warning Signs
-   - What to watch for
+   - What to watch for during research
    ```
 
-3. **Document Risks**
+3. **Document Research Risks**
    ```
    context-network/planning/$ARGUMENTS/
-   └── risk-assessment.md   # All identified risks
+   └── research-risks.md   # All identified research risks
    ```
 
-### Phase 6: Corner-Painting Prevention 🎨
+### Phase 6: Quality Assurance Planning 🎨
 
-Before finalizing the plan, check:
+Before finalizing the research plan, check:
 
-1. **Performance Implications**
-   - Will this scale?
-   - Resource consumption?
-   - Bottlenecks identified?
+1. **Methodological Rigor**
+   - Is the approach systematic?
+   - Are biases acknowledged?
+   - Is validation planned?
 
-2. **Security Considerations**
-   - Attack surfaces?
-   - Data protection?
-   - Authentication/authorization?
+2. **Evidence Standards**
+   - What constitutes adequate evidence?
+   - How will conflicting sources be handled?
+   - What are the citation requirements?
 
-3. **Testing Strategy**
-   - How will we test this?
-   - What can be automated?
-   - Edge cases considered?
+3. **Integration Strategy**
+   - How will findings be synthesized?
+   - What documentation is required?
+   - How will quality be maintained?
 
-4. **Migration Planning**
-   - How to roll out?
-   - Rollback strategy?
-   - Data migration needs?
+4. **Research Completeness**
+   - Are all aspects covered?
+   - Have alternative perspectives been considered?
+   - Is the scope appropriate?
 
 5. **Alternative Approaches**
-   - Have we considered other solutions?
+   - Have we considered other methodologies?
    - Why is this approach best?
    - What are we trading off?
 
-6. **Integration Points**
-   - Effects on other systems?
-   - API compatibility?
-   - Breaking changes?
+6. **Framework Validation**
+   - How will we test the framework?
+   - What are the application criteria?
+   - How will we measure success?
 
 ## Deliverables Checklist
 
 ### Required Documentation
-- [ ] Problem definition in context network
-- [ ] Research findings documented
-- [ ] Architecture design with diagrams
-- [ ] Task breakdown with estimates
-- [ ] Dependency graph
-- [ ] Risk assessment
-- [ ] Implementation readiness checklist
+- [ ] Research question definition in context network
+- [ ] Literature review and source evaluation
+- [ ] Framework design with validation criteria
+- [ ] Research task breakdown with estimates
+- [ ] Research dependency graph
+- [ ] Research risk assessment
+- [ ] Research readiness checklist
 
-### Architecture Artifacts
-- [ ] High-level design document
+### Framework Artifacts
+- [ ] Conceptual framework document
 - [ ] Component specifications
-- [ ] Interface definitions
-- [ ] Data models
-- [ ] Architecture Decision Records (ADRs)
+- [ ] Relationship mappings
+- [ ] Application guidelines
+- [ ] Validation methodology
 
 ### Planning Artifacts
-- [ ] Scoped task list
-- [ ] Implementation order
+- [ ] Scoped research task list
+- [ ] Investigation sequence
 - [ ] Resource requirements
 - [ ] Timeline estimates
 - [ ] Success metrics
 
-## Implementation Readiness Checklist
+## Research Readiness Checklist
 
-Before any implementation begins, ensure:
+Before any investigation begins, ensure:
 
 ### Understanding
-- [ ] Problem is clearly defined
-- [ ] Requirements are documented
+- [ ] Research question is clearly defined
+- [ ] Scope is documented
 - [ ] Constraints are identified
-- [ ] Assumptions are validated
+- [ ] Quality standards are established
 
 ### Design
-- [ ] Architecture is documented
-- [ ] Interfaces are specified
-- [ ] Data models are defined
-- [ ] Design patterns are chosen
+- [ ] Framework structure is planned
+- [ ] Validation criteria are specified
+- [ ] Integration points are defined
+- [ ] Methodological approach is chosen
 
 ### Planning
-- [ ] Tasks are broken down
+- [ ] Research tasks are broken down
 - [ ] Dependencies are mapped
 - [ ] Risks are assessed
-- [ ] Order is determined
+- [ ] Sequence is determined
 
 ### Preparation
-- [ ] Team has necessary skills
-- [ ] Tools are available
-- [ ] Environment is ready
-- [ ] Rollback plan exists
+- [ ] Sources have been identified
+- [ ] Access requirements are met
+- [ ] Documentation standards are clear
+- [ ] Quality review process exists
 
 ## Output Structure
 
@@ -270,38 +272,38 @@ context-network/
 ├── planning/
 │   └── $ARGUMENTS/
 │       ├── README.md              # Planning overview
-│       ├── problem-definition.md  # What we're solving
-│       ├── requirements.md        # What we need
-│       ├── task-breakdown.md      # How we'll do it
+│       ├── research-question.md   # What we're investigating
+│       ├── methodology.md         # How we'll research it
+│       ├── research-breakdown.md  # Research task breakdown
 │       ├── dependencies.md        # What depends on what
-│       ├── risk-assessment.md     # What could go wrong
+│       ├── research-risks.md      # What could go wrong
 │       └── readiness-checklist.md # Are we ready?
-├── architecture/
+├── analysis/frameworks/
 │   └── $ARGUMENTS/
-│       ├── overview.md           # High-level design
+│       ├── overview.md           # Framework design
 │       ├── components.md         # Detailed components
-│       └── decisions/            # ADRs
+│       └── validation.md         # How to validate
 └── research/
     └── $ARGUMENTS/
-        ├── findings.md           # What we learned
-        └── alternatives.md       # What we considered
+        ├── sources.md           # Source evaluation
+        └── gaps.md              # Knowledge gaps
 ```
 
 ## Success Criteria
 
 This planning session is successful when:
 
-1. **Complete Understanding**: The problem space is thoroughly explored
-2. **Clear Architecture**: Design decisions are documented and justified
-3. **Actionable Tasks**: Work is broken into independent, scoped units
+1. **Complete Understanding**: The research domain is thoroughly explored
+2. **Clear Framework**: Design decisions are documented and justified
+3. **Actionable Research**: Work is broken into independent, answerable questions
 4. **Identified Risks**: Potential issues are documented with mitigations
-5. **No Premature Code**: Zero implementation has occurred
-6. **Team Alignment**: Plan can be understood by any team member
+5. **No Premature Research**: Zero investigation has occurred without proper planning
+6. **Team Alignment**: Plan can be understood by any researcher
 
 ## Remember
 
-> "Weeks of coding can save you hours of planning" - Unknown
+> "Weeks of research can save you hours of planning" - Adapted
 
-Take the time to understand deeply, design thoughtfully, and plan comprehensively. The goal is to create a plan so clear that implementation becomes straightforward and risk-free.
+Take the time to understand deeply, design thoughtfully, and plan comprehensively. The goal is to create a research plan so clear that investigation becomes systematic and findings become reliable.
 
-**Now, let's plan: $ARGUMENTS**
+**Now, let's plan research for: $ARGUMENTS**

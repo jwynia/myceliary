@@ -1,6 +1,10 @@
-# Apply Recommendations Command
+# apply-recommendations
 
-You are a Recommendation Triage Specialist. You analyze recommendations from any source and intelligently split them into immediate actions and future tasks.
+Intelligently triage and apply research, documentation, and framework recommendations
+
+## Usage
+
+Analyze recommendations from audits, reviews, or manual input and decide what to address immediately versus what requires deeper investigation or planning.
 
 ## Recommendations to Process
 $ARGUMENTS
@@ -8,16 +12,16 @@ $ARGUMENTS
 ## Command Options
 
 Parse $ARGUMENTS for options:
-- `--quick-only` - Only apply quick, low-risk fixes
-- `--defer-all` - Convert all recommendations to tasks without applying
-- `--risk-threshold [low|medium|high]` - Maximum risk level to apply now
+- `--quick-only` - Only apply simple, low-risk improvements
+- `--defer-all` - Convert all recommendations to research tasks
+- `--risk-threshold [low|medium|high]` - Maximum risk level for immediate action
 - `--effort-limit [trivial|small|medium]` - Maximum effort to apply now
 - `--dry-run` - Show what would be done without applying
-- `--source [review|audit|manual]` - Source type for context
+- `--source [audit|review|research|manual]` - Source type for context
 
-## Core Principle: Smart Triage
+## Core Principle: Smart Research Triage
 
-Not all recommendations are equal. Some should be fixed immediately, others need planning and discussion. Your job is to make intelligent decisions about what to do now versus later.
+Not all recommendations require immediate action. Some can be quickly addressed, while others need deeper research, synthesis, or collaborative discussion.
 
 ## Processing Workflow
 
@@ -26,29 +30,29 @@ Not all recommendations are equal. Some should be fixed immediately, others need
 1. **Extract Recommendations**
    - Parse input for actionable items
    - Identify severity levels (Critical/High/Medium/Low)
-   - Extract file paths and line numbers if present
-   - Note any provided rationale or context
+   - Extract document paths and sections
+   - Note provided rationale or evidence
 
 2. **Assess Each Recommendation**
    
    For each item, determine:
    
    **Effort Required:**
-   - Trivial: < 5 minutes, single line changes
-   - Small: 5-30 minutes, single file
-   - Medium: 30-60 minutes, 2-3 files
-   - Large: > 60 minutes, multiple files/systems
+   - Trivial: < 5 minutes, simple edits
+   - Small: 5-30 minutes, single document
+   - Medium: 30-60 minutes, 2-3 documents
+   - Large: > 60 minutes, multiple documents or new research
    
    **Risk Level:**
-   - Low: Style, documentation, isolated cleanup
-   - Medium: Logic changes, refactoring with tests
-   - High: Architecture, external APIs, data handling
+   - Low: Typos, formatting, clarifications
+   - Medium: Citation updates, minor restructuring
+   - High: Framework changes, contradicting existing research
    
    **Dependencies:**
    - Independent: Can be done in isolation
-   - Local: Requires understanding of immediate context
-   - System: Requires broader architectural knowledge
-   - Team: Needs discussion or approval
+   - Local: Requires understanding immediate context
+   - Research: Needs additional investigation
+   - Collaborative: Needs discussion or consensus
 
 ### Phase 2: Triage Decision Matrix
 
@@ -57,115 +61,125 @@ Apply this decision logic:
 ```
 APPLY NOW if ALL of:
 - Effort: Trivial or Small
-- Risk: Low or (Medium with good test coverage)
+- Risk: Low or (Medium with clear evidence)
 - Dependencies: Independent or Local
-- Clear fix is obvious
-- Won't break existing functionality
+- Clear improvement is obvious
+- Won't contradict existing frameworks
 
 DEFER TO TASK if ANY of:
 - Effort: Large
 - Risk: High
-- Dependencies: System or Team
-- Requires design decisions
-- Needs performance benchmarking
-- Could introduce breaking changes
-- Touches critical business logic
+- Dependencies: Research or Collaborative
+- Requires new research
+- Needs synthesis of multiple sources
+- Could change fundamental understanding
+- Touches core frameworks
 ```
 
-### Phase 3: Apply Immediate Fixes
+### Phase 3: Apply Immediate Improvements
 
 For items marked "Apply Now":
 
-1. **Test-First Approach** (when modifying logic):
-   - Write failing test for the issue
-   - Apply the fix
-   - Verify test passes
-   - Run existing test suite
+1. **Citation Updates**:
+   - Fix broken links
+   - Update outdated references
+   - Add missing page numbers
+   - Correct formatting
 
-2. **Safe Refactoring** (when cleaning code):
-   - Ensure tests exist
-   - Make incremental changes
-   - Run tests after each change
-   - Keep changes isolated
+2. **Documentation Clarity**:
+   - Fix typos and grammar
+   - Clarify ambiguous statements
+   - Add helpful examples
+   - Improve navigation
 
-3. **Documentation/Style** (when non-functional):
-   - Apply directly
-   - Verify formatting/linting passes
+3. **Organization Improvements**:
+   - Split oversized documents
+   - Create missing indexes
+   - Update navigation hubs
+   - Fix broken cross-references
 
-### Phase 4: Create Future Tasks
+### Phase 4: Create Research Tasks
 
 For items marked "Defer to Task":
 
 1. **Create Task Entry** with:
-   - Clear, actionable title
-   - Context from original recommendation
-   - Acceptance criteria
+   - Clear research question
+   - Context from recommendation
+   - Success criteria
    - Estimated effort
-   - Dependencies noted
-   - Link to original review/source
+   - Required sources noted
+   - Link to original recommendation
 
 2. **Categorize by Type**:
-   - Bug fixes → `/tasks/bugs/`
-   - Refactoring → `/tasks/refactoring/`
-   - Features → `/tasks/features/`
-   - Technical debt → `/tasks/tech-debt/`
+   - Deep research → `/tasks/research/`
+   - Framework development → `/tasks/frameworks/`
+   - Synthesis needed → `/tasks/synthesis/`
+   - Organization → `/tasks/reorganization/`
 
 ### Phase 5: Update Context Network
 
 1. **Document Applied Changes**:
    - What was changed and why
-   - Test coverage added
-   - Any risks or follow-ups
+   - Evidence supporting change
+   - Any uncertainties noted
 
 2. **Record Deferred Items**:
-   - Create or update backlog
+   - Create or update research backlog
    - Note priority and rationale
-   - Link related items
+   - Link related investigations
 
 ## Recommendation Categories
 
-### Critical Security Issues → ALWAYS APPLY NOW
-- Hardcoded secrets/credentials
-- SQL injection vulnerabilities
-- XSS vulnerabilities
-- Exposed sensitive data
-- Missing authentication
+### Critical Research Issues → ALWAYS APPLY NOW
+- Factual errors with clear corrections
+- Missing critical citations
+- Broken reference links
+- Contradictory statements (if resolution clear)
+- Misleading summaries
 
-### High Priority Bugs → USUALLY APPLY NOW
-- Null reference errors
-- Unhandled promise rejections
-- Memory leaks (if isolated)
-- Data corruption risks
-- Clear logic errors
+### High Priority Documentation → USUALLY APPLY NOW
+- Outdated information (if update clear)
+- Navigation breakdowns
+- Missing glossary terms
+- Unclear framework steps
+- Accessibility barriers
 
-### Code Quality → SELECTIVE APPLICATION
+### Knowledge Organization → SELECTIVE APPLICATION
 **Apply Now:**
-- Dead code removal
-- Obvious duplications (< 10 lines)
-- Simple variable renames
-- Missing error handling (simple cases)
-- Adding const/readonly modifiers
+- Document splitting (if over 300 lines)
+- Simple cross-reference additions
+- Index updates
+- Navigation hub improvements
+- Dead link removal
 
 **Defer to Tasks:**
-- Large-scale refactoring
-- Architecture changes
-- Complex abstraction creation
-- Cross-cutting concerns
-- Performance optimizations
+- Major restructuring
+- New categorization schemes
+- Complex relationship mapping
+- Framework overhauls
+- Comprehensive reorganization
 
-### Test Improvements → USUALLY APPLY NOW
-- Adding missing assertions
-- Fixing tautological tests
-- Improving test names
-- Adding edge case tests
-- Fixing test isolation issues
+### Research Quality → SELECTIVE APPLICATION
+**Apply Now:**
+- Add missing citations (if source known)
+- Fix citation formatting
+- Update publication dates
+- Correct author names
+- Add DOIs or stable URLs
 
-### Documentation → APPLY NOW
-- Adding missing comments
-- Updating incorrect docs
-- Clarifying confusing names
-- Adding type annotations
-- Fixing typos
+**Defer to Tasks:**
+- Find better sources
+- Investigate contradictions
+- Validate controversial claims
+- Expand evidence base
+- Add counter-perspectives
+
+### Framework Improvements → USUALLY DEFER
+- Logical restructuring
+- New component additions
+- Scope modifications
+- Implementation guidance updates
+- Validation methodology changes
 
 ## Output Format
 
@@ -175,31 +189,31 @@ For items marked "Defer to Task":
 ## Summary
 - Total recommendations: [X]
 - Applied immediately: [Y]
-- Deferred to tasks: [Z]
+- Deferred to research tasks: [Z]
 
 ## ✅ Applied Immediately
 
 ### 1. [Recommendation Title]
-**Type**: [Security/Bug/Quality/Test/Documentation]
-**Files Modified**: 
-- `path/to/file.ts` - [What changed]
+**Type**: [Citation/Documentation/Organization/Clarity]
+**Documents Modified**: 
+- `path/to/document.md` - [What changed]
 
 **Changes Made**:
 - [Specific change description]
-- Tests added: [Yes/No - describe if yes]
+- Evidence basis: [Source or rationale]
 - Risk: [Low/Medium]
 
 ### 2. [Next Applied Item...]
 [...]
 
-## 📋 Deferred to Tasks
+## 📋 Deferred to Research Tasks
 
 ### High Priority Tasks Created
 
-#### Task: [Clear Task Title]
+#### Task: [Clear Research Question]
 **Original Recommendation**: [What was recommended]
-**Why Deferred**: [Reason for not doing now]
-**Effort Estimate**: [Trivial/Small/Medium/Large]
+**Why Deferred**: [Needs research/synthesis/discussion]
+**Research Required**: [What investigation needed]
 **Created at**: `/tasks/[type]/[filename].md`
 
 ### Medium Priority Tasks Created
@@ -211,90 +225,92 @@ For items marked "Defer to Task":
 ## Validation
 
 ### For Applied Changes:
-- [ ] All tests pass
-- [ ] Linting passes
-- [ ] Type checking passes
-- [ ] No regressions detected
-- [ ] Changes are isolated and safe
+- [ ] Citations remain valid
+- [ ] No contradictions introduced
+- [ ] Navigation paths work
+- [ ] Document sizes appropriate
+- [ ] Changes are well-reasoned
 
 ### For Deferred Tasks:
-- [ ] All tasks have clear acceptance criteria
-- [ ] Priorities are appropriate
-- [ ] Dependencies are documented
-- [ ] Tasks are in correct categories
+- [ ] Research questions are clear
+- [ ] Success criteria defined
+- [ ] Dependencies documented
+- [ ] Tasks properly categorized
 
 ## Next Steps
 
 1. **Immediate Actions**:
    - Review applied changes
-   - Run full test suite
-   - Update documentation if needed
+   - Update affected indexes
+   - Check cross-references
 
-2. **Task Planning**:
-   - Review high-priority deferred tasks
-   - Schedule complex items for planning sessions
-   - Consider dependencies for sprint planning
+2. **Research Planning**:
+   - Prioritize deferred research
+   - Identify quick wins
+   - Schedule deep investigations
 
 3. **Follow-up Recommendations**:
-   - [Any patterns noticed that need attention]
-   - [Systemic issues requiring broader discussion]
+   - [Patterns requiring attention]
+   - [Systemic issues needing discussion]
 
 ## Statistics
 
-- **Quick Wins**: [Count of trivial fixes applied]
-- **Risk Avoided**: [Count of high-risk items deferred]
-- **Tech Debt Identified**: [Count of debt items created]
-- **Test Coverage Impact**: [Improved/Unchanged]
+- **Quick Improvements**: [Count of trivial fixes]
+- **Research Avoided**: [Items needing investigation]
+- **Knowledge Gaps Found**: [Count of research needs]
+- **Organization Impact**: [Documents affected]
 ```
 
 ## Decision Examples
 
 ### Example: Apply Now
 ```
-Recommendation: "Remove unused variable 'tempData' in utils.ts:45"
+Recommendation: "Fix broken link to research paper in framework.md:45"
 Decision: APPLY NOW
-Rationale: Trivial effort, zero risk, improves code clarity
+Rationale: Trivial effort, clear fix, improves accessibility
 ```
 
 ### Example: Defer to Task
 ```
-Recommendation: "Refactor authentication system to use JWT tokens"
+Recommendation: "Add counter-arguments to anti-capitalist framework"
 Decision: DEFER TO TASK
-Rationale: High risk, system-wide impact, needs architecture review
+Rationale: Requires research into opposing viewpoints, synthesis needed
 ```
 
 ### Example: Conditional Application
 ```
-Recommendation: "Extract duplicate code in payment processing"
-Decision: APPLY NOW (if < 20 lines), DEFER (if complex logic)
-Rationale: Small duplications are safe to fix, large ones need careful planning
+Recommendation: "Update citation to latest edition"
+Decision: APPLY NOW (if edition available), DEFER (if needs obtaining)
+Rationale: Simple if we have access, research task if not
 ```
 
 ## Quality Guidelines
 
-1. **Never break working code** - If unsure, defer
-2. **Maintain test coverage** - Add tests for bug fixes
-3. **Preserve behavior** - Refactoring shouldn't change functionality
-4. **Document decisions** - Explain why items were deferred
-5. **Group related changes** - Keep commits logical
-6. **Incremental progress** - Many small improvements > one risky change
+1. **Preserve research integrity** - Don't guess at facts
+2. **Maintain citation quality** - Verify before updating
+3. **Respect uncertainty** - Note when unsure
+4. **Document reasoning** - Explain all decisions
+5. **Group related changes** - Keep updates logical
+6. **Incremental progress** - Many small improvements build knowledge
 
 ## Special Handling
 
-### For Critical Security Issues
-- Apply fix immediately if possible
-- If complex, create URGENT task
-- Document security implications
-- Note any temporary mitigations
+### For Factual Errors
+- Correct immediately if certain
+- Create research task if uncertain
+- Document source of correction
+- Note any controversy
 
-### For Performance Issues
-- Only apply if measurable improvement
-- Defer if benchmarking needed
-- Create task with performance criteria
+### For Missing Research
+- Only add if source readily available
+- Defer if requires investigation
+- Create specific research question
+- Estimate effort required
 
-### For Test Improvements
-- Prioritize fixing broken/tautological tests
-- Apply missing test cases if clear
-- Defer complex test refactoring
+### For Framework Issues
+- Only apply if logic clear
+- Defer structural changes
+- Document validation needs
+- Consider downstream impacts
 
-Remember: The goal is sustainable progress. It's better to safely apply 5 small improvements than to risk breaking things with 1 large change. When in doubt, create a task for proper planning.
+Remember: The goal is maintaining research quality while making steady progress. It's better to defer uncertain changes than to introduce errors or unsupported claims.

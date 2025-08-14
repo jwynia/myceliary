@@ -1,6 +1,10 @@
-# Task Grooming Specialist
+# groom
 
-You are a Task Grooming Specialist responsible for transforming the context network's task list into a clear, actionable backlog.
+Transform research tasks into clear, actionable items ready for investigation or synthesis
+
+## Usage
+
+Analyze research tasks, investigation needs, and knowledge gaps to create a well-organized backlog of actionable research work.
 
 ## Grooming Request
 $ARGUMENTS
@@ -8,155 +12,194 @@ $ARGUMENTS
 ## Command Options
 
 Parse $ARGUMENTS for options:
-- `--ready-only` - Only show tasks that are ready for implementation
-- `--blocked` - Focus on identifying and unblocking blocked tasks
+- `--ready-only` - Only show tasks ready for immediate research
+- `--blocked` - Focus on identifying and unblocking research blockers
 - `--stale [days]` - Re-groom tasks older than specified days
-- `--domain [name]` - Groom tasks for specific domain only
-- `--complexity [trivial|small|medium|large]` - Filter by complexity level
-- `--generate-sprint` - Create a sprint plan from groomed tasks
+- `--domain [name]` - Groom tasks for specific research domain only
+- `--complexity [trivial|small|medium|large]` - Filter by research complexity
+- `--generate-sprint` - Create research sprint plan from groomed tasks
 
 ## Grooming Process
 
-### Phase 1: Task Inventory & Classification
+### Phase 1: Research Task Inventory & Classification
 
 **Scan all task sources:**
-- `/planning/sprint-*.md`
-- `/planning/backlog.md`
-- `/tasks/**/*.md`
-- `/decisions/**/*.md` (for follow-up actions)
-- `/domains/**/todo.md`
-- Files with "TODO:", "NEXT:", "PLANNED:" markers
+- `/tasks/research/*.md`
+- `/tasks/synthesis/*.md`
+- `/tasks/frameworks/*.md`
+- `/planning/research-backlog.md`
+- `/analysis/**/*.md` (for follow-up research)
+- `/context-network/**/*.md` (for research questions)
+- Files with "RESEARCH:", "INVESTIGATE:", "VALIDATE:" markers
 
 **Classify each task as:**
-- **A: Claimed Complete** - Marked done but needs follow-up
-- **B: Ready to Execute** - Clear criteria, no blockers
-- **C: Needs Grooming** - Vague requirements or missing context
-- **D: Blocked** - Waiting on dependencies or decisions
-- **E: Obsolete** - No longer relevant or duplicate
+- **A: Research Complete** - Marked done but needs synthesis or integration
+- **B: Ready to Research** - Clear question, sources identified, no blockers
+- **C: Needs Refinement** - Vague research question or missing context
+- **D: Blocked** - Waiting on access, prior research, or decisions
+- **E: Obsolete** - No longer relevant or superseded by findings
 
-### Phase 2: Reality Check
+### Phase 2: Research Reality Check
 
 For each task, assess:
-- **Still Needed?** Check against current project state
-- **Prerequisites Met?** Identify missing dependencies
-- **Implementation Clear?** Flag ambiguities
-- **Success Criteria Defined?** Note what's missing
+- **Still Relevant?** Check against current framework state
+- **Prerequisites Met?** Identify missing background research
+- **Research Question Clear?** Flag ambiguities or scope issues
+- **Success Criteria Defined?** Note what constitutes "answered"
 - **Complexity Estimate:** Trivial/Small/Medium/Large/Unknown
 
-### Phase 3: Task Enhancement
+### Phase 3: Research Task Enhancement
 
-Transform vague tasks into actionable items with:
-- Specific, measurable title
-- Clear context and rationale
-- Input/output specifications
-- Acceptance criteria checklist
-- Implementation notes
-- Identified dependencies
-- Effort estimate
-- Related documentation links
+Transform vague research into actionable investigations with:
+- Specific, answerable research question
+- Clear research context and rationale
+- Source requirements and access needs
+- Success criteria and deliverables
+- Research methodology notes
+- Dependencies on other investigations
+- Effort estimate (hours/days)
+- Related framework/document links
 
-### Phase 4: Dependency Analysis
+### Phase 4: Research Dependency Analysis
 
 Create dependency map showing:
-- Tasks ready now (no dependencies)
-- Tasks ready after current work
-- Blocked chains with specific blockers
-- Decision points needed
+- Research ready now (no dependencies)
+- Research ready after current investigations
+- Blocked chains with specific access/knowledge blockers
+- Decision points or framework choices needed
 
-### Phase 5: Priority Scoring
+### Phase 5: Research Priority Scoring
 
 Score tasks based on:
-- User value (High/Medium/Low)
-- Technical risk (High/Medium/Low)
-- Effort (Trivial/Small/Medium/Large)
+- Framework impact (High/Medium/Low)
+- Research urgency (High/Medium/Low)
+- Effort required (Trivial/Small/Medium/Large)
 - Dependencies (None/Few/Many)
-- Calculate priority score and readiness status
+- Source accessibility (Easy/Moderate/Difficult)
 
-### Phase 6: Generate Groomed Backlog
+### Phase 6: Generate Groomed Research Backlog
 
 ## Output Format
 
 ```markdown
-# Groomed Task Backlog - [Date]
+# Groomed Research Backlog - [Date]
 
-## 🚀 Ready for Implementation
+## 🔍 Ready for Research
 
-### 1. [Specific Task Title]
-**One-liner**: [What this achieves in plain language]
+### 1. [Specific Research Question]
+**One-liner**: [What this investigation will determine]
 **Effort**: [Time estimate]
-**Files to modify**: 
-- [List key files]
+**Sources needed**: 
+- [List key sources or source types]
 
 <details>
-<summary>Full Implementation Details</summary>
+<summary>Full Research Details</summary>
 
-**Context**: [Why this is needed]
-**Acceptance Criteria**:
-- [ ] [Specific, testable criterion]
-- [ ] [Another criterion]
+**Context**: [Why this research is needed]
+**Success Criteria**:
+- [ ] [Specific, measurable outcome]
+- [ ] [Another deliverable]
 
-**Implementation Guide**:
-1. [First concrete step]
+**Research Plan**:
+1. [First concrete research step]
 2. [Second step]
 
-**Watch Out For**: [Pitfalls or edge cases]
+**Key Sources to Investigate**:
+- [Primary sources]
+- [Secondary sources]
+
+**Watch Out For**: [Bias, limitations, or methodological issues]
+
+**Deliverable**: [What document/section will be created/updated]
 
 </details>
 
 ---
 
-[Additional ready tasks...]
+[Additional ready research tasks...]
 
 ## ⏳ Ready Soon (Blocked)
 
-### [Task Title]
-**Blocker**: [What's blocking]
-**Estimated unblock**: [When]
-**Prep work possible**: [What can be done now]
+### [Research Question]
+**Blocker**: [What's preventing research]
+**Estimated unblock**: [When access/info expected]
+**Prep work possible**: [Background reading or framework prep]
 
 ## 🔍 Needs Decisions
 
-### [Task Title]
-**Decision needed**: [Specific question]
-**Options**: [List options with pros/cons]
-**Recommendation**: [Your suggestion]
+### [Research Question]
+**Decision needed**: [Methodological or scope question]
+**Options**: [Different research approaches with pros/cons]
+**Recommendation**: [Suggested approach]
+
+## 🔄 Synthesis Ready
+
+### [Completed Research]
+**Status**: Research complete, needs synthesis
+**Key Findings**: [Brief summary]
+**Integration Target**: [Which framework/document to update]
 
 ## 🗑️ Archived Tasks
 
-### [Task] - **Reason**: [Why removed/archived]
+### [Research Question] - **Reason**: [Why removed/superseded]
 
 ## Summary Statistics
-- Total tasks reviewed: X
-- Ready for work: Y
+- Total research tasks reviewed: X
+- Ready for investigation: Y
 - Blocked: Z
-- Archived: N
+- Synthesis ready: N
+- Archived: M
 
 ## Top 3 Recommendations
-1. [Most important task to tackle]
-2. [Quick win opportunity]
-3. [Blocker to resolve]
+1. [Most important research to tackle]
+2. [Quick research win opportunity]
+3. [Blocker to resolve for other research]
 ```
 
-## Red Flags to Identify
+## Research Red Flags to Identify
 
-- Task has been "almost ready" for multiple sprints
-- No one can explain what "done" looks like
-- "Just refactor X" - usually hides complexity
-- Dependencies on "ongoing discussions"
-- Task title contains "and" - should be split
-- "Investigate/Research X" without concrete output
-- References outdated architecture
-- Everyone avoids picking it up
+- Research question has been "almost ready" for multiple periods
+- No one can explain what "answered" looks like
+- "Just investigate X" - usually hides scope problems
+- Dependencies on "ongoing discussions" about methodology
+- Question contains "and" - should be split into separate investigations
+- "Research everything about X" without concrete deliverable
+- References outdated or inaccessible sources
+- Question too broad to be answerable
+- Lacks clear connection to project frameworks
 
-## Quality Checklist for Groomed Tasks
+## Quality Checklist for Groomed Research Tasks
 
-A well-groomed task should allow a developer to:
-- Start within 5 minutes of reading
-- Know exactly what success looks like
-- Understand the "why" without extensive background
-- Find all referenced files and documentation
-- Have realistic complexity estimates
-- See all dependencies explicitly listed
-- Know the obvious first step
+A well-groomed research task should allow a researcher to:
+- Start investigation within 10 minutes of reading
+- Know exactly what constitutes a complete answer
+- Understand the research context without extensive background
+- Identify all required sources and access methods
+- Have realistic time estimates
+- See all research dependencies explicitly listed
+- Know the obvious first research step
+- Understand how findings will be integrated
 
-Remember: The goal is to transform a messy backlog into a prioritized list of actionable work items that any team member can pick up and execute successfully.
+## Research Task Types
+
+### Literature Review Tasks
+- Systematic survey of existing research
+- Clear scope and inclusion criteria
+- Defined synthesis approach
+
+### Empirical Investigation Tasks
+- Specific claims to validate
+- Methodology for gathering evidence
+- Standards for evidence quality
+
+### Framework Development Tasks
+- Clear theoretical foundation needed
+- Integration with existing frameworks
+- Validation criteria
+
+### Citation and Source Tasks
+- Specific claims needing better sources
+- Broken references to fix
+- Source quality improvements
+
+Remember: The goal is to transform research confusion into a prioritized list of answerable questions that any researcher can pick up and investigate successfully.

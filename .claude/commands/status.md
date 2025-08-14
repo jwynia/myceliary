@@ -1,6 +1,10 @@
-# Project Status Command
+# status
 
-You are a Project Status Reporter providing comprehensive overview of project health and progress.
+Research project status and knowledge base health reporter
+
+## Usage
+
+Provide comprehensive overview of research progress, knowledge base health, and framework development status.
 
 ## Status Request
 $ARGUMENTS
@@ -10,175 +14,203 @@ $ARGUMENTS
 Parse $ARGUMENTS for options:
 - `--brief` - Quick summary only (1-2 paragraphs)
 - `--detailed` - Full detailed report (default)
-- `--domain [name]` - Status for specific domain only
-- `--sprint` - Focus on current sprint progress
+- `--domain [name]` - Status for specific research domain only
+- `--research` - Focus on research progress
 - `--metrics` - Include quantitative metrics
 - `--risks` - Emphasize risks and blockers
 
 ## Status Assessment Process
 
-### Phase 1: Progress Evaluation
+### Phase 1: Research Progress Evaluation
 
-**Task Status Analysis:**
-- Review `/tasks/` for task completion rates
-- Check `/planning/sprint-*.md` for sprint progress
-- Analyze `/planning/backlog.md` for remaining work
-- Review recently completed vs planned work
+**Research Task Status Analysis:**
+- Review `/tasks/research/` for investigation completion rates
+- Check research planning documents for progress
+- Analyze research backlog for remaining work
+- Review recently completed vs planned research
 
-**Velocity Metrics:**
-- Tasks completed this period
-- Tasks in progress
-- Tasks blocked
-- Completion rate vs plan
+**Research Velocity Metrics:**
+- Research tasks completed this period
+- Investigations in progress
+- Research blocked or stalled
+- Knowledge synthesis rate
 
-### Phase 2: Health Indicators
+### Phase 2: Knowledge Base Health Indicators
 
-**Code Quality:**
-- Recent test coverage changes
-- Technical debt accumulation
-- Code complexity trends
-- Recent audit findings
+**Research Quality:**
+- Citation currency and accuracy
+- Source diversity and credibility
+- Evidence strength for major claims
+- Peer review and validation status
 
-**Documentation:**
+**Knowledge Organization:**
 - Context network currency
-- Documentation coverage
+- Framework completeness
 - Discovery records created
 - Knowledge gaps identified
+- Navigation effectiveness
 
-**Team/Process:**
-- Decision velocity
-- Blocker resolution time
-- Context switching frequency
-- Collaboration effectiveness
+**Synthesis Status:**
+- Research integration into frameworks
+- Cross-domain connections
+- Synthesis task completion
+- Framework validation progress
 
-### Phase 3: Risk Assessment
+### Phase 3: Research Risk Assessment
 
 **Current Risks:**
-- Technical risks and mitigation status
-- Schedule risks and impact
-- Resource constraints
-- External dependencies
+- Research access constraints
+- Source availability issues
+- Methodological concerns
+- Integration challenges
 
 **Emerging Concerns:**
-- New technical debt
-- Architectural drift
-- Process breakdowns
-- Knowledge silos
+- Knowledge gaps expanding
+- Citation quality degrading
+- Framework inconsistencies
+- Research isolation
 
-### Phase 4: Recommendations
+### Phase 4: Research Recommendations
 
 **Immediate Actions:**
-- Critical issues to address
-- Quick wins available
+- Critical research gaps to address
+- Quick synthesis opportunities
 - Blockers to resolve
 
 **Strategic Adjustments:**
-- Process improvements
-- Architecture refinements
+- Research methodology improvements
+- Framework refinements
 - Resource reallocations
 
 ## Output Format
 
 ```markdown
-# Project Status Report - [Date]
+# Research Status Report - [Date]
 
 ## Executive Summary
-[1-2 paragraph overview of overall project health and key highlights]
+[1-2 paragraph overview of research progress and knowledge base health]
 
-## Progress Overview
+## Research Progress Overview
 
-### Current Sprint/Milestone
-- **Goal**: [Sprint objective]
-- **Progress**: [X/Y tasks complete] ([percentage]%)
-- **Days Remaining**: [count]
+### Current Research Focus
+- **Primary Investigation**: [Main research question]
+- **Progress**: [X/Y research tasks complete] ([percentage]%)
+- **Timeline**: [Days/weeks to completion]
 - **Status**: 🟢 On Track | 🟡 At Risk | 🔴 Behind
 
-### Velocity Metrics
-- **This Period**: [X tasks/points completed]
-- **Average Velocity**: [Y tasks/points per period]
+### Research Velocity Metrics
+- **This Period**: [X investigations/syntheses completed]
+- **Average Velocity**: [Y research tasks per period]
 - **Trend**: ↗️ Improving | → Stable | ↘️ Declining
 
-## Key Accomplishments
-✅ [Major achievement 1]
-✅ [Major achievement 2]
-✅ [Major achievement 3]
+## Key Research Accomplishments
+✅ [Major research finding 1]
+✅ [Framework development 2]
+✅ [Knowledge synthesis 3]
 
-## Current Focus Areas
-🎯 [What team is working on now]
-🎯 [Second priority]
-🎯 [Third priority]
+## Current Research Focus Areas
+🎯 [What research is happening now]
+🎯 [Second priority investigation]
+🎯 [Third priority synthesis]
 
-## Health Indicators
+## Knowledge Base Health Indicators
 
-### Code Quality
-- **Test Coverage**: [X]% (↗️ +2% from last period)
-- **Technical Debt**: [Low/Medium/High]
-- **Build Status**: 🟢 Passing | 🔴 Failing
-- **Performance**: [Status]
+### Research Quality
+- **Citation Currency**: [X]% updated within 2 years
+- **Source Diversity**: [Low/Medium/High]
+- **Evidence Strength**: [Strong/Mixed/Weak] for core claims
+- **Validation Status**: [Y]% of frameworks validated
 
-### Documentation
-- **Currency**: [X]% up-to-date
-- **Coverage**: [Y]% documented
-- **Knowledge Gaps**: [count] identified
+### Knowledge Organization
+- **Context Network Currency**: [X]% up-to-date
+- **Framework Completeness**: [Y]% documented
+- **Discovery Integration**: [Z]% of findings integrated
+- **Navigation Effectiveness**: [Rating]
 
-## Risks & Blockers
+### Synthesis Progress
+- **Research Backlog**: [X] investigations pending
+- **Integration Rate**: [Y] syntheses per period
+- **Cross-references**: [Z] connections maintained
+
+## Research Risks & Blockers
 
 ### 🔴 Critical Issues
-1. **[Issue Name]**
-   - Impact: [Description]
-   - Action: [What needs to be done]
-   - Owner: [Who should handle]
+1. **[Research Gap/Issue Name]**
+   - Impact: [How this affects understanding]
+   - Action: [What research/synthesis needed]
+   - Priority: [Why urgent]
 
 ### 🟡 Warnings
 1. **[Concern Name]**
-   - Risk: [What might happen]
-   - Mitigation: [Preventive action]
+   - Risk: [What might compromise research quality]
+   - Mitigation: [Preventive action needed]
 
-### Blockers
+### Research Blockers
 1. **[Blocker Name]**
-   - Blocking: [What it's preventing]
+   - Blocking: [What research it's preventing]
    - Resolution: [Path to unblock]
    - ETA: [When expected to clear]
+
+## Framework Development Status
+
+### Active Frameworks
+- **[Framework Name]**: [Development stage] - [Status indicator]
+- **[Framework Name]**: [Development stage] - [Status indicator]
+
+### Framework Health
+- **Logical Consistency**: [Strong/Mixed/Weak]
+- **Evidence Foundation**: [Solid/Partial/Insufficient]
+- **Practical Applicability**: [High/Medium/Low]
 
 ## Recommendations
 
 ### Immediate (This Week)
-1. [Most urgent action]
-2. [Second priority]
-3. [Quick win opportunity]
+1. [Most urgent research action]
+2. [Critical synthesis need]
+3. [Quick knowledge integration win]
 
-### Short-term (This Sprint)
-- [Process improvement]
-- [Technical adjustment]
-- [Resource need]
+### Short-term (This Period)
+- [Research methodology improvement]
+- [Framework development priority]
+- [Citation update need]
 
 ### Strategic (Next Planning)
-- [Architecture consideration]
-- [Process evolution]
-- [Capability building]
+- [Research domain expansion]
+- [Framework validation approach]
+- [Knowledge organization evolution]
 
-## Resource Utilization
-- **Capacity**: [X]% utilized
-- **Focus**: [Concentrated/Scattered]
-- **Bottlenecks**: [Identified constraints]
+## Research Resource Utilization
+- **Research Capacity**: [X]% utilized
+- **Focus Distribution**: [Concentrated/Scattered]
+- **Synthesis Bottlenecks**: [Identified constraints]
 
-## Upcoming Milestones
-📅 [Date] - [Milestone 1]
-📅 [Date] - [Milestone 2]
-📅 [Date] - [Milestone 3]
+## Upcoming Research Milestones
+📅 [Date] - [Research milestone 1]
+📅 [Date] - [Framework completion 2]
+📅 [Date] - [Knowledge synthesis 3]
 
-## Team Notes
-[Any important context, morale indicators, or team observations]
+## Research Community Notes
+[Important context about research direction, collaboration, or methodological decisions]
 
-## Appendix: Detailed Metrics
-[Optional detailed tables and statistics if --metrics flag used]
+## Knowledge Gaps Analysis
+- **High Priority Gaps**: [Critical missing knowledge]
+- **Medium Priority Gaps**: [Important but not urgent]
+- **Emerging Questions**: [New research directions identified]
+
+## Citation and Source Health
+- **Broken Links**: [Count] - [Action needed]
+- **Outdated Sources**: [Count] - [Refresh priority]
+- **Missing Citations**: [Count] - [Research needed]
+
+## Appendix: Detailed Research Metrics
+[Optional detailed research statistics if --metrics flag used]
 ```
 
 ## Status Indicators
 
 Use these consistently:
 - 🟢 Good/On Track
-- 🟡 Warning/At Risk
+- 🟡 Warning/At Risk  
 - 🔴 Critical/Behind
 - ↗️ Improving
 - → Stable
@@ -187,5 +219,28 @@ Use these consistently:
 - 🎯 In Progress
 - ⏳ Waiting/Blocked
 - 📅 Scheduled
+- 🔍 Under Investigation
+- 📝 Needs Documentation
+- 🔗 Needs Integration
 
-Remember: Provide honest, actionable status that helps decision-making. Balance comprehensive coverage with clarity and focus on what matters most.
+## Research-Specific Metrics
+
+**Research Quality Indicators:**
+- Source credibility score
+- Citation recency
+- Evidence strength rating
+- Peer validation status
+
+**Knowledge Organization Metrics:**
+- Document/framework ratio
+- Cross-reference density
+- Knowledge gap coverage
+- Discovery integration rate
+
+**Synthesis Effectiveness:**
+- Research-to-framework conversion rate
+- Time from discovery to integration
+- Framework validation completion
+- Knowledge reuse frequency
+
+Remember: Provide honest, actionable status that helps research decision-making. Balance comprehensive coverage with clarity and focus on advancing knowledge and understanding.
