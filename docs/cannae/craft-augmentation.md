@@ -5,377 +5,343 @@ parent: "Cannae Opportunities: Exploiting Capitalist Blind Spots"
 nav_order: 10
 ---
 
-# Craft Augmentation AI: Enhancing Human Skill, Not Replacing It
+# Craft Augmentation AI: You Choose What Gets Enhanced
 {: .fs-9 }
 
-AI as intelligent apprentice - preserving the joy, meaning, and livelihood of craft work
+AI that respects your expertise and amplifies your craft—on your terms
 {: .fs-6 .fw-300 }
 
 ---
 
-## The Opportunity
+## The Control Principle: Who Decides What Gets Augmented?
 
-**Exploits**: Automation Absolutism  
-**Their Blind Spot**: "Automate everything possible for maximum efficiency"  
-**Our Approach**: AI that explicitly preserves and enhances human craft
+The fundamental difference between our approach and capitalist automation isn't the technology—it's **who controls it**.
 
-While capitalism pushes to automate away skilled workers and turn craft into commodity manufacturing, communities need tools that amplify human creativity and skill. This blindness to the value of human judgment, craft joy, and meaningful work creates space for AI that serves craftspeople rather than replacing them.
+### Augmentation (Worker-Controlled)
+- **You choose** which tasks to enhance or delegate
+- **You decide** what brings joy and stays manual
+- **You benefit** from freed time and energy
+- **You own** the tools and the improvements
 
-## Why This Matters
+### Automation (Boss-Imposed)
+- Management imposes technology to cut costs
+- Decisions made without worker input
+- Technology replaces people who want to work
+- Benefits flow to owners, workers get displaced
 
-```mermaid
-graph TD
-    A[Capitalist Automation] --> B[Eliminate Skilled Workers]
-    B --> C[Commodify Production]
-    C --> D[Destroy Craft Knowledge]
-    D --> E[Loss of Human Agency]
-    
-    F[Craft Augmentation] --> G[Enhance Human Skill]
-    G --> H[Preserve Craft Joy]
-    H --> I[Maintain Livelihoods]
-    I --> J[Transmit Knowledge]
-    
-    style A fill:#f99,stroke:#333,stroke-width:2px
-    style F fill:#9f9,stroke:#333,stroke-width:2px
-```
+**When a woodworker decides they want help analyzing grain patterns but keeps hand-carving because they love it—that's augmentation.**
 
-### What Capitalism Built vs What Communities Need
+**When a factory owner buys CNC machines to fire woodworkers—that's automation.**
 
-**Capitalism's "Solution":**
-- Automation that replaces workers
-- AI that makes craft obsolete
-- Efficiency that destroys meaning
-- Technology that deskills labor
+## The Problem We're Solving
 
-**Community Alternative:**
-- AI as intelligent apprentice
-- Technology that enhances skill
-- Tools that preserve craft joy
-- Systems that support livelihoods
+Capitalism sees craft work as inefficient—something to be automated away. They promise "liberation from drudgery" while actually liberating profits from workers. Their AI solutions aim to:
 
-## Core Principles
+- Replace skilled craftspeople entirely
+- Standardize unique, personal work
+- Extract craft knowledge without compensation
+- Turn meaningful work into commodity production
 
-### 1. Preserve Human Agency
-The craftsperson always remains in control. AI suggests, assists, and enhances - but never decides or creates autonomously.
+But craftspeople don't need to be "liberated" from work they love. They need tools that **free up time for the parts they enjoy most**.
 
-### 2. Enhance Not Replace
-Every feature must amplify human capability without creating dependency or replacing human judgment.
+## Our Solution: The Intelligent Apprentice
 
-### 3. Maintain Craft Value
-The human touch, creative decision-making, and craft tradition remain central to the work's value.
+Instead of AI that replaces, we're building AI that respects. Think of it as an intelligent apprentice that:
 
-### 4. Support Livelihood
-Tools must help craftspeople sustain themselves economically without commodifying their craft.
+- **Learns what you want help with** (not what someone else decides)
+- **Handles the tedious parts** you'd rather skip
+- **Enhances your creativity** without imposing solutions
+- **Preserves your expertise** and amplifies your skills
+- **Keeps you in control** of every decision
 
-## How It Works
+This isn't about making craft "more efficient." It's about giving craftspeople power over their own work.
 
-### The Intelligent Apprentice System
+## How You Stay in Control
 
-Our Craft Augmentation AI acts like a skilled apprentice who:
-- Handles tedious preparation tasks
-- Offers suggestions when asked
-- Remembers techniques and preferences
-- Never makes creative decisions alone
-- Learns from the master's approach
-- Respects craft traditions
+### 1. Task Selection Control
+**You decide what gets augmented**
+- Choose which tasks to delegate to AI
+- Keep the work that brings satisfaction
+- Change your mind anytime
+- No forced automation
 
-### Human-Centered Task Analysis
+*Example*: A potter chooses glaze chemistry help but shapes every piece by hand.
 
-The system identifies which aspects of craft work should remain human:
+### 2. Suggestion, Not Direction
+**AI proposes, you dispose**
+- All AI output is suggestions
+- You make every creative decision
+- Override anything instantly
+- AI learns your preferences
 
-**Always Human:**
-- Creative decisions and aesthetic choices
-- Quality judgments and final approval
-- Client relationships and custom design
-- Innovation and artistic expression
-- Teaching and knowledge transmission
+*Example*: AI suggests wood joints, but the woodworker chooses which to use.
 
-**Open to Assistance:**
-- Material optimization and waste reduction
-- Pattern calculations and measurements
-- Inventory tracking and supply ordering
-- Documentation and portfolio creation
-- Time estimation and project planning
+### 3. Skill-Appropriate Assistance
+**Help that matches your level**
+- Beginners get more guidance
+- Masters get subtle enhancements
+- You control the assistance level
+- Grow at your own pace
 
-### Joy and Satisfaction Detection
+*Example*: New weavers get pattern help, experienced ones get tension monitoring.
 
-The AI actively monitors and protects the aspects of craft that bring satisfaction:
-- Identifies tasks that craftspeople enjoy
-- Preserves meaningful challenges
-- Maintains flow states
-- Protects creative exploration time
-- Respects individual work rhythms
+### 4. Knowledge Sovereignty
+**Your expertise stays yours**
+- You own all your craft data
+- Share knowledge only if you choose
+- No extraction without permission
+- Attribution always maintained
 
-## Craft Domains and Examples
+*Example*: Your unique techniques remain your intellectual property.
+
+### 5. Economic Control
+**Benefits flow to you**
+- You own the augmentation tools
+- Increased value goes to you
+- No platform fees or lock-in
+- Cooperative economic models
+
+*Example*: Better work means higher prices for you, not higher profits for bosses.
+
+## Real Craft Examples: You Choose What to Augment
 
 ### Woodworking
-**Augmentation Features:**
-- Grain analysis for optimal cuts (preserves selection judgment)
-- Joint stress calculations (maintains hand-cutting skill)
-- Wood movement predictions (supports design decisions)
-- Tool maintenance reminders (extends craft tool life)
 
-**What Stays Human:**
-- Design aesthetic and artistic vision
-- Hand tool technique and feel
-- Surface finishing and texture
-- Customer consultation and customization
+**You Choose to Augment:**
+- Grain pattern analysis for optimal cuts
+- Joint strength calculations
+- Material waste optimization
 
-### Textiles and Fiber Arts
-**Augmentation Features:**
-- Pattern scaling and grading (preserves original design)
-- Tension monitoring for consistent results (maintains hand control)
-- Color combination suggestions (respects artistic choice)
-- Yarn quantity calculations (reduces waste)
+**You Keep Manual:**
+- Hand carving and shaping
+- Finish selection and application
+- Design decisions and aesthetics
 
-**What Stays Human:**
-- Color selection and artistic decisions
-- Texture and material choice
-- Stitch selection and technique
-- Final quality assessment
+**Your Benefits:**
+- More time for creative work
+- Less material waste
+- Premium pricing for optimized pieces
+- Preserved satisfaction of handwork
 
-### Culinary Arts
-**Augmentation Features:**
-- Flavor pairing suggestions (enhances creativity)
-- Timing coordination for complex meals (maintains cooking skill)
-- Inventory tracking and supplier connections (reduces waste)
-- Recipe scaling calculations (preserves technique)
+### Textile Crafts
 
-**What Stays Human:**
-- Taste and seasoning decisions
-- Presentation and plating artistry
-- Technique execution and timing
-- Menu creation and innovation
+**You Choose to Augment:**
+- Pattern generation for inspiration
+- Tension monitoring for consistency
+- Color matching assistance
 
-### Metalwork and Blacksmithing
-**Augmentation Features:**
-- Heat treatment guidance (preserves skill development)
-- Stress analysis for structural work (maintains safety)
-- Material property database (supports informed choices)
-- Project documentation for clients (showcases craft)
+**You Keep Manual:**
+- Weaving rhythm and flow
+- Texture decisions
+- Cultural pattern interpretation
 
-**What Stays Human:**
-- Hammer control and forming technique
-- Aesthetic decisions and artistic vision
-- Heat judgment and color reading
-- Custom design and problem-solving
+**Your Benefits:**
+- Faster prototyping
+- Consistent quality when needed
+- More energy for complex designs
+- Maintained connection to cloth
 
-### Pottery and Ceramics
-**Augmentation Features:**
-- Glaze chemistry calculations (enables experimentation)
-- Kiln firing schedule optimization (preserves intuition)
-- Form proportion suggestions (maintains artistic control)
-- Inventory and commission tracking (supports business)
+### Cooking & Food Craft
 
-**What Stays Human:**
-- Throwing technique and hand control
-- Form creation and artistic expression
-- Surface decoration and glazing decisions
-- Clay preparation and wedging
+**You Choose to Augment:**
+- Timing coordination for multiple dishes
+- Temperature monitoring
+- Scaling calculations
 
-## Implementation Approach
+**You Keep Manual:**
+- Flavor decisions and seasoning
+- Plating and presentation
+- Recipe creativity and adaptation
 
-### Phase 1: Craft Community Engagement (4 months)
-**Focus**: Building relationships and understanding needs
+**Your Benefits:**
+- Less stress during service
+- Consistent results when needed
+- Freedom to experiment
+- Focus on taste and creativity
 
-- Partner with craft guilds and maker spaces
-- Interview master craftspeople about their work
-- Identify what brings joy and meaning to craft
-- Understand economic pressures and opportunities
-- Map existing tools and pain points
+### Metalwork
 
-### Phase 2: Augmentation Prototyping (8 months)
-**Focus**: Co-creating enhancement tools
+**You Choose to Augment:**
+- Heat treatment calculations
+- Stress analysis for structures
+- Material compatibility checks
 
-- Develop task analysis algorithms with craftspeople
-- Build joy and satisfaction detection systems
-- Create first augmentation tools for specific crafts
-- Test with small group of craft partners
-- Iterate based on preserving craft essence
+**You Keep Manual:**
+- Hammer work and forming
+- Artistic design elements
+- Surface textures and finishes
 
-### Phase 3: Economic Integration (12 months)
-**Focus**: Supporting sustainable livelihoods
+**Your Benefits:**
+- Improved safety
+- Material optimization
+- More time for artistic work
+- Maintained physical connection
 
-- Develop fair pricing calculators
-- Create market connection tools (without commodification)
-- Build cooperative formation support
-- Implement direct sales platforms
-- Establish craft knowledge commons
+### Pottery & Ceramics
 
-## Technical Architecture
+**You Choose to Augment:**
+- Glaze chemistry calculations
+- Kiln firing schedules
+- Shrinkage predictions
 
-### System Components
+**You Keep Manual:**
+- Clay shaping and throwing
+- Surface decoration
+- Form and proportion decisions
+
+**Your Benefits:**
+- Fewer failed firings
+- Glaze innovation support
+- More studio time for creation
+- Preserved meditative practice
+
+## How It Works (Simply)
+
+### The Technology Serves You
 
 ```
-┌─────────────────────────────────────────┐
-│         Craftsperson Interface          │
-│    (Respects craft rhythm and flow)     │
-└────────────────┬────────────────────────┘
-                 │
-┌────────────────┴────────────────────────┐
-│    Human-Centered Task Analyzer         │
-│  (Identifies what should stay human)    │
-└────────────────┬────────────────────────┘
-                 │
-┌────────────────┴────────────────────────┐
-│     Intelligent Apprentice Engine       │
-│   (Provides assistance when requested)  │
-└────────────────┬────────────────────────┘
-                 │
-┌────────────────┴────────────────────────┐
-│    Craft Knowledge Preservation         │
-│  (Documents without commodifying)       │
-└─────────────────────────────────────────┘
+Your Craft Practice
+        ↓
+You Identify Tedious Tasks
+        ↓
+You Choose What to Augment
+        ↓
+AI Provides Assistance
+        ↓
+You Maintain Full Control
+        ↓
+Enhanced Craft (Still Yours)
 ```
 
-### Key Features
+### Key Technical Principles
 
-1. **Task Value Assessment**
-   - Analyzes which tasks bring satisfaction
-   - Identifies tedious vs. meaningful work
-   - Preserves challenges that build skill
-   - Protects creative decision points
+**Local-First**: Your data stays on your devices
+**Open Source**: No corporate control or lock-in
+**Modular**: Adapt tools to your specific needs
+**Privacy-Preserving**: Your techniques stay private
 
-2. **Skill Development Tracking**
-   - Monitors growing expertise
-   - Adjusts assistance level appropriately
-   - Celebrates skill milestones
-   - Supports apprenticeship learning
+No cloud dependency. No surveillance. No extraction.
 
-3. **Economic Sustainability Tools**
-   - Fair pricing based on skill and time
-   - Direct customer connections
-   - Cooperative business models
-   - Grant and funding assistance
+## Community Governance: Collective Control
 
-4. **Knowledge Commons**
-   - Technique documentation with attribution
-   - Story and context preservation
-   - Intergenerational knowledge transfer
-   - Protection of traditional methods
+### How Communities Govern Their Tools
 
-## Community Control
+**Craft Guilds Decide:**
+- Feature development priorities
+- Automation boundaries
+- Knowledge sharing protocols
+- Economic models
 
-### Craftsperson Sovereignty
-- Complete control over automation boundaries
-- Individual override on any AI assistance
-- Data ownership and portability
-- Algorithm transparency and adjustment
+**Democratic Processes:**
+- One member, one vote
+- Consensus on major changes
+- Rotating leadership
+- Transparent decisions
 
-### Guild Governance
-- Collective decisions on feature development
-- Peer validation of augmentation ethics
-- Traditional knowledge protection protocols
-- Economic model participation choices
+**Protected Principles:**
+- Worker control is non-negotiable
+- Benefits flow to practitioners
+- No venture capital influence
+- Community ownership forever
 
-### Cultural Respect
-- Indigenous craft method protection
-- Traditional technique preservation
-- Regional variation support
-- Anti-commodification safeguards
+## The Economic Model: Benefits Flow to Workers
 
-## Success Metrics
+### Traditional Automation
+- **Owner buys machines** → Fires workers → Keeps all profits
+- **Workers displaced** → Skills devalued → Race to bottom
 
-### What We Measure
-- **Craft Preservation**: Active practitioners maintained or increased
-- **Skill Development**: New apprentices successfully trained
-- **Economic Viability**: Living wages achieved by craftspeople
-- **Joy Maintenance**: Satisfaction and meaning in craft work preserved
-- **Knowledge Transfer**: Techniques passed to next generation
+### Craft Augmentation
+- **Workers control tools** → Enhanced work → Higher value created
+- **Workers keep benefits** → Skills preserved → Sustainable livelihood
 
-### What We Don't Measure
-- ❌ Production speed increases
-- ❌ Labor cost reductions
-- ❌ Automation percentages
-- ❌ Efficiency optimizations
-- ❌ Output maximization
+### Concrete Benefits
+- Charge more for enhanced quality
+- Take on more ambitious projects
+- Reduce material waste
+- Build reputation for excellence
+- Maintain work-life balance
 
-## Real Impact Stories
 
-### The Furniture Maker's Apprentice
-A solo furniture maker uses the system to:
-- Calculate joint angles while hand-cutting remains theirs
-- Track wood inventory without losing shop time
-- Document custom pieces for portfolio
-- Price work fairly for sustainable income
-- **Result**: 40% more creative time, living wage maintained
 
-### The Weaving Cooperative
-A textile cooperative implements augmentation for:
-- Pattern sharing while preserving individual style
-- Collaborative inventory management
-- Fair pricing across different skill levels
-- Market connections without middlemen
-- **Result**: All members earning sustainable income
-
-### The Pottery Studio
-A ceramics studio uses AI assistance for:
-- Glaze recipe experimentation and records
-- Kiln scheduling optimization
-- Student progress tracking
-- Commission management
-- **Result**: More time for teaching and creating
-
-## Getting Involved
+## Getting Started
 
 ### For Craftspeople
-1. Share what brings joy to your craft
-2. Identify tedious tasks you'd gladly delegate
-3. Help define automation boundaries
-4. Test augmentation tools in your practice
-5. Join governance discussions
+
+**1. Assess Your Needs**
+- What tasks drain your energy?
+- What work brings you joy?
+- Where could help add value?
+
+**2. Connect With Others**
+- Find local craft communities
+- Join augmentation discussions
+- Share your priorities
+
+**3. Start Small**
+- Try one augmentation
+- Keep full control
+- Expand as comfortable
 
 ### For Developers
-1. Learn from master craftspeople
-2. Understand craft values and traditions
-3. Build with respect for human skill
-4. Focus on enhancement not efficiency
-5. Prioritize craftsperson control
+
+**1. Understand the Principle**
+- Worker control is paramount
+- Respect craft knowledge
+- Preserve human agency
+
+**2. Read the Full Spec**
+- [Technical Specification](/context-network/analysis/implementations/technical_specifications/craft_augmentation_ai.md)
+- Study control mechanisms
+- Learn governance models
+
+**3. Build With Communities**
+- Partner with craftspeople
+- Co-design everything
+- Test in real workshops
 
 ### For Communities
-1. Support local craft economies
-2. Fund augmentation development
-3. Connect craftspeople with resources
-4. Celebrate human-made goods
-5. Resist automation pressure
 
-### For Funders
-1. Invest in craft preservation
-2. Support cooperative development
-3. Fund anti-automation research
-4. Enable sustainable craft livelihoods
-5. Value meaning over efficiency
+**1. Organize Your Guild**
+- Gather interested craftspeople
+- Define your values
+- Set governance structure
 
-## Current Status
+**2. Identify Priorities**
+- Survey member needs
+- Vote on features
+- Plan development
 
-**Development Stage**: Design Complete (Stage 5/7)
-- ✅ Opportunity identified and validated
-- ✅ Core principles established
-- ✅ Technical architecture designed
-- ✅ Craft domains mapped
-- ✅ Implementation plan created
-- ⏳ Prototype development beginning
-- ⏳ Community partnerships forming
+**3. Seek Resources**
+- Apply for grants
+- Build cooperatives
+- Share costs fairly
 
-## Why This Challenges Capitalism
+## The Future We're Building
 
-This approach directly confronts capitalism's core assumptions:
+Imagine a world where:
+- Craftspeople thrive with AI assistance they control
+- Traditional skills are preserved and enhanced
+- Workers own their tools and their futures
+- Technology serves community needs, not capital
+- Meaningful work remains meaningful
 
-1. **Efficiency Isn't Everything**: We optimize for joy, meaning, and human development
-2. **Automation Isn't Inevitable**: We choose what to augment and what to preserve
-3. **Craft Has Intrinsic Value**: Beyond commodity production and profit extraction
-4. **Workers Control Technology**: Not the other way around
-5. **Tradition Matters**: Indigenous and traditional knowledge deserves protection
+This isn't just about better tools. It's about **who controls technology** and **who benefits from it**.
 
-## Next Steps
 
-Ready to help build AI that serves craftspeople rather than replacing them?
 
-- [View Full Technical Specification](https://github.com/Myceliary/myceliary/blob/main/context-network/analysis/implementations/technical_specifications/craft_augmentation_ai.md)
-- [Join Craft Augmentation Working Group](https://forum.myceliary.org/craft-augmentation)
-- [Connect with Partner Guilds](/community/craft-guilds)
-- [Support Development](/donate/craft-augmentation)
+## Join the Movement
+
+Ready to build AI that enhances rather than replaces?
+
+- **Learn More**: Read our [full technical specification](/context-network/analysis/implementations/technical_specifications/craft_augmentation_ai.md)
+- **Get Involved**: Join the [implementation working group](https://forum.myceliary.org/craft-augmentation)
+- **Find Funding**: Access [craft preservation grants](/resources/funding)
+- **Connect**: Meet other [craft communities](/community/guilds)
 
 ---
 
-*"The future of craft isn't automation - it's augmentation that preserves what makes us human while enhancing what we can create together."*
+*"The question isn't whether AI will change craft work. The question is whether craftspeople will control that change. With augmentation, you stay in charge."*
+
+---
+
+[← Back to Augmentation Overview](augmentation-not-automation) | [Technical Specification →](/context-network/analysis/implementations/technical_specifications/craft_augmentation_ai.md)
