@@ -258,6 +258,12 @@ A: Each community scales to meet its needs, not infinite growth.
 **Q: How do we prevent this becoming automation eventually?**
 A: Community ownership and governance with clear principles embedded in the technology itself.
 
+## Specific Implementation: Craft Augmentation AI
+
+We've developed a complete technical specification for AI that enhances traditional crafts without replacing craftspeople. This "Intelligent Apprentice System" preserves the joy, meaning, and livelihood of craft work while providing tools that amplify human creativity and skill.
+
+[Learn more about Craft Augmentation AI →](craft-augmentation)
+
 ## Join the Movement
 
 Ready to build AI that enhances rather than replaces human craft?
