@@ -321,6 +321,11 @@ A: The technology can support learning democratic practices, but community capac
 **Q: How is this different from online polls or surveys?**
 A: It amplifies collective wisdom and synthesis, not just opinion aggregation.
 
+## Specific Implementations
+
+### Consensus Engine for Participatory Budgeting
+We've developed a complete technical specification for a Consensus Engine that implements these principles for participatory budgeting. [Learn more about the Consensus Engine →](consensus-engine)
+
 ## Join the Movement
 
 Ready to build AI that serves collective wisdom rather than individual productivity?
